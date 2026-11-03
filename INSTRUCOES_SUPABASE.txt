@@ -1,0 +1,24 @@
+LM WEAR — LIGAÇÃO DO CATÁLOGO AO SUPABASE
+
+Este pacote contém três ficheiros para atualizar o repositório GitHub existente:
+- index.html: carrega a biblioteca Supabase e a configuração.
+- script.js: tenta carregar os produtos ativos da tabela public.products.
+- supabase-config.js: URL do projeto e publishable key pública.
+
+O catálogo local products.js continua como fallback. Se a ligação ao Supabase falhar, a loja mantém o catálogo local.
+
+INSTALAÇÃO NO GITHUB:
+1. Extrair este ZIP no computador.
+2. Abrir o repositório GitHub Settssu/lmwear.
+3. Substituir index.html e script.js pelos ficheiros deste pacote.
+4. Adicionar supabase-config.js à raiz do repositório.
+5. Fazer Commit changes. A Vercel deverá iniciar novo deployment automaticamente.
+6. Quando terminar, abrir https://lmwear.vercel.app e confirmar o catálogo.
+
+IMPORTANTE:
+- Não substituir products.js nem a pasta assets.
+- Não adicionar Secret key nem service_role key ao browser/GitHub.
+- A publishable key é pública; a segurança depende também das políticas RLS.
+- Esta atualização liga apenas a leitura do catálogo. Não ativa checkout, pagamentos, criação pública de encomendas nem painel administrativo.
+- A leitura usa external_id, name, description, category, price, image_url, sizes e is_active da tabela public.products.
+- As imagens continuam a ser servidas da pasta assets existente.
