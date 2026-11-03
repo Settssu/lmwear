@@ -1,0 +1,35 @@
+LM WEAR — NOVA VERSÃO / PREPARAÇÃO PARA PUBLICAÇÃO
+
+O QUE FOI MELHORADO
+- Mantido o catálogo e os ativos de produto da versão anterior.
+- Mensagem comercial alinhada: portes gratuitos para o cliente e entrega estimada de 2–3 semanas.
+- Informação de apoio, FAQ e contacto mais claros.
+- Metadados SEO e Open Graph, favicon e robots.txt. O sitemap e o canonical devem ser configurados depois de conhecer o URL final atribuído pela Vercel.
+- Cabeçalhos básicos de segurança e cache via vercel.json.
+- Páginas próprias de Termos, Devoluções/Reembolsos e Privacidade.
+- Removida a finalização por WhatsApp: o carrinho é apenas uma lista de consulta enquanto o checkout está em preparação.
+- Não existem gateways de pagamento ligados, encomendas reais, painel de administração, stock sincronizado ou ligação automática aos fornecedores.
+
+ANTES DE SUBMETER À REVOLUT OU ABRIR VENDAS
+1. Publicar na Vercel e testar o URL em janela privada/dispositivo móvel.
+2. Confirmar que a loja e os contactos pertencem efetivamente ao titular da conta Revolut Pro.
+3. Completar identificação legal do vendedor, NIF, morada profissional e restantes dados obrigatórios. Não inventar nem publicar dados fictícios.
+4. Rever termos, privacidade/RGPD, devoluções, garantia, resolução alternativa de litígios e informação pré-contratual com base na situação real do negócio.
+5. Confirmar com fornecedores, por escrito, preços, disponibilidade, qualidade, prazos, destinos, devoluções e tratamento de dados/moradas dos clientes.
+6. Confirmar que os portes são realmente suportados pelo vendedor em todos os destinos anunciados; confirmar alfândegas e eventuais encargos antes de prometer entregas universais.
+7. Confirmar regime fiscal, faturação e obrigações legais antes de aceitar vendas.
+8. Só depois implementar checkout real, pagamentos, notificações de pagamento, backend, autenticação de administração, stock/reservas e emails.
+
+CATÁLOGO
+O catálogo foi preservado. Confirma manualmente cada nome, marca, imagem, preço, tamanho e descrição antes de vender. Não anunciar como original/autêntico sem documentação do fornecedor.
+
+PUBLICAÇÃO GRATUITA NA VERCEL
+1. Extrair o ZIP.
+2. Entrar em https://vercel.com/new e importar o repositório GitHub ou utilizar a opção de deploy compatível com projeto estático.
+3. Framework Preset: Other. Build Command: vazio. Output Directory: . (raiz do projeto).
+4. Publicar e copiar o domínio *.vercel.app gerado pela Vercel.
+5. Abrir o URL em janela privada e testar imagens, pesquisa, filtros, idiomas, moedas, carrinho e páginas legais.
+6. Atualizar canonical/sitemap/robots se o domínio gerado for diferente de lmwear.vercel.app.
+
+NOTA
+Este ZIP é uma versão estática de preparação. A publicação não garante aprovação da Revolut nem substitui documentos de identificação comercial.
