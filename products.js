@@ -5545,17 +5545,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 Básicas — Brancas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 Básicas — Brancas",
-      "en": "Nike Air Force 1 Básicas — Brancas",
-      "es": "Nike Air Force 1 Básicas — Brancas",
-      "fr": "Nike Air Force 1 Básicas — Brancas",
-      "de": "Nike Air Force 1 Básicas — Brancas"
+      "en": "Nike Air Force 1 Basic — White",
+      "es": "Nike Air Force 1 Básicas — Blancas",
+      "fr": "Nike Air Force 1 classiques — blanches",
+      "de": "Nike Air Force 1 Basic — Weiß"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 Básicas — Brancas — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR.",
-      "es": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR.",
-      "fr": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR.",
-      "de": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR."
+      "en": "Nike Air Force 1 Basic — White — selected by LM WEAR.",
+      "es": "Nike Air Force 1 Básicas — Blancas — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 classiques — blanches — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 Basic — Weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -5581,17 +5581,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 Básicas — Pretas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 Básicas — Pretas",
-      "en": "Nike Air Force 1 Básicas — Pretas",
-      "es": "Nike Air Force 1 Básicas — Pretas",
-      "fr": "Nike Air Force 1 Básicas — Pretas",
-      "de": "Nike Air Force 1 Básicas — Pretas"
+      "en": "Nike Air Force 1 Basic — Black",
+      "es": "Nike Air Force 1 Básicas — Negras",
+      "fr": "Nike Air Force 1 classiques — noires",
+      "de": "Nike Air Force 1 Basic — Schwarz"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 Básicas — Pretas — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 Básicas — Pretas — selected by LM WEAR.",
-      "es": "Nike Air Force 1 Básicas — Pretas — selected by LM WEAR.",
-      "fr": "Nike Air Force 1 Básicas — Pretas — selected by LM WEAR.",
-      "de": "Nike Air Force 1 Básicas — Pretas — selected by LM WEAR."
+      "en": "Nike Air Force 1 Basic — Black — selected by LM WEAR.",
+      "es": "Nike Air Force 1 Básicas — Negras — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 classiques — noires — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 Basic — Schwarz — ausgewählt von LM WEAR."
     }
   }
 ];
