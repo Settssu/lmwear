@@ -5593,41 +5593,5 @@ window.LM_PRODUCTS = [
       "fr": "Nike Air Force 1 Básicas — Pretas — selected by LM WEAR.",
       "de": "Nike Air Force 1 Básicas — Pretas — selected by LM WEAR."
     }
-  },
-  {
-    "id": "lm204",
-    "name": "Nike Air Force 1 Básicas — Brancas",
-    "category": "air force 1",
-    "categoryName": "Nike Air Force 1",
-    "image": "assets/Ténis Nike Air Force 1 Brancos.png",
-    "price": 27.4,
-    "sizes": [
-      "36",
-      "37",
-      "38",
-      "39",
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45",
-      "46"
-    ],
-    "description": "Nike Air Force 1 Básicas — Brancas — selecionado pela LM WEAR.",
-    "names": {
-      "pt": "Nike Air Force 1 Básicas — Brancas",
-      "en": "Nike Air Force 1 Básicas — Brancas",
-      "es": "Nike Air Force 1 Básicas — Brancas",
-      "fr": "Nike Air Force 1 Básicas — Brancas",
-      "de": "Nike Air Force 1 Básicas — Brancas"
-    },
-    "descriptions": {
-      "pt": "Nike Air Force 1 Básicas — Brancas — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR.",
-      "es": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR.",
-      "fr": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR.",
-      "de": "Nike Air Force 1 Básicas — Brancas — selected by LM WEAR."
-    }
   }
 ];
