@@ -3487,26 +3487,26 @@ window.LM_PRODUCTS = [
   },
   {
     "id": "lm102",
-    "name": "Bugatti — Supercarro Azul",
+    "name": "Ford GT — Supercarro Azul",
     "category": "lego technic",
     "categoryName": "LEGO Technic",
     "image": "assets/p102.jpg",
     "price": 76.7,
     "sizes": [],
-    "description": "Bugatti — Supercarro Azul — selecionado pela LM WEAR.",
+    "description": "Ford GT — Supercarro Azul — selecionado pela LM WEAR.",
     "names": {
-      "pt": "Bugatti — Supercarro Azul",
-      "en": "Bugatti — blue supercar",
-      "es": "Bugatti — superdeportivo azul",
-      "fr": "Bugatti — Supercarro bleu",
-      "de": "Bugatti — Supercarro blau"
+      "pt": "Ford GT — Supercarro Azul",
+      "en": "Ford GT — Blue Supercar",
+      "es": "Ford GT — Superdeportivo azul",
+      "fr": "Ford GT — Supercar bleu",
+      "de": "Ford GT — Blauer Supersportwagen"
     },
     "descriptions": {
-      "pt": "Bugatti — Supercarro Azul — selecionado pela LM WEAR.",
-      "en": "Bugatti — blue supercar — selected by LM WEAR.",
-      "es": "Bugatti — superdeportivo azul — seleccionado por LM WEAR.",
-      "fr": "Bugatti — Supercarro bleu — sélectionné par LM WEAR.",
-      "de": "Bugatti — Supercarro blau — ausgewählt von LM WEAR."
+      "pt": "Ford GT — Supercarro Azul — selecionado pela LM WEAR.",
+      "en": "Ford GT — Blue Supercar — selected by LM WEAR.",
+      "es": "Ford GT — Superdeportivo azul — seleccionado por LM WEAR.",
+      "fr": "Ford GT — Supercar bleu — sélectionné par LM WEAR.",
+      "de": "Ford GT — Blauer Supersportwagen — ausgewählt von LM WEAR."
     },
     "categoryNames": {
       "pt": "LEGO Technic",
@@ -15304,6 +15304,111 @@ window.LM_PRODUCTS = [
       "es": "Conjunto de dormir Victoria’s Secret — conjunto de pijama rosa Victoria’s Secret — seleccionado por LM WEAR.",
       "fr": "Ensemble de nuit Victoria’s Secret — ensemble de pijama rose Victoria’s Secret — sélectionné par LM WEAR.",
       "de": "Victoria’s Secret Schlafanzug-Set — Set de pijama rosa Victoria’s Secret — ausgewählt von LM WEAR."
+    }
+  },
+  {
+    "id": "lm440",
+    "name": "LEGO Technic — Ferrari 488 GTE",
+    "category": "lego technic",
+    "categoryName": "LEGO Technic",
+    "categoryNames": {
+      "pt": "LEGO Technic",
+      "en": "LEGO Technic",
+      "es": "LEGO Technic",
+      "fr": "LEGO Technic",
+      "de": "LEGO Technic"
+    },
+    "image": "assets/p098.jpg",
+    "price": 76.7,
+    "sizes": [],
+    "description": "LEGO Technic — Ferrari 488 GTE — selecionado pela LM WEAR.",
+    "names": {
+      "pt": "LEGO Technic — Ferrari 488 GTE",
+      "en": "LEGO Technic — Ferrari 488 GTE",
+      "es": "LEGO Technic — Ferrari 488 GTE",
+      "fr": "LEGO Technic — Ferrari 488 GTE",
+      "de": "LEGO Technic — Ferrari 488 GTE"
+    },
+    "descriptions": {
+      "pt": "LEGO Technic — Ferrari 488 GTE — selecionado pela LM WEAR.",
+      "en": "LEGO Technic — Ferrari 488 GTE — selected by LM WEAR.",
+      "es": "LEGO Technic — Ferrari 488 GTE — seleccionado por LM WEAR.",
+      "fr": "LEGO Technic — Ferrari 488 GTE — sélectionné par LM WEAR.",
+      "de": "LEGO Technic — Ferrari 488 GTE — ausgewählt von LM WEAR."
+    }
+  },
+  {
+    "id": "lm441",
+    "name": "LEGO Technic — Ford Bronco Raptor Laranja",
+    "category": "lego technic",
+    "categoryName": "LEGO Technic",
+    "categoryNames": {
+      "pt": "LEGO Technic",
+      "en": "LEGO Technic",
+      "es": "LEGO Technic",
+      "fr": "LEGO Technic",
+      "de": "LEGO Technic"
+    },
+    "image": "assets/p100.jpg",
+    "price": 76.7,
+    "sizes": [],
+    "description": "LEGO Technic — Ford Bronco Raptor Laranja — selecionado pela LM WEAR.",
+    "names": {
+      "pt": "LEGO Technic — Ford Bronco Raptor Laranja",
+      "en": "LEGO Technic — Orange Ford Bronco Raptor",
+      "es": "LEGO Technic — Ford Bronco Raptor naranja",
+      "fr": "LEGO Technic — Ford Bronco Raptor orange",
+      "de": "LEGO Technic — Orangefarbener Ford Bronco Raptor"
+    },
+    "descriptions": {
+      "pt": "LEGO Technic — Ford Bronco Raptor Laranja — selecionado pela LM WEAR.",
+      "en": "LEGO Technic — Orange Ford Bronco Raptor — selected by LM WEAR.",
+      "es": "LEGO Technic — Ford Bronco Raptor naranja — seleccionado por LM WEAR.",
+      "fr": "LEGO Technic — Ford Bronco Raptor orange — sélectionné par LM WEAR.",
+      "de": "LEGO Technic — Orangefarbener Ford Bronco Raptor — ausgewählt von LM WEAR."
+    }
+  },
+  {
+    "id": "lm442",
+    "name": "Ténis Louis Vuitton — Brancos",
+    "category": "lv trainers",
+    "categoryName": "Ténis Louis Vuitton",
+    "categoryNames": {
+      "pt": "Ténis Louis Vuitton",
+      "en": "Louis Vuitton Sneakers",
+      "es": "Zapatillas Louis Vuitton",
+      "fr": "Baskets Louis Vuitton",
+      "de": "Louis Vuitton Sneaker"
+    },
+    "image": "assets/p119.jpg",
+    "price": 71.72,
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "description": "Ténis Louis Vuitton — Brancos — selecionado pela LM WEAR.",
+    "names": {
+      "pt": "Ténis Louis Vuitton — Brancos",
+      "en": "Louis Vuitton Sneakers — White",
+      "es": "Zapatillas Louis Vuitton — Blancas",
+      "fr": "Baskets Louis Vuitton — Blanches",
+      "de": "Louis Vuitton Sneaker — Weiß"
+    },
+    "descriptions": {
+      "pt": "Ténis Louis Vuitton — Brancos — selecionado pela LM WEAR.",
+      "en": "Louis Vuitton Sneakers — White — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — Blancas — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — Blanches — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Weiß — ausgewählt von LM WEAR."
     }
   }
 ];
