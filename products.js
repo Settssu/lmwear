@@ -15410,5 +15410,48 @@ window.LM_PRODUCTS = [
       "fr": "Baskets Louis Vuitton — Blanches — sélectionné par LM WEAR.",
       "de": "Louis Vuitton Sneaker — Weiß — ausgewählt von LM WEAR."
     }
+  },
+  {
+    "id": "lm443",
+    "name": "Nike Air Force 1 High — Brancas com tira",
+    "category": "air force 1",
+    "categoryName": "Nike Air Force 1",
+    "categoryNames": {
+      "pt": "Nike Air Force 1",
+      "en": "Nike Air Force 1",
+      "es": "Nike Air Force 1",
+      "fr": "Nike Air Force 1",
+      "de": "Nike Air Force 1"
+    },
+    "image": "assets/p204.png",
+    "price": 52.16,
+    "sizes": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "description": "Nike Air Force 1 High — Brancas com tira — selecionado pela LM WEAR.",
+    "names": {
+      "pt": "Nike Air Force 1 High — Brancas com tira",
+      "en": "Nike Air Force 1 High — White with strap",
+      "es": "Nike Air Force 1 High — Blancas con correa",
+      "fr": "Nike Air Force 1 High — Blanches à bride",
+      "de": "Nike Air Force 1 High — Weiß mit Riemen"
+    },
+    "descriptions": {
+      "pt": "Nike Air Force 1 High — Brancas com tira — selecionado pela LM WEAR.",
+      "en": "Nike Air Force 1 High — White with strap — selected by LM WEAR.",
+      "es": "Nike Air Force 1 High — Blancas con correa — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 High — Blanches à bride — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 High — Weiß mit Riemen — ausgewählt von LM WEAR."
+    }
   }
 ];
