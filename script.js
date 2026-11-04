@@ -1,5 +1,13 @@
 const $=s=>document.querySelector(s);
-const fallbackProducts=window.LM_PRODUCTS||[];
+// Normaliza imagens antigas (assets/p001.jpg) e imagens da Supabase (p001.jpg)
+// para os ficheiros publicados na raiz do site (/p001.jpg).
+const normalizeImagePath=value=>{
+  if(!value) return "";
+  const path=String(value).trim();
+  if(/^https?:\/\//i.test(path) || path.startsWith("data:")) return path;
+  return "/"+path.replace(/^\/+/,"").replace(/^assets\//i,"");
+};
+const fallbackProducts=(window.LM_PRODUCTS||[]).map(p=>({...p,image:normalizeImagePath(p.image)}));
 let products=fallbackProducts;
 const pname=p=>(p.names&&p.names[lang])||p.name;
 let cart=JSON.parse(localStorage.getItem("lmw_cart")||"[]"), wishes=JSON.parse(localStorage.getItem("lmw_wish")||"[]"), currency="EUR", lang="pt";
@@ -37,7 +45,7 @@ $("#whatsappCheckout").onclick=()=>{if(!cart.length){alert("Your bag is empty.")
       return {...original,id:row.external_id,name:row.name||original.name||row.external_id,
         category:row.category||original.category||"other",
         categoryName:original.categoryName||row.category||"Other",
-        image:row.image_url||original.image||"",
+        image:normalizeImagePath(row.image_url||original.image||""),
         price:row.price===null?null:Number(row.price),
         sizes:Array.isArray(row.sizes)?row.sizes:(original.sizes||[]),
         description:row.description||original.description||"",
