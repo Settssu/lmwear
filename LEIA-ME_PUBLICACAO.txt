@@ -1,0 +1,24 @@
+LM WEAR — PACOTE DE PUBLICAÇÃO RÁPIDA
+
+CONTEÚDO
+- Site completo pronto para deploy na Vercel.
+- Catálogo atualizado: 203 produtos (base atual + 2 Air Force 1 básicos).
+- Imagens dos Air Force 1 básicos preto e branco incluídas.
+- Preços corrigidos no catálogo local.
+
+PREÇOS APLICADOS
+- Air Force 1 básicos preto e branco: 27,40 €.
+- Restantes Air Force 1: 52,16 €.
+- LEGO Technic existentes: 76,70 €, exceto Porsche 911 GT3 RS (70,48 €).
+- Ford Bronco vermelho: 152,86 €.
+
+PUBLICAÇÃO
+1. Extrai o ZIP.
+2. Na Vercel, abre o projeto LM WEAR e faz upload/deploy da pasta lmwear_publicacao (ou liga o projeto ao GitHub e envia os ficheiros para o repositório).
+3. Depois do deploy, testa a página inicial, pesquisa, filtros, imagens e preços no telemóvel e computador.
+
+SUPABASE
+Se o projeto que está publicado continua a carregar os produtos da tabela public.products no Supabase, executa SUPABASE_CORRECOES_URGENTES.sql no SQL Editor do Supabase depois de enviares também as imagens para o alojamento do site. Se estiver a usar o catálogo local deste pacote, não precisas do SQL para ver os preços no site.
+
+IMPORTANTE
+Este pacote não configura pagamentos nem valida a situação fiscal/legal da atividade. Antes de aceitar encomendas e pagamentos reais, confirma esses pontos e as condições comerciais aplicáveis.
