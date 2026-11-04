@@ -865,7 +865,7 @@ window.LM_PRODUCTS = [
     "category": "airpods",
     "categoryName": "AirPods",
     "image": "assets/p021.jpg",
-    "price": 16.2,
+    "price": 25.4,
     "sizes": [],
     "description": "Apple AirPods — Pro — Branco — selecionado pela LM WEAR.",
     "names": {
@@ -3491,7 +3491,7 @@ window.LM_PRODUCTS = [
     "category": "lego technic",
     "categoryName": "LEGO Technic",
     "image": "assets/p102.jpg",
-    "price": 76.7,
+    "price": 70.48,
     "sizes": [],
     "description": "Bugatti — Supercarro Azul — selecionado pela LM WEAR.",
     "names": {
