@@ -865,7 +865,7 @@ window.LM_PRODUCTS = [
     "category": "airpods",
     "categoryName": "AirPods",
     "image": "assets/p021.jpg",
-    "price": 16.2,
+    "price": 25.4,
     "sizes": [],
     "description": "Apple AirPods — Pro — Branco — selecionado pela LM WEAR.",
     "names": {
@@ -7021,7 +7021,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Air Force 1 em tons neutros.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7064,7 +7064,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Air Force 1 Rosa e Bordô.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7107,7 +7107,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas brancas com detalhes pretos Air Force 1.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7150,7 +7150,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas brancas com detalhes pretos em estúdio.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7193,7 +7193,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas creme com detalhes castanhos e vermelhos.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7236,7 +7236,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Nike Air Force 1 a Preto e Branco.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7279,7 +7279,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Nike Air Force 1 Just Do It.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7322,7 +7322,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Nike Air Force 1 Pretas.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7365,7 +7365,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Nike Air Force 1 Turquesa e Pretas.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7408,7 +7408,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Sapatilhas Nike brancas com padrão floral azul.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7451,7 +7451,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis Air Force 1 com pingente dourado.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7494,7 +7494,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis brancos com detalhes pretos em estúdio.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7537,7 +7537,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis brancos com detalhes pretos.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7580,7 +7580,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis brancos com detalhes verdes em destaque.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7623,7 +7623,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis Nike Air Force 1 a preto e branco.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7666,7 +7666,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis Nike Air Force 1 Aqua e Laranja.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7709,7 +7709,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis Nike Air Force 1 pretos em estúdio.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7752,7 +7752,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis Nike Supreme Brancos em Estúdio.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7795,7 +7795,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis Nike Supreme pretos minimalistas.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7838,7 +7838,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis pretos com detalhes turquesa.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7881,7 +7881,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Force 1"
     },
     "image": "assets/Ténis pretos estilo Air Force 1.png",
-    "price": null,
+    "price": 52.16,
     "sizes": [
       "36",
       "37",
@@ -7924,7 +7924,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 1 Low"
     },
     "image": "assets/Par de sapatilhas retro em tons cinza e creme.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -7967,7 +7967,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 1 Low"
     },
     "image": "assets/Par de Ténis Pretos com Detalhes Vermelhos.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8010,7 +8010,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 1 Low"
     },
     "image": "assets/Sapatilhas Castanhas Nike Air Jordan 1 Low.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8053,7 +8053,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 1 Low"
     },
     "image": "assets/Sapatilhas Nike Air Jordan em Rosa e Vermelho.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8096,7 +8096,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 1 Low"
     },
     "image": "assets/Sapatilhas Pretas com Costura Branca.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8139,7 +8139,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 1 Low"
     },
     "image": "assets/Sapatilhas Rosa Pastel e Creme em Estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8182,7 +8182,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 4"
     },
     "image": "assets/Par Air Jordan 4 Branco em Estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8225,7 +8225,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 4"
     },
     "image": "assets/Par de sapatilhas pretas em estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8268,7 +8268,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 4"
     },
     "image": "assets/Sapatilhas brancas desportivas em estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8311,7 +8311,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 4"
     },
     "image": "assets/Sapatilhas Pretas e Amarelas em Estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8354,7 +8354,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 4"
     },
     "image": "assets/Sapatilhas pretas e vermelhas em estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8397,7 +8397,7 @@ window.LM_PRODUCTS = [
       "de": "Air Jordan 4"
     },
     "image": "assets/Ténis pretos e brancos em estúdio.png",
-    "price": null,
+    "price": 70.42,
     "sizes": [
       "36",
       "37",
@@ -8440,7 +8440,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods"
     },
     "image": "assets/Desembalagem dos AirPods Pro em Branco.png",
-    "price": null,
+    "price": 25.4,
     "sizes": [],
     "description": "Apple AirPods — dos AirPods Pro em Branco — selecionado pela LM WEAR.",
     "names": {
@@ -8471,7 +8471,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods"
     },
     "image": "assets/Unboxing dos AirPods em Estúdio.png",
-    "price": null,
+    "price": 16.2,
     "sizes": [],
     "description": "Apple AirPods — dos AirPods — selecionado pela LM WEAR.",
     "names": {
@@ -8502,7 +8502,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods Max"
     },
     "image": "assets/AirPods Max e acessórios Apple em branco.png",
-    "price": null,
+    "price": 40.7,
     "sizes": [],
     "description": "Apple AirPods Max — AirPods Max e acessórios Apple em branco — selecionado pela LM WEAR.",
     "names": {
@@ -8533,7 +8533,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods Max"
     },
     "image": "assets/AirPods Max_ conjunto coral completo.png",
-    "price": null,
+    "price": 40.7,
     "sizes": [],
     "description": "Apple AirPods Max — AirPods Max conjunto coral completo — selecionado pela LM WEAR.",
     "names": {
@@ -8564,7 +8564,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods Max"
     },
     "image": "assets/Desembalagem dos AirPods Max Azuis.png",
-    "price": null,
+    "price": 40.7,
     "sizes": [],
     "description": "Apple AirPods Max — dos AirPods Max Azuis — selecionado pela LM WEAR.",
     "names": {
@@ -8595,7 +8595,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods Max"
     },
     "image": "assets/Desembalagem dos AirPods Max Verdes.png",
-    "price": null,
+    "price": 40.7,
     "sizes": [],
     "description": "Apple AirPods Max — dos AirPods Max Verdes — selecionado pela LM WEAR.",
     "names": {
@@ -8626,7 +8626,7 @@ window.LM_PRODUCTS = [
       "de": "Apple AirPods Max"
     },
     "image": "assets/Unboxing dos AirPods Max em branco.png",
-    "price": null,
+    "price": 40.7,
     "sizes": [],
     "description": "Apple AirPods Max — dos AirPods Max em branco — selecionado pela LM WEAR.",
     "names": {
@@ -8657,7 +8657,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris T-Shirt"
     },
     "image": "assets/T-shirt branca com logótipo vermelho Ami.png",
-    "price": null,
+    "price": 26.84,
     "sizes": [
       "S",
       "M",
@@ -8693,7 +8693,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris T-Shirt"
     },
     "image": "assets/T-shirt Preta com Logótipo Bordado.png",
-    "price": null,
+    "price": 26.84,
     "sizes": [
       "S",
       "M",
@@ -8729,7 +8729,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris Sweatshirt"
     },
     "image": "assets/Camisola azul-marinho com logótipo coração-A ami.png",
-    "price": null,
+    "price": 78.76,
     "sizes": [
       "S",
       "M",
@@ -8765,7 +8765,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris Sweatshirt"
     },
     "image": "assets/Camisola branca com emblema AMI.png",
-    "price": null,
+    "price": 78.76,
     "sizes": [
       "S",
       "M",
@@ -8801,7 +8801,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris Sweatshirt"
     },
     "image": "assets/Camisola Preta com Logótipo Coração-A.png",
-    "price": null,
+    "price": 78.76,
     "sizes": [
       "S",
       "M",
@@ -8837,7 +8837,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris Sweatshirt"
     },
     "image": "assets/Camisola rosa com logótipo AMI.png",
-    "price": null,
+    "price": 78.76,
     "sizes": [
       "S",
       "M",
@@ -8873,7 +8873,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris Sweatshirt"
     },
     "image": "assets/Sweatshirt Cinzenta com Patch Coração A.png",
-    "price": null,
+    "price": 78.76,
     "sizes": [
       "S",
       "M",
@@ -8909,7 +8909,7 @@ window.LM_PRODUCTS = [
       "de": "AMI Paris Sweatshirt"
     },
     "image": "assets/Sweatshirt Preto com Patch Coração-A.png",
-    "price": null,
+    "price": 78.76,
     "sizes": [
       "S",
       "M",
@@ -8945,7 +8945,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Rucksack"
     },
     "image": "assets/Mochila Nike Azul com Cordões Brancos.png",
-    "price": null,
+    "price": 22.14,
     "sizes": [],
     "description": "Mochila Nike — Mochila Nike Azul com Cordões Brancos — selecionado pela LM WEAR.",
     "names": {
@@ -8976,7 +8976,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Rucksack"
     },
     "image": "assets/Mochila Nike Cinzenta com Cordão Frontal.png",
-    "price": null,
+    "price": 22.14,
     "sizes": [],
     "description": "Mochila Nike — Mochila Nike Cinzenta com Cordão Frontal — selecionado pela LM WEAR.",
     "names": {
@@ -9007,7 +9007,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Rucksack"
     },
     "image": "assets/Mochila Nike preta com cordão elástico.png",
-    "price": null,
+    "price": 22.14,
     "sizes": [],
     "description": "Mochila Nike — Mochila Nike preta com cordão elástico — selecionado pela LM WEAR.",
     "names": {
@@ -9038,7 +9038,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Rucksack"
     },
     "image": "assets/Mochila Nike preta com cordões elásticos.png",
-    "price": null,
+    "price": 22.14,
     "sizes": [],
     "description": "Mochila Nike — Mochila Nike preta com cordões elásticos — selecionado pela LM WEAR.",
     "names": {
@@ -9069,7 +9069,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Rucksack"
     },
     "image": "assets/Mochila Nike Vermelha com Bungee Branco.png",
-    "price": null,
+    "price": 22.14,
     "sizes": [],
     "description": "Mochila Nike — Mochila Nike Vermelha com Bungee Branco — selecionado pela LM WEAR.",
     "names": {
@@ -9100,7 +9100,7 @@ window.LM_PRODUCTS = [
       "de": "Supreme Rucksack"
     },
     "image": "assets/Mochila preta streetwear com logótipo branco.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Mochila Supreme — Mochila preta streetwear com logótipo branco — selecionado pela LM WEAR.",
     "names": {
@@ -9131,7 +9131,7 @@ window.LM_PRODUCTS = [
       "de": "Supreme Rucksack"
     },
     "image": "assets/Mochila Supreme Amarela em Estúdio.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Mochila Supreme — Mochila Supreme Amarela — selecionado pela LM WEAR.",
     "names": {
@@ -9162,7 +9162,7 @@ window.LM_PRODUCTS = [
       "de": "Supreme Rucksack"
     },
     "image": "assets/Mochila Supreme em Camuflado Azul.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Mochila Supreme — Mochila Supreme em Camuflado Azul — selecionado pela LM WEAR.",
     "names": {
@@ -9193,7 +9193,7 @@ window.LM_PRODUCTS = [
       "de": "Supreme Rucksack"
     },
     "image": "assets/Mochila Supreme roxa com detalhes lavanda.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Mochila Supreme — Mochila Supreme roxa com detalhes lavanda — selecionado pela LM WEAR.",
     "names": {
@@ -9224,7 +9224,7 @@ window.LM_PRODUCTS = [
       "de": "Supreme Rucksack"
     },
     "image": "assets/Mochila vermelha Supreme em fundo branco.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Mochila Supreme — Mochila vermelha Supreme em — selecionado pela LM WEAR.",
     "names": {
@@ -9255,7 +9255,7 @@ window.LM_PRODUCTS = [
       "de": "Under Armour Sporttasche"
     },
     "image": "assets/Saco de ginásio camuflado Under Armour.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Saco Under Armour — Saco de ginásio camuflado Under Armour — selecionado pela LM WEAR.",
     "names": {
@@ -9286,7 +9286,7 @@ window.LM_PRODUCTS = [
       "de": "Under Armour Sporttasche"
     },
     "image": "assets/Saco de ginásio Under Armour preto.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Saco Under Armour — Saco de ginásio Under Armour preto — selecionado pela LM WEAR.",
     "names": {
@@ -9317,7 +9317,7 @@ window.LM_PRODUCTS = [
       "de": "Under Armour Sporttasche"
     },
     "image": "assets/Saco Desportivo Under Armour Camuflado.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Saco Under Armour — Saco Desportivo Under Armour Camuflado — selecionado pela LM WEAR.",
     "names": {
@@ -9348,7 +9348,7 @@ window.LM_PRODUCTS = [
       "de": "Under Armour Sporttasche"
     },
     "image": "assets/Saco desportivo Under Armour cinzento e dourado.png",
-    "price": null,
+    "price": 27.94,
     "sizes": [],
     "description": "Saco Under Armour — Saco desportivo Under Armour cinzento e dourado — selecionado pela LM WEAR.",
     "names": {
@@ -9379,7 +9379,7 @@ window.LM_PRODUCTS = [
       "de": "BAPE T-Shirt"
     },
     "image": "assets/T-shirt BAPE azul com gorila amarelo.png",
-    "price": null,
+    "price": 27.3,
     "sizes": [
       "S",
       "M",
@@ -9415,7 +9415,7 @@ window.LM_PRODUCTS = [
       "de": "BAPE T-Shirt"
     },
     "image": "assets/T-shirt BAPE azul-marinho com logótipo amarelo.png",
-    "price": null,
+    "price": 27.3,
     "sizes": [
       "S",
       "M",
@@ -9451,7 +9451,7 @@ window.LM_PRODUCTS = [
       "de": "BAPE T-Shirt"
     },
     "image": "assets/T-shirt BAPE com Gráfico Amarelo Colorete.png",
-    "price": null,
+    "price": 27.3,
     "sizes": [
       "S",
       "M",
@@ -9487,7 +9487,7 @@ window.LM_PRODUCTS = [
       "de": "BAPE T-Shirt"
     },
     "image": "assets/T-shirt branco BAPE com logótipo dourado.png",
-    "price": null,
+    "price": 27.3,
     "sizes": [
       "S",
       "M",
@@ -9523,7 +9523,7 @@ window.LM_PRODUCTS = [
       "de": "BAPE T-Shirt"
     },
     "image": "assets/T-shirt preta BAPE com logótipo amarelo.png",
-    "price": null,
+    "price": 27.3,
     "sizes": [
       "S",
       "M",
@@ -9559,7 +9559,7 @@ window.LM_PRODUCTS = [
       "de": "Cartier Uhr"
     },
     "image": "assets/Relógio azul em almofada marfim.png",
-    "price": null,
+    "price": 102.99,
     "sizes": [],
     "description": "Relógio Cartier — Relógio azul em almofada marfim — selecionado pela LM WEAR.",
     "names": {
@@ -9590,7 +9590,7 @@ window.LM_PRODUCTS = [
       "de": "Cartier Uhr"
     },
     "image": "assets/Relógio Cartier de diamantes sobre almofada.png",
-    "price": null,
+    "price": 102.99,
     "sizes": [],
     "description": "Relógio Cartier — Relógio Cartier de diamantes sobre almofada — selecionado pela LM WEAR.",
     "names": {
@@ -9621,7 +9621,7 @@ window.LM_PRODUCTS = [
       "de": "Cartier Uhr"
     },
     "image": "assets/Relógio Cartier Dourado com Diamantes.png",
-    "price": null,
+    "price": 102.99,
     "sizes": [],
     "description": "Relógio Cartier — Relógio Cartier Dourado com Diamantes — selecionado pela LM WEAR.",
     "names": {
@@ -9652,7 +9652,7 @@ window.LM_PRODUCTS = [
       "de": "Cartier Uhr"
     },
     "image": "assets/Relógio Cartier Santos de Mostrador Verde.png",
-    "price": null,
+    "price": 102.99,
     "sizes": [],
     "description": "Relógio Cartier — Relógio Cartier Santos de Mostrador Verde — selecionado pela LM WEAR.",
     "names": {
@@ -9683,7 +9683,7 @@ window.LM_PRODUCTS = [
       "de": "Cartier Uhr"
     },
     "image": "assets/Relógio Cartier Santos em Almofada Marfim (1).png",
-    "price": null,
+    "price": 102.99,
     "sizes": [],
     "description": "Relógio Cartier — Relógio Cartier Santos em Almofada Marfim — selecionado pela LM WEAR.",
     "names": {
@@ -9714,7 +9714,7 @@ window.LM_PRODUCTS = [
       "de": "Cartier Uhr"
     },
     "image": "assets/Relógio Cartier Santos em almofada marfim.png",
-    "price": null,
+    "price": 102.99,
     "sizes": [],
     "description": "Relógio Cartier — Relógio Cartier Santos em almofada marfim — selecionado pela LM WEAR.",
     "names": {
@@ -9745,7 +9745,7 @@ window.LM_PRODUCTS = [
       "de": "Coach Handyhülle"
     },
     "image": "assets/Capa Coach em monograma bege.png",
-    "price": null,
+    "price": 19.4,
     "sizes": [],
     "description": "Capa Coach — Capa Coach em monograma bege — selecionado pela LM WEAR.",
     "names": {
@@ -9776,7 +9776,7 @@ window.LM_PRODUCTS = [
       "de": "Coach Handyhülle"
     },
     "image": "assets/Capa Coach em Monograma Castanho.png",
-    "price": null,
+    "price": 19.4,
     "sizes": [],
     "description": "Capa Coach — Capa Coach em Monograma Castanho — selecionado pela LM WEAR.",
     "names": {
@@ -9807,7 +9807,7 @@ window.LM_PRODUCTS = [
       "de": "Coach Handyhülle"
     },
     "image": "assets/Capa Coach Monograma em Preto e Cinzento.png",
-    "price": null,
+    "price": 19.4,
     "sizes": [],
     "description": "Capa Coach — Capa Coach Monograma em Preto e Cinzento — selecionado pela LM WEAR.",
     "names": {
@@ -9838,7 +9838,7 @@ window.LM_PRODUCTS = [
       "de": "Coach Handyhülle"
     },
     "image": "assets/Capa Coach preta com logo dourado.png",
-    "price": null,
+    "price": 19.4,
     "sizes": [],
     "description": "Capa Coach — Capa Coach preta com logo dourado — selecionado pela LM WEAR.",
     "names": {
@@ -9869,7 +9869,7 @@ window.LM_PRODUCTS = [
       "de": "Coach Handyhülle"
     },
     "image": "assets/Capa Coach Rosa com Monograma.png",
-    "price": null,
+    "price": 19.4,
     "sizes": [],
     "description": "Capa Coach — Capa Coach Rosa com Monograma — selecionado pela LM WEAR.",
     "names": {
@@ -9900,7 +9900,7 @@ window.LM_PRODUCTS = [
       "de": "Coach Handyhülle"
     },
     "image": "assets/Capa de iPhone Coach em denim azul.png",
-    "price": null,
+    "price": 19.4,
     "sizes": [],
     "description": "Capa Coach — Capa de iPhone Coach em denim azul — selecionado pela LM WEAR.",
     "names": {
@@ -9931,7 +9931,7 @@ window.LM_PRODUCTS = [
       "de": "Fear of God ESSENTIALS Set"
     },
     "image": "assets/Conjunto branco Essentials em estúdio.png",
-    "price": null,
+    "price": 64.56,
     "sizes": [
       "S",
       "M",
@@ -9967,7 +9967,7 @@ window.LM_PRODUCTS = [
       "de": "Fear of God ESSENTIALS Set"
     },
     "image": "assets/Conjunto preto ESSENTIALS Fear of God.png",
-    "price": null,
+    "price": 64.56,
     "sizes": [
       "S",
       "M",
@@ -10003,7 +10003,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5812.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10039,7 +10039,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5813.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10075,7 +10075,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5814.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10111,7 +10111,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5815.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10147,7 +10147,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5816.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10183,7 +10183,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5817.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10219,7 +10219,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5818.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10255,7 +10255,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5830.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10291,7 +10291,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5831.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10327,7 +10327,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5832.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10363,7 +10363,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5833.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10399,7 +10399,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5834.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10435,7 +10435,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5835.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10471,7 +10471,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5836.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10507,7 +10507,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5837.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10543,7 +10543,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5838.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10579,7 +10579,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5839.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10615,7 +10615,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5840.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10651,7 +10651,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5841.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10687,7 +10687,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5842.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10723,7 +10723,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5843.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10759,7 +10759,7 @@ window.LM_PRODUCTS = [
       "de": "Fußball-Trainingsanzug"
     },
     "image": "assets/IMG_5844.jpg",
-    "price": null,
+    "price": 37.4,
     "sizes": [
       "S",
       "M",
@@ -10795,7 +10795,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Handyhülle"
     },
     "image": "assets/Capa de luxo verde com padrão chevron.png",
-    "price": null,
+    "price": 26.12,
     "sizes": [],
     "description": "Capa Goyard — Capa de luxo verde com padrão chevron — selecionado pela LM WEAR.",
     "names": {
@@ -10826,7 +10826,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Handyhülle"
     },
     "image": "assets/Capa de Smartphone Azul com Padrão Chevron.png",
-    "price": null,
+    "price": 26.12,
     "sizes": [],
     "description": "Capa Goyard — Capa de Smartphone Azul com Padrão Chevron — selecionado pela LM WEAR.",
     "names": {
@@ -10857,7 +10857,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Handyhülle"
     },
     "image": "assets/Capa Goyard Branca com Câmara Tripla.png",
-    "price": null,
+    "price": 26.12,
     "sizes": [],
     "description": "Capa Goyard — Capa Goyard Branca com Câmara Tripla — selecionado pela LM WEAR.",
     "names": {
@@ -10888,7 +10888,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Handyhülle"
     },
     "image": "assets/Capa Monocromática Luxuosa para Smartphone.png",
-    "price": null,
+    "price": 26.12,
     "sizes": [],
     "description": "Capa Goyard — Capa Monocromática Luxuosa para Smartphone — selecionado pela LM WEAR.",
     "names": {
@@ -10919,7 +10919,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Handyhülle"
     },
     "image": "assets/Smartphone de luxo com padrão burgundy.png",
-    "price": null,
+    "price": 26.12,
     "sizes": [],
     "description": "Capa Goyard — Smartphone de luxo com padrão burgundy — selecionado pela LM WEAR.",
     "names": {
@@ -10950,7 +10950,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Handyhülle"
     },
     "image": "assets/Telemóvel Rosa com Padrão Chevron Goyard.png",
-    "price": null,
+    "price": 26.12,
     "sizes": [],
     "description": "Capa Goyard — Telemóvel Rosa com Padrão Chevron Goyard — selecionado pela LM WEAR.",
     "names": {
@@ -10981,7 +10981,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/Carteira Goyard com Embalagem e Cartão de Autenticidade.png",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — Carteira Goyard com Embalagem e Cartão de Autenticidade — selecionado pela LM WEAR.",
     "names": {
@@ -11012,7 +11012,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/Composição luxuosa Goyard em vermelho e verde.png",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — Composição luxuosa Goyard em vermelho e verde — selecionado pela LM WEAR.",
     "names": {
@@ -11043,7 +11043,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/Conjunto de luxo Goyard em estúdio.png",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — Conjunto de luxo Goyard — selecionado pela LM WEAR.",
     "names": {
@@ -11074,7 +11074,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/Conjunto Goyard com Porta-cartões e Acessórios.png",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — Conjunto Goyard com Porta-cartões e Acessórios — selecionado pela LM WEAR.",
     "names": {
@@ -11105,7 +11105,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/Conjunto Goyard Rosa sobre Fundo Branco.png",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — Conjunto Goyard Rosa sobre — selecionado pela LM WEAR.",
     "names": {
@@ -11136,7 +11136,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/Conjunto Luxuoso Goyard em Estúdio.png",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — Conjunto Luxuoso Goyard — selecionado pela LM WEAR.",
     "names": {
@@ -11167,7 +11167,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/IMG_5783.jpeg",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — IMG 5783 — selecionado pela LM WEAR.",
     "names": {
@@ -11198,7 +11198,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/IMG_5784.jpeg",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — IMG 5784 — selecionado pela LM WEAR.",
     "names": {
@@ -11229,7 +11229,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/IMG_5785.jpeg",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — IMG 5785 — selecionado pela LM WEAR.",
     "names": {
@@ -11260,7 +11260,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/IMG_5786.jpeg",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — IMG 5786 — selecionado pela LM WEAR.",
     "names": {
@@ -11291,7 +11291,7 @@ window.LM_PRODUCTS = [
       "de": "Goyard Geldbörse"
     },
     "image": "assets/IMG_5787.jpeg",
-    "price": null,
+    "price": 19.47,
     "sizes": [],
     "description": "Carteira Goyard — IMG 5787 — selecionado pela LM WEAR.",
     "names": {
@@ -11322,7 +11322,7 @@ window.LM_PRODUCTS = [
       "de": "JBL Flip Lautsprecher"
     },
     "image": "assets/Coluna JBL Flip 6 com embalagem e acessórios.png",
-    "price": null,
+    "price": 44.73,
     "sizes": [],
     "description": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e acessórios — selecionado pela LM WEAR.",
     "names": {
@@ -11353,7 +11353,7 @@ window.LM_PRODUCTS = [
       "de": "JBL Flip Lautsprecher"
     },
     "image": "assets/Coluna JBL Flip 6 com embalagem e cabo USB.png",
-    "price": null,
+    "price": 44.73,
     "sizes": [],
     "description": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e cabo USB — selecionado pela LM WEAR.",
     "names": {
@@ -11384,7 +11384,7 @@ window.LM_PRODUCTS = [
       "de": "JBL Flip Lautsprecher"
     },
     "image": "assets/Coluna JBL Flip 6 em destaque.png",
-    "price": null,
+    "price": 44.73,
     "sizes": [],
     "description": "Coluna JBL Flip — Coluna JBL Flip 6 em destaque — selecionado pela LM WEAR.",
     "names": {
@@ -11415,7 +11415,7 @@ window.LM_PRODUCTS = [
       "de": "JBL Flip Lautsprecher"
     },
     "image": "assets/Coluna JBL Flip 7 e acessórios em estúdio.png",
-    "price": null,
+    "price": 44.73,
     "sizes": [],
     "description": "Coluna JBL Flip — Coluna JBL Flip 7 e acessórios — selecionado pela LM WEAR.",
     "names": {
@@ -11446,7 +11446,7 @@ window.LM_PRODUCTS = [
       "de": "Lacoste Armband"
     },
     "image": "assets/Pulseira Lacoste com Caixa e Pouch.png",
-    "price": null,
+    "price": 22.48,
     "sizes": [],
     "description": "Pulseira Lacoste — Pulseira Lacoste com Caixa e Pouch — selecionado pela LM WEAR.",
     "names": {
@@ -11477,7 +11477,7 @@ window.LM_PRODUCTS = [
       "de": "Lacoste Armband"
     },
     "image": "assets/Pulseira Lacoste com Embalagem Elegante.png",
-    "price": null,
+    "price": 22.48,
     "sizes": [],
     "description": "Pulseira Lacoste — Pulseira Lacoste com Embalagem Elegante — selecionado pela LM WEAR.",
     "names": {
@@ -11508,7 +11508,7 @@ window.LM_PRODUCTS = [
       "de": "Lacoste Armband"
     },
     "image": "assets/Pulseira Lacoste Dourada em Destaque.png",
-    "price": null,
+    "price": 22.48,
     "sizes": [],
     "description": "Pulseira Lacoste — Pulseira Lacoste Dourada em Destaque — selecionado pela LM WEAR.",
     "names": {
@@ -11539,7 +11539,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5790.jpg",
-    "price": null,
+    "price": 92.18,
     "sizes": [],
     "description": "LEGO Technic — Koenigsegg Jesko — selecionado pela LM WEAR.",
     "names": {
@@ -11570,7 +11570,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5793.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Motocicleta BMW — selecionado pela LM WEAR.",
     "names": {
@@ -11601,7 +11601,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5795.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Ford GT azul — selecionado pela LM WEAR.",
     "names": {
@@ -11632,7 +11632,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5796.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Muscle car preto — selecionado pela LM WEAR.",
     "names": {
@@ -11663,7 +11663,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5797.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Ghostbusters Ecto-1 — selecionado pela LM WEAR.",
     "names": {
@@ -11694,7 +11694,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5798.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Mercedes-Benz Classe G — selecionado pela LM WEAR.",
     "names": {
@@ -11725,7 +11725,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5800.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Porsche 911 — selecionado pela LM WEAR.",
     "names": {
@@ -11756,7 +11756,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5801.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Motocicleta BMW — selecionado pela LM WEAR.",
     "names": {
@@ -11787,7 +11787,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5802.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Ferrari de competição — selecionado pela LM WEAR.",
     "names": {
@@ -11818,7 +11818,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5803.jpg",
-    "price": null,
+    "price": 70.48,
     "sizes": [],
     "description": "LEGO Technic — Mercedes-AMG F1 W14 — selecionado pela LM WEAR.",
     "names": {
@@ -11849,7 +11849,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5804.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — McLaren de Fórmula 1 — selecionado pela LM WEAR.",
     "names": {
@@ -11880,7 +11880,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5805.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — DeLorean DMC-12 — selecionado pela LM WEAR.",
     "names": {
@@ -11911,7 +11911,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5806.jpg",
-    "price": null,
+    "price": 70.48,
     "sizes": [],
     "description": "LEGO Technic — Lamborghini Sián — selecionado pela LM WEAR.",
     "names": {
@@ -11942,7 +11942,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5809.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Ford Bronco laranja — selecionado pela LM WEAR.",
     "names": {
@@ -11973,7 +11973,7 @@ window.LM_PRODUCTS = [
       "de": "LEGO Technic"
     },
     "image": "assets/IMG_5810.jpg",
-    "price": null,
+    "price": 76.7,
     "sizes": [],
     "description": "LEGO Technic — Oracle Red Bull F1 — selecionado pela LM WEAR.",
     "names": {
@@ -12004,7 +12004,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Gürtel- und Geldbörsen-Set"
     },
     "image": "assets/Conjunto de luxo Louis Vuitton em Damier.png",
-    "price": null,
+    "price": 35.2,
     "sizes": [],
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de luxo Louis Vuitton em Damier — selecionado pela LM WEAR.",
     "names": {
@@ -12035,7 +12035,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Gürtel- und Geldbörsen-Set"
     },
     "image": "assets/Conjunto de Luxo Louis Vuitton.png",
-    "price": null,
+    "price": 35.2,
     "sizes": [],
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de Luxo Louis Vuitton — selecionado pela LM WEAR.",
     "names": {
@@ -12066,7 +12066,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Gürtel- und Geldbörsen-Set"
     },
     "image": "assets/Conjunto Louis Vuitton em Estúdio.png",
-    "price": null,
+    "price": 35.2,
     "sizes": [],
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton — selecionado pela LM WEAR.",
     "names": {
@@ -12097,7 +12097,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Gürtel- und Geldbörsen-Set"
     },
     "image": "assets/Conjunto Louis Vuitton em Laranja e Castanho.png",
-    "price": null,
+    "price": 35.2,
     "sizes": [],
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Castanho — selecionado pela LM WEAR.",
     "names": {
@@ -12128,7 +12128,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Gürtel- und Geldbörsen-Set"
     },
     "image": "assets/Conjunto Louis Vuitton em Laranja e Damier.png",
-    "price": null,
+    "price": 35.2,
     "sizes": [],
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Damier — selecionado pela LM WEAR.",
     "names": {
@@ -12159,7 +12159,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Gürtel- und Geldbörsen-Set"
     },
     "image": "assets/Conjunto Louis Vuitton em Laranja.png",
-    "price": null,
+    "price": 35.2,
     "sizes": [],
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja — selecionado pela LM WEAR.",
     "names": {
@@ -12190,7 +12190,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Sapatilhas Brancas de Luxo em Estúdio.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12233,7 +12233,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Sapatilhas Louis Vuitton Brancas e Douradas.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12276,7 +12276,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Sapatilhas Louis Vuitton em Branco e Azul Denim.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12319,7 +12319,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Sapatilhas Louis Vuitton Rosa e Brancas.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12362,7 +12362,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Ténis de luxo preto e branco.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12405,7 +12405,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Ténis de luxo verdes e brancos LV.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12448,7 +12448,7 @@ window.LM_PRODUCTS = [
       "de": "Louis Vuitton Sneaker"
     },
     "image": "assets/Ténis Louis Vuitton em Branco e Azul Cielo.png",
-    "price": null,
+    "price": 71.72,
     "sizes": [
       "36",
       "37",
@@ -12491,7 +12491,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Mütze"
     },
     "image": "assets/Gorro azul de malha com logótipo Nike.png",
-    "price": null,
+    "price": 24.92,
     "sizes": [],
     "description": "Gorro Nike — Gorro azul de malha com logótipo Nike — selecionado pela LM WEAR.",
     "names": {
@@ -12522,7 +12522,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Mütze"
     },
     "image": "assets/Gorro branco de malha com logótipo Nike.png",
-    "price": null,
+    "price": 24.92,
     "sizes": [],
     "description": "Gorro Nike — Gorro branco de malha com logótipo Nike — selecionado pela LM WEAR.",
     "names": {
@@ -12553,7 +12553,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Mütze"
     },
     "image": "assets/Gorro cinzento Nike em malha.png",
-    "price": null,
+    "price": 24.92,
     "sizes": [],
     "description": "Gorro Nike — Gorro cinzento Nike em malha — selecionado pela LM WEAR.",
     "names": {
@@ -12584,7 +12584,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Mütze"
     },
     "image": "assets/Gorro de malha azul-marinho com swoosh branco.png",
-    "price": null,
+    "price": 24.92,
     "sizes": [],
     "description": "Gorro Nike — Gorro de malha azul-marinho com swoosh branco — selecionado pela LM WEAR.",
     "names": {
@@ -12615,7 +12615,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Mütze"
     },
     "image": "assets/Gorro preto Nike em malha canelada.png",
-    "price": null,
+    "price": 24.92,
     "sizes": [],
     "description": "Gorro Nike — Gorro preto Nike em malha canelada — selecionado pela LM WEAR.",
     "names": {
@@ -12646,7 +12646,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Mütze"
     },
     "image": "assets/Gorro vermelho de malha com swoosh branco.png",
-    "price": null,
+    "price": 24.92,
     "sizes": [],
     "description": "Gorro Nike — Gorro vermelho de malha com swoosh branco — selecionado pela LM WEAR.",
     "names": {
@@ -12677,7 +12677,7 @@ window.LM_PRODUCTS = [
       "de": "Nike NOCTA Set"
     },
     "image": "assets/Conjunto Desportivo Cinzento NOCTA.png",
-    "price": null,
+    "price": 82.9,
     "sizes": [
       "S",
       "M",
@@ -12713,7 +12713,7 @@ window.LM_PRODUCTS = [
       "de": "Nike NOCTA Set"
     },
     "image": "assets/Conjunto desportivo Nike NOCTA azul gelo.png",
-    "price": null,
+    "price": 82.9,
     "sizes": [
       "S",
       "M",
@@ -12749,7 +12749,7 @@ window.LM_PRODUCTS = [
       "de": "Nike NOCTA Set"
     },
     "image": "assets/Conjunto Desportivo NOCTA Preto e Dourado.png",
-    "price": null,
+    "price": 82.9,
     "sizes": [
       "S",
       "M",
@@ -12785,7 +12785,7 @@ window.LM_PRODUCTS = [
       "de": "Nike NOCTA Set"
     },
     "image": "assets/Conjunto Nike x NOCTA cinzento claro.png",
-    "price": null,
+    "price": 82.9,
     "sizes": [
       "S",
       "M",
@@ -12821,7 +12821,7 @@ window.LM_PRODUCTS = [
       "de": "Nike NOCTA Set"
     },
     "image": "assets/Conjunto Nike x NOCTA Cinzento e Preto.png",
-    "price": null,
+    "price": 82.9,
     "sizes": [
       "S",
       "M",
@@ -12857,7 +12857,7 @@ window.LM_PRODUCTS = [
       "de": "Nike NOCTA Set"
     },
     "image": "assets/Conjunto técnico Nike preto em estúdio.png",
-    "price": null,
+    "price": 82.9,
     "sizes": [
       "S",
       "M",
@@ -12893,7 +12893,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Shox"
     },
     "image": "assets/Sapatilha de corrida branca e rosa.png",
-    "price": null,
+    "price": 85.7,
     "sizes": [
       "36",
       "37",
@@ -12936,7 +12936,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Shox"
     },
     "image": "assets/Sapatilhas Nike Shox Brancas e Vermelhas.png",
-    "price": null,
+    "price": 85.7,
     "sizes": [
       "36",
       "37",
@@ -12979,7 +12979,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Shox"
     },
     "image": "assets/Ténis Nike Shox pretos em estúdio.png",
-    "price": null,
+    "price": 85.7,
     "sizes": [
       "36",
       "37",
@@ -13022,7 +13022,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Shox"
     },
     "image": "assets/Ténis pretos e rosa em estúdio.png",
-    "price": null,
+    "price": 85.7,
     "sizes": [
       "36",
       "37",
@@ -13065,7 +13065,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Shox"
     },
     "image": "assets/Ténis Shox Brancos com Detalhes Rubros.png",
-    "price": null,
+    "price": 85.7,
     "sizes": [
       "36",
       "37",
@@ -13108,7 +13108,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Socken"
     },
     "image": "assets/Caixa Nike Branca com Cinco Meias Coloridas.png",
-    "price": null,
+    "price": 17.56,
     "sizes": [],
     "description": "Meias Nike — Caixa Nike Branca com Cinco Meias Coloridas — selecionado pela LM WEAR.",
     "names": {
@@ -13139,7 +13139,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Socken"
     },
     "image": "assets/Caixa Nike com cinco meias ribadas.png",
-    "price": null,
+    "price": 17.56,
     "sizes": [],
     "description": "Meias Nike — Caixa Nike com cinco meias ribadas — selecionado pela LM WEAR.",
     "names": {
@@ -13170,7 +13170,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Socken"
     },
     "image": "assets/Caixa Nike com meias coloridas (1).png",
-    "price": null,
+    "price": 17.56,
     "sizes": [],
     "description": "Meias Nike — Caixa Nike com meias coloridas — selecionado pela LM WEAR.",
     "names": {
@@ -13201,7 +13201,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Socken"
     },
     "image": "assets/Caixa Nike com meias coloridas.png",
-    "price": null,
+    "price": 17.56,
     "sizes": [],
     "description": "Meias Nike — Caixa Nike com meias coloridas — selecionado pela LM WEAR.",
     "names": {
@@ -13232,7 +13232,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Socken"
     },
     "image": "assets/Conjunto de meias Nike em caixa branca.png",
-    "price": null,
+    "price": 17.56,
     "sizes": [],
     "description": "Meias Nike — Conjunto de meias Nike em caixa branca — selecionado pela LM WEAR.",
     "names": {
@@ -13263,7 +13263,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Tech Set"
     },
     "image": "assets/Conjunto Nike Cinzento de Ganga Mesclada.png",
-    "price": null,
+    "price": 71.74,
     "sizes": [
       "S",
       "M",
@@ -13299,7 +13299,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Tech Set"
     },
     "image": "assets/Conjunto Nike Preto e Cinzento.png",
-    "price": null,
+    "price": 71.74,
     "sizes": [
       "S",
       "M",
@@ -13335,7 +13335,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Max / TN"
     },
     "image": "assets/Sapatilha Air Max roxa e rosa.png",
-    "price": null,
+    "price": 67.1,
     "sizes": [
       "36",
       "37",
@@ -13378,7 +13378,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Max / TN"
     },
     "image": "assets/Sapatilha branca Air Max em estúdio.png",
-    "price": null,
+    "price": 67.1,
     "sizes": [
       "36",
       "37",
@@ -13421,7 +13421,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Max / TN"
     },
     "image": "assets/Sapatilha Nike Air Max Branca e Lilás.png",
-    "price": null,
+    "price": 67.1,
     "sizes": [
       "36",
       "37",
@@ -13464,7 +13464,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Max / TN"
     },
     "image": "assets/Sapatilha Nike preta com sola Air visível.png",
-    "price": null,
+    "price": 67.1,
     "sizes": [
       "36",
       "37",
@@ -13507,7 +13507,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Max / TN"
     },
     "image": "assets/Sapatilha Nike preta em perfil.png",
-    "price": null,
+    "price": 67.1,
     "sizes": [
       "36",
       "37",
@@ -13550,7 +13550,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Air Max / TN"
     },
     "image": "assets/Sapatilha Nike TN em gradiente azul e roxo.png",
-    "price": null,
+    "price": 67.1,
     "sizes": [
       "36",
       "37",
@@ -13593,7 +13593,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Windrunner Trainingsanzug"
     },
     "image": "assets/Conjunto de treino Nike cinzento claro.png",
-    "price": null,
+    "price": 61.82,
     "sizes": [
       "S",
       "M",
@@ -13629,7 +13629,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Windrunner Trainingsanzug"
     },
     "image": "assets/Conjunto de treino preto Nike.png",
-    "price": null,
+    "price": 61.82,
     "sizes": [
       "S",
       "M",
@@ -13665,7 +13665,7 @@ window.LM_PRODUCTS = [
       "de": "Nike Windrunner Trainingsanzug"
     },
     "image": "assets/Conjunto desportivo Nike azul-acinzentado.png",
-    "price": null,
+    "price": 61.82,
     "sizes": [
       "S",
       "M",
@@ -13701,7 +13701,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Trainingsanzug"
     },
     "image": "assets/Conjunto de fato de treino azul-marinho.png",
-    "price": null,
+    "price": 76.48,
     "sizes": [
       "S",
       "M",
@@ -13737,7 +13737,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Trainingsanzug"
     },
     "image": "assets/Conjunto de fato de treino cinzento.png",
-    "price": null,
+    "price": 76.48,
     "sizes": [
       "S",
       "M",
@@ -13773,7 +13773,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Trainingsanzug"
     },
     "image": "assets/Conjunto de fato de treino preto com logótimo branco.png",
-    "price": null,
+    "price": 76.48,
     "sizes": [
       "S",
       "M",
@@ -13809,7 +13809,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Kapuzenpullover"
     },
     "image": "assets/Hoodie Azul-Marinho Polo Ralph Lauren (1).png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -13845,7 +13845,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Kapuzenpullover"
     },
     "image": "assets/Hoodie azul-marinho Polo Ralph Lauren.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -13881,7 +13881,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Kapuzenpullover"
     },
     "image": "assets/Hoodie cinzento com emblema polo.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -13917,7 +13917,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Kapuzenpullover"
     },
     "image": "assets/Hoodie preto com emblema bordado.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -13953,7 +13953,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Kapuzenpullover"
     },
     "image": "assets/Hoodie preto Polo Ralph Lauren.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -13989,7 +13989,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Kapuzenpullover"
     },
     "image": "assets/Sweatshirt Polo Ralph Lauren Branco.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14025,7 +14025,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Polo-Kollektion"
     },
     "image": "assets/Polo Azul-Marinho Los Angeles em Destaque.png",
-    "price": null,
+    "price": 33.48,
     "sizes": [
       "S",
       "M",
@@ -14061,7 +14061,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Polo-Kollektion"
     },
     "image": "assets/Polo Dubai preto com bordados dourados.png",
-    "price": null,
+    "price": 33.48,
     "sizes": [
       "S",
       "M",
@@ -14097,7 +14097,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Polo-Kollektion"
     },
     "image": "assets/Polo Miami com Crestão Bordado.png",
-    "price": null,
+    "price": 33.48,
     "sizes": [
       "S",
       "M",
@@ -14133,7 +14133,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Polo-Kollektion"
     },
     "image": "assets/Polo preto Munich com brasão dourado.png",
-    "price": null,
+    "price": 33.48,
     "sizes": [
       "S",
       "M",
@@ -14169,7 +14169,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Polo-Kollektion"
     },
     "image": "assets/Polo Ralph Lauren preta New York.png",
-    "price": null,
+    "price": 33.48,
     "sizes": [
       "S",
       "M",
@@ -14205,7 +14205,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Polo-Kollektion"
     },
     "image": "assets/Polo Verde Milan com Bordados Dourados.png",
-    "price": null,
+    "price": 33.48,
     "sizes": [
       "S",
       "M",
@@ -14241,7 +14241,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Camisola branca com fecho e capuz.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14277,7 +14277,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Hoodie Branco com Logo Polo.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14313,7 +14313,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Hoodie Cinzento com Logótipo Bordado.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14349,7 +14349,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Hoodie Cinzento com Logótipo Polo.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14385,7 +14385,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Hoodie Polo Ralph Lauren Cinzento Claro.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14421,7 +14421,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Hoodie preto com logo e fecho metálico.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14457,7 +14457,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Zip-Hoodie"
     },
     "image": "assets/Sweatshirt Branco com Logótipo Vermelho.png",
-    "price": null,
+    "price": 35,
     "sizes": [
       "S",
       "M",
@@ -14493,7 +14493,7 @@ window.LM_PRODUCTS = [
       "de": "RIMOWA Handyhülle"
     },
     "image": "assets/Caixa de capa azul RIMOWA.png",
-    "price": null,
+    "price": 49.96,
     "sizes": [],
     "description": "Capa RIMOWA — Caixa de capa azul RIMOWA — selecionado pela LM WEAR.",
     "names": {
@@ -14524,7 +14524,7 @@ window.LM_PRODUCTS = [
       "de": "RIMOWA Handyhülle"
     },
     "image": "assets/Caixa Minimalista com Capa Ripada.png",
-    "price": null,
+    "price": 49.96,
     "sizes": [],
     "description": "Capa RIMOWA — Caixa Minimalista com Capa Ripada — selecionado pela LM WEAR.",
     "names": {
@@ -14555,7 +14555,7 @@ window.LM_PRODUCTS = [
       "de": "RIMOWA Handyhülle"
     },
     "image": "assets/Capa de telemóvel dourada RIMOWA.png",
-    "price": null,
+    "price": 49.96,
     "sizes": [],
     "description": "Capa RIMOWA — Capa de telemóvel dourada RIMOWA — selecionado pela LM WEAR.",
     "names": {
@@ -14586,7 +14586,7 @@ window.LM_PRODUCTS = [
       "de": "RIMOWA Handyhülle"
     },
     "image": "assets/Capa de telemóvel RIMOWA em rosa metálico.png",
-    "price": null,
+    "price": 49.96,
     "sizes": [],
     "description": "Capa RIMOWA — Capa de telemóvel RIMOWA em rosa metálico — selecionado pela LM WEAR.",
     "names": {
@@ -14617,7 +14617,7 @@ window.LM_PRODUCTS = [
       "de": "RIMOWA Handyhülle"
     },
     "image": "assets/Capa RIMOWA Laranja em Caixa.png",
-    "price": null,
+    "price": 49.96,
     "sizes": [],
     "description": "Capa RIMOWA — Capa RIMOWA Laranja em Caixa — selecionado pela LM WEAR.",
     "names": {
@@ -14648,7 +14648,7 @@ window.LM_PRODUCTS = [
       "de": "RIMOWA Handyhülle"
     },
     "image": "assets/Embalagem RIMOWA com acessório prateado.png",
-    "price": null,
+    "price": 49.96,
     "sizes": [],
     "description": "Capa RIMOWA — Embalagem RIMOWA com acessório prateado — selecionado pela LM WEAR.",
     "names": {
@@ -14679,7 +14679,7 @@ window.LM_PRODUCTS = [
       "de": "Rolex Uhr"
     },
     "image": "assets/Conjunto Rolex com Datejust e acessórios.png",
-    "price": null,
+    "price": 107.35,
     "sizes": [],
     "description": "Relógio Rolex — Conjunto Rolex com Datejust e acessórios — selecionado pela LM WEAR.",
     "names": {
@@ -14710,7 +14710,7 @@ window.LM_PRODUCTS = [
       "de": "Rolex Uhr"
     },
     "image": "assets/Cronógrafo Daytona em Ouro Rosa.png",
-    "price": null,
+    "price": 107.35,
     "sizes": [],
     "description": "Relógio Rolex — Cronógrafo Daytona em Ouro Rosa — selecionado pela LM WEAR.",
     "names": {
@@ -14741,7 +14741,7 @@ window.LM_PRODUCTS = [
       "de": "Rolex Uhr"
     },
     "image": "assets/Relógio GMT-Master II Batman no almofadão.png",
-    "price": null,
+    "price": 107.35,
     "sizes": [],
     "description": "Relógio Rolex — Relógio GMT-Master II Batman no almofadão — selecionado pela LM WEAR.",
     "names": {
@@ -14772,7 +14772,7 @@ window.LM_PRODUCTS = [
       "de": "Rolex Uhr"
     },
     "image": "assets/Relógio Pepsi sobre almofada de couro.png",
-    "price": null,
+    "price": 107.35,
     "sizes": [],
     "description": "Relógio Rolex — Relógio Pepsi sobre almofada de couro — selecionado pela LM WEAR.",
     "names": {
@@ -14803,7 +14803,7 @@ window.LM_PRODUCTS = [
       "de": "Rolex Uhr"
     },
     "image": "assets/Relógio Submariner Verde em Almofada Creme.png",
-    "price": null,
+    "price": 107.35,
     "sizes": [],
     "description": "Relógio Rolex — Relógio Submariner Verde em Almofada Creme — selecionado pela LM WEAR.",
     "names": {
@@ -14834,7 +14834,7 @@ window.LM_PRODUCTS = [
       "de": "Rolex Uhr"
     },
     "image": "assets/Relógio Yacht‑Master em Destaque.png",
-    "price": null,
+    "price": 107.35,
     "sizes": [],
     "description": "Relógio Rolex — Relógio Yacht‑Master em Destaque — selecionado pela LM WEAR.",
     "names": {
@@ -14865,7 +14865,7 @@ window.LM_PRODUCTS = [
       "de": "Uhr mit Diamantbesatz"
     },
     "image": "assets/Relógio de Luxo com Diamantes no Suporte Cremoso.png",
-    "price": null,
+    "price": 399,
     "sizes": [],
     "description": "Relógio com acabamento de diamantes — Relógio de Luxo com Diamantes no Suporte Cremoso — selecionado pela LM WEAR.",
     "names": {
@@ -14896,7 +14896,7 @@ window.LM_PRODUCTS = [
       "de": "Uhr mit Diamantbesatz"
     },
     "image": "assets/Relógio de luxo sobre almofada marfim.png",
-    "price": null,
+    "price": 399,
     "sizes": [],
     "description": "Relógio com acabamento de diamantes — Relógio de luxo sobre almofada marfim — selecionado pela LM WEAR.",
     "names": {
@@ -14927,7 +14927,7 @@ window.LM_PRODUCTS = [
       "de": "Uhr mit Diamantbesatz"
     },
     "image": "assets/Relógio Rolex com Diamantes no Mostruário.png",
-    "price": null,
+    "price": 399,
     "sizes": [],
     "description": "Relógio com acabamento de diamantes — Relógio Rolex com Diamantes no Mostruário — selecionado pela LM WEAR.",
     "names": {
@@ -14958,7 +14958,7 @@ window.LM_PRODUCTS = [
       "de": "Uhr mit Diamantbesatz"
     },
     "image": "assets/Relógio Rolex Rose Gold com Diamantes encrustados.png",
-    "price": null,
+    "price": 399,
     "sizes": [],
     "description": "Relógio com acabamento de diamantes — Relógio Rolex Rose Gold com Diamantes encrustados — selecionado pela LM WEAR.",
     "names": {
@@ -14989,7 +14989,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Socken"
     },
     "image": "assets/Embalagem de Meias Polo Azul Royal.png",
-    "price": null,
+    "price": 21.84,
     "sizes": [],
     "description": "Meias Polo Ralph Lauren — Embalagem de Meias Polo Azul Royal — selecionado pela LM WEAR.",
     "names": {
@@ -15020,7 +15020,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Socken"
     },
     "image": "assets/Meias Polo Ralph Lauren Azul-marinho.png",
-    "price": null,
+    "price": 21.84,
     "sizes": [],
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Azul-marinho — selecionado pela LM WEAR.",
     "names": {
@@ -15051,7 +15051,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Socken"
     },
     "image": "assets/Meias Polo Ralph Lauren Clássicas em Preto.png",
-    "price": null,
+    "price": 21.84,
     "sizes": [],
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Clássicas em Preto — selecionado pela LM WEAR.",
     "names": {
@@ -15082,7 +15082,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Socken"
     },
     "image": "assets/Meias Polo Ralph Lauren com Faixa Azul.png",
-    "price": null,
+    "price": 21.84,
     "sizes": [],
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren com Faixa Azul — selecionado pela LM WEAR.",
     "names": {
@@ -15113,7 +15113,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Socken"
     },
     "image": "assets/Meias Polo Ralph Lauren Cor-de-Rosa Pastel.png",
-    "price": null,
+    "price": 21.84,
     "sizes": [],
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Cor-de-Rosa Pastel — selecionado pela LM WEAR.",
     "names": {
@@ -15144,7 +15144,7 @@ window.LM_PRODUCTS = [
       "de": "Polo Ralph Lauren Socken"
     },
     "image": "assets/Meias Ralph Lauren Cinzentas com Faixa Azul-marinho.png",
-    "price": null,
+    "price": 21.84,
     "sizes": [],
     "description": "Meias Polo Ralph Lauren — Meias Ralph Lauren Cinzentas com Faixa Azul-marinho — selecionado pela LM WEAR.",
     "names": {
@@ -15175,7 +15175,7 @@ window.LM_PRODUCTS = [
       "de": "Trapstar Trainingsanzug"
     },
     "image": "assets/Conjunto de fato de treino Trapstar cinzento.png",
-    "price": null,
+    "price": 76.78,
     "sizes": [
       "S",
       "M",
@@ -15211,7 +15211,7 @@ window.LM_PRODUCTS = [
       "de": "Trapstar Trainingsanzug"
     },
     "image": "assets/Conjunto de fato de treino Trapstar preto.png",
-    "price": null,
+    "price": 76.78,
     "sizes": [
       "S",
       "M",
@@ -15247,7 +15247,7 @@ window.LM_PRODUCTS = [
       "de": "Victoria’s Secret Schlafanzug-Set"
     },
     "image": "assets/Conjunto de dormir preto Victoria’s Secret.png",
-    "price": null,
+    "price": 63.42,
     "sizes": [
       "S",
       "M",
@@ -15283,7 +15283,7 @@ window.LM_PRODUCTS = [
       "de": "Victoria’s Secret Schlafanzug-Set"
     },
     "image": "assets/Conjunto de pijama rosa Victoria’s Secret.png",
-    "price": null,
+    "price": 63.42,
     "sizes": [
       "S",
       "M",
