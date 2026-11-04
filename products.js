@@ -7038,17 +7038,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Air Force 1 em tons neutros — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Air Force 1 em tons neutros",
-      "en": "Nike Air Force 1 — Air Force 1 em tons neutros",
-      "es": "Nike Air Force 1 — Air Force 1 em tons neutros",
-      "fr": "Nike Air Force 1 — Air Force 1 em tons neutros",
-      "de": "Nike Air Force 1 — Air Force 1 em tons neutros"
+      "en": "Nike Air Force 1 — Air Force 1 in neutral tones",
+      "es": "Nike Air Force 1 — Air Force 1 en tonos neutros",
+      "fr": "Nike Air Force 1 — Air Force 1 dans des tons neutres",
+      "de": "Nike Air Force 1 — Air Force 1 in neutralen Tönen"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Air Force 1 em tons neutros — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Air Force 1 em tons neutros — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Air Force 1 em tons neutros — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Air Force 1 em tons neutros — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Air Force 1 em tons neutros — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Air Force 1 in neutral tones — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Air Force 1 en tonos neutros — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Air Force 1 dans des tons neutres — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Air Force 1 in neutralen Tönen — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7081,17 +7081,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Air Force 1 Rosa e Bordô — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Air Force 1 Rosa e Bordô",
-      "en": "Nike Air Force 1 — Air Force 1 pink e Bordô",
-      "es": "Nike Air Force 1 — Air Force 1 rosa e Bordô",
-      "fr": "Nike Air Force 1 — Air Force 1 rose e Bordô",
-      "de": "Nike Air Force 1 — Air Force 1 rosa e Bordô"
+      "en": "Nike Air Force 1 — Air Force 1 pink and burgundy",
+      "es": "Nike Air Force 1 — Air Force 1 rosa y burdeos",
+      "fr": "Nike Air Force 1 — Air Force 1 rose et bordeaux",
+      "de": "Nike Air Force 1 — Air Force 1 rosa und bordeaux"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Air Force 1 Rosa e Bordô — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Air Force 1 pink e Bordô — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Air Force 1 rosa e Bordô — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Air Force 1 rose e Bordô — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Air Force 1 rosa e Bordô — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Air Force 1 pink and burgundy — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Air Force 1 rosa y burdeos — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Air Force 1 rose et bordeaux — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Air Force 1 rosa und bordeaux — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7124,17 +7124,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — brancas com detalhes pretos Air Force 1 — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — brancas com detalhes pretos Air Force 1",
-      "en": "Nike Air Force 1 — white with details black Air Force 1",
+      "en": "Nike Air Force 1 — white with black details Air Force 1",
       "es": "Nike Air Force 1 — blancas con detalles negros Air Force 1",
       "fr": "Nike Air Force 1 — blanches avec détails noirs Air Force 1",
-      "de": "Nike Air Force 1 — weiß mit Details schwarz Air Force 1"
+      "de": "Nike Air Force 1 — weiß mit schwarzen Details Air Force 1"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — brancas com detalhes pretos Air Force 1 — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — white with details black Air Force 1 — selected by LM WEAR.",
+      "en": "Nike Air Force 1 — white with black details Air Force 1 — selected by LM WEAR.",
       "es": "Nike Air Force 1 — blancas con detalles negros Air Force 1 — seleccionado por LM WEAR.",
       "fr": "Nike Air Force 1 — blanches avec détails noirs Air Force 1 — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — weiß mit Details schwarz Air Force 1 — ausgewählt von LM WEAR."
+      "de": "Nike Air Force 1 — weiß mit schwarzen Details Air Force 1 — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7167,17 +7167,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — brancas com detalhes pretos — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — brancas com detalhes pretos",
-      "en": "Nike Air Force 1 — white with details black",
+      "en": "Nike Air Force 1 — white with black details",
       "es": "Nike Air Force 1 — blancas con detalles negros",
       "fr": "Nike Air Force 1 — blanches avec détails noirs",
-      "de": "Nike Air Force 1 — weiß mit Details schwarz"
+      "de": "Nike Air Force 1 — weiß mit schwarzen Details"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — brancas com detalhes pretos — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — white with details black — selected by LM WEAR.",
+      "en": "Nike Air Force 1 — white with black details — selected by LM WEAR.",
       "es": "Nike Air Force 1 — blancas con detalles negros — seleccionado por LM WEAR.",
       "fr": "Nike Air Force 1 — blanches avec détails noirs — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — weiß mit Details schwarz — ausgewählt von LM WEAR."
+      "de": "Nike Air Force 1 — weiß mit schwarzen Details — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7210,17 +7210,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — creme com detalhes castanhos e vermelhos — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — creme com detalhes castanhos e vermelhos",
-      "en": "Nike Air Force 1 — cream with details brown e red",
-      "es": "Nike Air Force 1 — crema con detalles marrones e rojos",
-      "fr": "Nike Air Force 1 — crème avec détails marron e rouges",
-      "de": "Nike Air Force 1 — creme mit Details braun e rot"
+      "en": "Nike Air Force 1 — cream with details brown and red",
+      "es": "Nike Air Force 1 — crema con detalles marrones y rojos",
+      "fr": "Nike Air Force 1 — crème avec détails marron et rouges",
+      "de": "Nike Air Force 1 — creme mit Details braun und rot"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — creme com detalhes castanhos e vermelhos — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — cream with details brown e red — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — crema con detalles marrones e rojos — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — crème avec détails marron e rouges — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — creme mit Details braun e rot — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — cream with details brown and red — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — crema con detalles marrones y rojos — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — crème avec détails marron et rouges — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — creme mit Details braun und rot — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7253,17 +7253,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Nike Air Force 1 a Preto e Branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 a Preto e Branco",
-      "en": "Nike Air Force 1 — Nike Air Force 1 a black e white",
-      "es": "Nike Air Force 1 — Nike Air Force 1 a negro e blanco",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 a noir e blanc",
-      "de": "Nike Air Force 1 — Nike Air Force 1 a schwarz e weiß"
+      "en": "Nike Air Force 1 — Nike Air Force 1 in black and white",
+      "es": "Nike Air Force 1 — Nike Air Force 1 en negro y blanco",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 en noir et blanc",
+      "de": "Nike Air Force 1 — Nike Air Force 1 in schwarz und weiß"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 a Preto e Branco — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Nike Air Force 1 a black e white — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Nike Air Force 1 a negro e blanco — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 a noir e blanc — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Nike Air Force 1 a schwarz e weiß — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Nike Air Force 1 in black and white — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Nike Air Force 1 en negro y blanco — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 en noir et blanc — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Nike Air Force 1 in schwarz und weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7296,17 +7296,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Nike Air Force 1 Just Do It — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 Just Do It",
-      "en": "Nike Air Force 1 — Nike Air Force 1 Just Do It",
-      "es": "Nike Air Force 1 — Nike Air Force 1 Just Do It",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 Just Do It",
-      "de": "Nike Air Force 1 — Nike Air Force 1 Just Do It"
+      "en": "Nike Air Force 1 — Nike Air Force 1 Just of the It",
+      "es": "Nike Air Force 1 — Nike Air Force 1 Just del It",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 Just du It",
+      "de": "Nike Air Force 1 — Nike Air Force 1 Just des It"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 Just Do It — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Nike Air Force 1 Just Do It — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Nike Air Force 1 Just Do It — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 Just Do It — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Nike Air Force 1 Just Do It — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Nike Air Force 1 Just of the It — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Nike Air Force 1 Just del It — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 Just du It — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Nike Air Force 1 Just des It — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7382,17 +7382,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Nike Air Force 1 Turquesa e Pretas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 Turquesa e Pretas",
-      "en": "Nike Air Force 1 — Nike Air Force 1 turquoise e black",
-      "es": "Nike Air Force 1 — Nike Air Force 1 turquesa e negras",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 turquoise e noires",
-      "de": "Nike Air Force 1 — Nike Air Force 1 türkis e schwarz"
+      "en": "Nike Air Force 1 — Nike Air Force 1 turquoise and black",
+      "es": "Nike Air Force 1 — Nike Air Force 1 turquesa y negras",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 turquoise et noires",
+      "de": "Nike Air Force 1 — Nike Air Force 1 türkis und schwarz"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 Turquesa e Pretas — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Nike Air Force 1 turquoise e black — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Nike Air Force 1 turquesa e negras — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 turquoise e noires — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Nike Air Force 1 türkis e schwarz — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Nike Air Force 1 turquoise and black — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Nike Air Force 1 turquesa y negras — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 turquoise et noires — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Nike Air Force 1 türkis und schwarz — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7425,17 +7425,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Nike brancas com padrão floral azul — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Nike brancas com padrão floral azul",
-      "en": "Nike Air Force 1 — Nike white with padrão floral blue",
-      "es": "Nike Air Force 1 — Nike blancas con padrão floral azul",
-      "fr": "Nike Air Force 1 — Nike blanches avec padrão floral bleu",
-      "de": "Nike Air Force 1 — Nike weiß mit padrão floral blau"
+      "en": "Nike Air Force 1 — Nike white with pattern floral blue",
+      "es": "Nike Air Force 1 — Nike blancas con patrón floral azul",
+      "fr": "Nike Air Force 1 — Nike blanches avec motif floral bleu",
+      "de": "Nike Air Force 1 — Nike weiß mit Muster floral blau"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Nike brancas com padrão floral azul — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Nike white with padrão floral blue — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Nike blancas con padrão floral azul — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Nike blanches avec padrão floral bleu — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Nike weiß mit padrão floral blau — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Nike white with pattern floral blue — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Nike blancas con patrón floral azul — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Nike blanches avec motif floral bleu — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Nike weiß mit Muster floral blau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7597,17 +7597,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — brancos com detalhes verdes em destaque — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — brancos com detalhes verdes em destaque",
-      "en": "Nike Air Force 1 — white with details greens em destaque",
-      "es": "Nike Air Force 1 — blancos con detalles verdes em destaque",
-      "fr": "Nike Air Force 1 — blancs avec détails verts em destaque",
-      "de": "Nike Air Force 1 — weiß mit Details grüns em destaque"
+      "en": "Nike Air Force 1 — white with details green featured",
+      "es": "Nike Air Force 1 — blancos con detalles verdes destacado",
+      "fr": "Nike Air Force 1 — blancs avec détails verts en vedette",
+      "de": "Nike Air Force 1 — weiß mit Details grün hervorgehoben"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — brancos com detalhes verdes em destaque — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — white with details greens em destaque — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — blancos con detalles verdes em destaque — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — blancs avec détails verts em destaque — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — weiß mit Details grüns em destaque — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — white with details green featured — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — blancos con detalles verdes destacado — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — blancs avec détails verts en vedette — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — weiß mit Details grün hervorgehoben — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7640,17 +7640,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Nike Air Force 1 a preto e branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 a preto e branco",
-      "en": "Nike Air Force 1 — Nike Air Force 1 a black e white",
-      "es": "Nike Air Force 1 — Nike Air Force 1 a negro e blanco",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 a noir e blanc",
-      "de": "Nike Air Force 1 — Nike Air Force 1 a schwarz e weiß"
+      "en": "Nike Air Force 1 — Nike Air Force 1 in black and white",
+      "es": "Nike Air Force 1 — Nike Air Force 1 en negro y blanco",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 en noir et blanc",
+      "de": "Nike Air Force 1 — Nike Air Force 1 in schwarz und weiß"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 a preto e branco — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Nike Air Force 1 a black e white — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Nike Air Force 1 a negro e blanco — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 a noir e blanc — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Nike Air Force 1 a schwarz e weiß — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Nike Air Force 1 in black and white — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Nike Air Force 1 en negro y blanco — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 en noir et blanc — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Nike Air Force 1 in schwarz und weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7683,17 +7683,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Force 1 — Nike Air Force 1 Aqua e Laranja — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 Aqua e Laranja",
-      "en": "Nike Air Force 1 — Nike Air Force 1 Aqua e orange",
-      "es": "Nike Air Force 1 — Nike Air Force 1 Aqua e naranja",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 Aqua e orange",
-      "de": "Nike Air Force 1 — Nike Air Force 1 Aqua e orange"
+      "en": "Nike Air Force 1 — Nike Air Force 1 Aqua and orange",
+      "es": "Nike Air Force 1 — Nike Air Force 1 Aqua y naranja",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 Aqua et orange",
+      "de": "Nike Air Force 1 — Nike Air Force 1 Aqua und orange"
     },
     "descriptions": {
       "pt": "Nike Air Force 1 — Nike Air Force 1 Aqua e Laranja — selecionado pela LM WEAR.",
-      "en": "Nike Air Force 1 — Nike Air Force 1 Aqua e orange — selected by LM WEAR.",
-      "es": "Nike Air Force 1 — Nike Air Force 1 Aqua e naranja — seleccionado por LM WEAR.",
-      "fr": "Nike Air Force 1 — Nike Air Force 1 Aqua e orange — sélectionné par LM WEAR.",
-      "de": "Nike Air Force 1 — Nike Air Force 1 Aqua e orange — ausgewählt von LM WEAR."
+      "en": "Nike Air Force 1 — Nike Air Force 1 Aqua and orange — selected by LM WEAR.",
+      "es": "Nike Air Force 1 — Nike Air Force 1 Aqua y naranja — seleccionado por LM WEAR.",
+      "fr": "Nike Air Force 1 — Nike Air Force 1 Aqua et orange — sélectionné par LM WEAR.",
+      "de": "Nike Air Force 1 — Nike Air Force 1 Aqua und orange — ausgewählt von LM WEAR."
     }
   },
   {
@@ -7941,17 +7941,17 @@ window.LM_PRODUCTS = [
     "description": "Air Jordan 1 Low — retro em tons cinza e creme — selecionado pela LM WEAR.",
     "names": {
       "pt": "Air Jordan 1 Low — retro em tons cinza e creme",
-      "en": "Air Jordan 1 Low — retro em tons cinza e cream",
-      "es": "Air Jordan 1 Low — retro em tons cinza e crema",
-      "fr": "Air Jordan 1 Low — retro em tons cinza e crème",
-      "de": "Air Jordan 1 Low — retro em tons cinza e creme"
+      "en": "Air Jordan 1 Low — retro in tons cinza and cream",
+      "es": "Air Jordan 1 Low — retro en tons cinza y crema",
+      "fr": "Air Jordan 1 Low — retro en tons cinza et crème",
+      "de": "Air Jordan 1 Low — retro in tons cinza und creme"
     },
     "descriptions": {
       "pt": "Air Jordan 1 Low — retro em tons cinza e creme — selecionado pela LM WEAR.",
-      "en": "Air Jordan 1 Low — retro em tons cinza e cream — selected by LM WEAR.",
-      "es": "Air Jordan 1 Low — retro em tons cinza e crema — seleccionado por LM WEAR.",
-      "fr": "Air Jordan 1 Low — retro em tons cinza e crème — sélectionné par LM WEAR.",
-      "de": "Air Jordan 1 Low — retro em tons cinza e creme — ausgewählt von LM WEAR."
+      "en": "Air Jordan 1 Low — retro in tons cinza and cream — selected by LM WEAR.",
+      "es": "Air Jordan 1 Low — retro en tons cinza y crema — seleccionado por LM WEAR.",
+      "fr": "Air Jordan 1 Low — retro en tons cinza et crème — sélectionné par LM WEAR.",
+      "de": "Air Jordan 1 Low — retro in tons cinza und creme — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8070,17 +8070,17 @@ window.LM_PRODUCTS = [
     "description": "Air Jordan 1 Low — Nike Air Jordan em Rosa e Vermelho — selecionado pela LM WEAR.",
     "names": {
       "pt": "Air Jordan 1 Low — Nike Air Jordan em Rosa e Vermelho",
-      "en": "Air Jordan 1 Low — Nike Air Jordan em pink e red",
-      "es": "Air Jordan 1 Low — Nike Air Jordan em rosa e rojo",
-      "fr": "Air Jordan 1 Low — Nike Air Jordan em rose e rouge",
-      "de": "Air Jordan 1 Low — Nike Air Jordan em rosa e rot"
+      "en": "Air Jordan 1 Low — Nike Air Jordan in pink and red",
+      "es": "Air Jordan 1 Low — Nike Air Jordan en rosa y rojo",
+      "fr": "Air Jordan 1 Low — Nike Air Jordan en rose et rouge",
+      "de": "Air Jordan 1 Low — Nike Air Jordan in rosa und rot"
     },
     "descriptions": {
       "pt": "Air Jordan 1 Low — Nike Air Jordan em Rosa e Vermelho — selecionado pela LM WEAR.",
-      "en": "Air Jordan 1 Low — Nike Air Jordan em pink e red — selected by LM WEAR.",
-      "es": "Air Jordan 1 Low — Nike Air Jordan em rosa e rojo — seleccionado por LM WEAR.",
-      "fr": "Air Jordan 1 Low — Nike Air Jordan em rose e rouge — sélectionné par LM WEAR.",
-      "de": "Air Jordan 1 Low — Nike Air Jordan em rosa e rot — ausgewählt von LM WEAR."
+      "en": "Air Jordan 1 Low — Nike Air Jordan in pink and red — selected by LM WEAR.",
+      "es": "Air Jordan 1 Low — Nike Air Jordan en rosa y rojo — seleccionado por LM WEAR.",
+      "fr": "Air Jordan 1 Low — Nike Air Jordan en rose et rouge — sélectionné par LM WEAR.",
+      "de": "Air Jordan 1 Low — Nike Air Jordan in rosa und rot — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8156,17 +8156,17 @@ window.LM_PRODUCTS = [
     "description": "Air Jordan 1 Low — Rosa Pastel e Creme — selecionado pela LM WEAR.",
     "names": {
       "pt": "Air Jordan 1 Low — Rosa Pastel e Creme",
-      "en": "Air Jordan 1 Low — pink Pastel e cream",
-      "es": "Air Jordan 1 Low — rosa Pastel e crema",
-      "fr": "Air Jordan 1 Low — rose Pastel e crème",
-      "de": "Air Jordan 1 Low — rosa Pastel e creme"
+      "en": "Air Jordan 1 Low — pink pastel and cream",
+      "es": "Air Jordan 1 Low — rosa Pastel y crema",
+      "fr": "Air Jordan 1 Low — rose Pastel et crème",
+      "de": "Air Jordan 1 Low — rosa Pastel und creme"
     },
     "descriptions": {
       "pt": "Air Jordan 1 Low — Rosa Pastel e Creme — selecionado pela LM WEAR.",
-      "en": "Air Jordan 1 Low — pink Pastel e cream — selected by LM WEAR.",
-      "es": "Air Jordan 1 Low — rosa Pastel e crema — seleccionado por LM WEAR.",
-      "fr": "Air Jordan 1 Low — rose Pastel e crème — sélectionné par LM WEAR.",
-      "de": "Air Jordan 1 Low — rosa Pastel e creme — ausgewählt von LM WEAR."
+      "en": "Air Jordan 1 Low — pink pastel and cream — selected by LM WEAR.",
+      "es": "Air Jordan 1 Low — rosa Pastel y crema — seleccionado por LM WEAR.",
+      "fr": "Air Jordan 1 Low — rose Pastel et crème — sélectionné par LM WEAR.",
+      "de": "Air Jordan 1 Low — rosa Pastel und creme — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8328,17 +8328,17 @@ window.LM_PRODUCTS = [
     "description": "Air Jordan 4 — Pretas e Amarelas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Air Jordan 4 — Pretas e Amarelas",
-      "en": "Air Jordan 4 — black e Amarelas",
-      "es": "Air Jordan 4 — negras e Amarelas",
-      "fr": "Air Jordan 4 — noires e Amarelas",
-      "de": "Air Jordan 4 — schwarz e Amarelas"
+      "en": "Air Jordan 4 — black and Amarelas",
+      "es": "Air Jordan 4 — negras y Amarelas",
+      "fr": "Air Jordan 4 — noires et Amarelas",
+      "de": "Air Jordan 4 — schwarz und Amarelas"
     },
     "descriptions": {
       "pt": "Air Jordan 4 — Pretas e Amarelas — selecionado pela LM WEAR.",
-      "en": "Air Jordan 4 — black e Amarelas — selected by LM WEAR.",
-      "es": "Air Jordan 4 — negras e Amarelas — seleccionado por LM WEAR.",
-      "fr": "Air Jordan 4 — noires e Amarelas — sélectionné par LM WEAR.",
-      "de": "Air Jordan 4 — schwarz e Amarelas — ausgewählt von LM WEAR."
+      "en": "Air Jordan 4 — black and Amarelas — selected by LM WEAR.",
+      "es": "Air Jordan 4 — negras y Amarelas — seleccionado por LM WEAR.",
+      "fr": "Air Jordan 4 — noires et Amarelas — sélectionné par LM WEAR.",
+      "de": "Air Jordan 4 — schwarz und Amarelas — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8371,17 +8371,17 @@ window.LM_PRODUCTS = [
     "description": "Air Jordan 4 — pretas e vermelhas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Air Jordan 4 — pretas e vermelhas",
-      "en": "Air Jordan 4 — black e red",
-      "es": "Air Jordan 4 — negras e rojas",
-      "fr": "Air Jordan 4 — noires e rouges",
-      "de": "Air Jordan 4 — schwarz e rot"
+      "en": "Air Jordan 4 — black and red",
+      "es": "Air Jordan 4 — negras y rojas",
+      "fr": "Air Jordan 4 — noires et rouges",
+      "de": "Air Jordan 4 — schwarz und rot"
     },
     "descriptions": {
       "pt": "Air Jordan 4 — pretas e vermelhas — selecionado pela LM WEAR.",
-      "en": "Air Jordan 4 — black e red — selected by LM WEAR.",
-      "es": "Air Jordan 4 — negras e rojas — seleccionado por LM WEAR.",
-      "fr": "Air Jordan 4 — noires e rouges — sélectionné par LM WEAR.",
-      "de": "Air Jordan 4 — schwarz e rot — ausgewählt von LM WEAR."
+      "en": "Air Jordan 4 — black and red — selected by LM WEAR.",
+      "es": "Air Jordan 4 — negras y rojas — seleccionado por LM WEAR.",
+      "fr": "Air Jordan 4 — noires et rouges — sélectionné par LM WEAR.",
+      "de": "Air Jordan 4 — schwarz und rot — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8414,17 +8414,17 @@ window.LM_PRODUCTS = [
     "description": "Air Jordan 4 — pretos e brancos — selecionado pela LM WEAR.",
     "names": {
       "pt": "Air Jordan 4 — pretos e brancos",
-      "en": "Air Jordan 4 — black e white",
-      "es": "Air Jordan 4 — negros e blancos",
-      "fr": "Air Jordan 4 — noirs e blancs",
-      "de": "Air Jordan 4 — schwarz e weiß"
+      "en": "Air Jordan 4 — black and white",
+      "es": "Air Jordan 4 — negros y blancos",
+      "fr": "Air Jordan 4 — noirs et blancs",
+      "de": "Air Jordan 4 — schwarz und weiß"
     },
     "descriptions": {
       "pt": "Air Jordan 4 — pretos e brancos — selecionado pela LM WEAR.",
-      "en": "Air Jordan 4 — black e white — selected by LM WEAR.",
-      "es": "Air Jordan 4 — negros e blancos — seleccionado por LM WEAR.",
-      "fr": "Air Jordan 4 — noirs e blancs — sélectionné par LM WEAR.",
-      "de": "Air Jordan 4 — schwarz e weiß — ausgewählt von LM WEAR."
+      "en": "Air Jordan 4 — black and white — selected by LM WEAR.",
+      "es": "Air Jordan 4 — negros y blancos — seleccionado por LM WEAR.",
+      "fr": "Air Jordan 4 — noirs et blancs — sélectionné par LM WEAR.",
+      "de": "Air Jordan 4 — schwarz und weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8445,17 +8445,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods — dos AirPods Pro em Branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods — dos AirPods Pro em Branco",
-      "en": "Apple AirPods — dos AirPods Pro em white",
-      "es": "Apple AirPods — dos AirPods Pro em blanco",
-      "fr": "Apple AirPods — dos AirPods Pro em blanc",
-      "de": "Apple AirPods — dos AirPods Pro em weiß"
+      "en": "Apple AirPods — of the AirPods Pro in white",
+      "es": "Apple AirPods — de los AirPods Pro en blanco",
+      "fr": "Apple AirPods — des AirPods Pro en blanc",
+      "de": "Apple AirPods — der AirPods Pro in weiß"
     },
     "descriptions": {
       "pt": "Apple AirPods — dos AirPods Pro em Branco — selecionado pela LM WEAR.",
-      "en": "Apple AirPods — dos AirPods Pro em white — selected by LM WEAR.",
-      "es": "Apple AirPods — dos AirPods Pro em blanco — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods — dos AirPods Pro em blanc — sélectionné par LM WEAR.",
-      "de": "Apple AirPods — dos AirPods Pro em weiß — ausgewählt von LM WEAR."
+      "en": "Apple AirPods — of the AirPods Pro in white — selected by LM WEAR.",
+      "es": "Apple AirPods — de los AirPods Pro en blanco — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods — des AirPods Pro en blanc — sélectionné par LM WEAR.",
+      "de": "Apple AirPods — der AirPods Pro in weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8476,17 +8476,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods — dos AirPods — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods — dos AirPods",
-      "en": "Apple AirPods — dos AirPods",
-      "es": "Apple AirPods — dos AirPods",
-      "fr": "Apple AirPods — dos AirPods",
-      "de": "Apple AirPods — dos AirPods"
+      "en": "Apple AirPods — of the AirPods",
+      "es": "Apple AirPods — de los AirPods",
+      "fr": "Apple AirPods — des AirPods",
+      "de": "Apple AirPods — der AirPods"
     },
     "descriptions": {
       "pt": "Apple AirPods — dos AirPods — selecionado pela LM WEAR.",
-      "en": "Apple AirPods — dos AirPods — selected by LM WEAR.",
-      "es": "Apple AirPods — dos AirPods — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods — dos AirPods — sélectionné par LM WEAR.",
-      "de": "Apple AirPods — dos AirPods — ausgewählt von LM WEAR."
+      "en": "Apple AirPods — of the AirPods — selected by LM WEAR.",
+      "es": "Apple AirPods — de los AirPods — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods — des AirPods — sélectionné par LM WEAR.",
+      "de": "Apple AirPods — der AirPods — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8507,17 +8507,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods Max — AirPods Max e acessórios Apple em branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods Max — AirPods Max e acessórios Apple em branco",
-      "en": "Apple AirPods Max — AirPods Max e acessórios Apple em white",
-      "es": "Apple AirPods Max — AirPods Max e acessórios Apple em blanco",
-      "fr": "Apple AirPods Max — AirPods Max e acessórios Apple em blanc",
-      "de": "Apple AirPods Max — AirPods Max e acessórios Apple em weiß"
+      "en": "Apple AirPods Max — AirPods Max and accessories Apple in white",
+      "es": "Apple AirPods Max — AirPods Max y accesorios Apple en blanco",
+      "fr": "Apple AirPods Max — AirPods Max et accessoires Apple en blanc",
+      "de": "Apple AirPods Max — AirPods Max und Zubehör Apple in weiß"
     },
     "descriptions": {
       "pt": "Apple AirPods Max — AirPods Max e acessórios Apple em branco — selecionado pela LM WEAR.",
-      "en": "Apple AirPods Max — AirPods Max e acessórios Apple em white — selected by LM WEAR.",
-      "es": "Apple AirPods Max — AirPods Max e acessórios Apple em blanco — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods Max — AirPods Max e acessórios Apple em blanc — sélectionné par LM WEAR.",
-      "de": "Apple AirPods Max — AirPods Max e acessórios Apple em weiß — ausgewählt von LM WEAR."
+      "en": "Apple AirPods Max — AirPods Max and accessories Apple in white — selected by LM WEAR.",
+      "es": "Apple AirPods Max — AirPods Max y accesorios Apple en blanco — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods Max — AirPods Max et accessoires Apple en blanc — sélectionné par LM WEAR.",
+      "de": "Apple AirPods Max — AirPods Max und Zubehör Apple in weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8538,17 +8538,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods Max — AirPods Max conjunto coral completo — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods Max — AirPods Max conjunto coral completo",
-      "en": "Apple AirPods Max — AirPods Max set coral withpleto",
-      "es": "Apple AirPods Max — AirPods Max conjunto coral conpleto",
-      "fr": "Apple AirPods Max — AirPods Max ensemble coral avecpleto",
-      "de": "Apple AirPods Max — AirPods Max Set coral mitpleto"
+      "en": "Apple AirPods Max — AirPods Max set coral completo",
+      "es": "Apple AirPods Max — AirPods Max conjunto coral completo",
+      "fr": "Apple AirPods Max — AirPods Max ensemble coral completo",
+      "de": "Apple AirPods Max — AirPods Max Set coral completo"
     },
     "descriptions": {
       "pt": "Apple AirPods Max — AirPods Max conjunto coral completo — selecionado pela LM WEAR.",
-      "en": "Apple AirPods Max — AirPods Max set coral withpleto — selected by LM WEAR.",
-      "es": "Apple AirPods Max — AirPods Max conjunto coral conpleto — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods Max — AirPods Max ensemble coral avecpleto — sélectionné par LM WEAR.",
-      "de": "Apple AirPods Max — AirPods Max Set coral mitpleto — ausgewählt von LM WEAR."
+      "en": "Apple AirPods Max — AirPods Max set coral completo — selected by LM WEAR.",
+      "es": "Apple AirPods Max — AirPods Max conjunto coral completo — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods Max — AirPods Max ensemble coral completo — sélectionné par LM WEAR.",
+      "de": "Apple AirPods Max — AirPods Max Set coral completo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8569,17 +8569,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods Max — dos AirPods Max Azuis — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods Max — dos AirPods Max Azuis",
-      "en": "Apple AirPods Max — dos AirPods Max Azuis",
-      "es": "Apple AirPods Max — dos AirPods Max Azuis",
-      "fr": "Apple AirPods Max — dos AirPods Max Azuis",
-      "de": "Apple AirPods Max — dos AirPods Max Azuis"
+      "en": "Apple AirPods Max — of the AirPods Max blue",
+      "es": "Apple AirPods Max — de los AirPods Max azules",
+      "fr": "Apple AirPods Max — des AirPods Max bleus",
+      "de": "Apple AirPods Max — der AirPods Max blau"
     },
     "descriptions": {
       "pt": "Apple AirPods Max — dos AirPods Max Azuis — selecionado pela LM WEAR.",
-      "en": "Apple AirPods Max — dos AirPods Max Azuis — selected by LM WEAR.",
-      "es": "Apple AirPods Max — dos AirPods Max Azuis — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods Max — dos AirPods Max Azuis — sélectionné par LM WEAR.",
-      "de": "Apple AirPods Max — dos AirPods Max Azuis — ausgewählt von LM WEAR."
+      "en": "Apple AirPods Max — of the AirPods Max blue — selected by LM WEAR.",
+      "es": "Apple AirPods Max — de los AirPods Max azules — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods Max — des AirPods Max bleus — sélectionné par LM WEAR.",
+      "de": "Apple AirPods Max — der AirPods Max blau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8600,17 +8600,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods Max — dos AirPods Max Verdes — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods Max — dos AirPods Max Verdes",
-      "en": "Apple AirPods Max — dos AirPods Max greens",
-      "es": "Apple AirPods Max — dos AirPods Max verdes",
-      "fr": "Apple AirPods Max — dos AirPods Max verts",
-      "de": "Apple AirPods Max — dos AirPods Max grüns"
+      "en": "Apple AirPods Max — of the AirPods Max green",
+      "es": "Apple AirPods Max — de los AirPods Max verdes",
+      "fr": "Apple AirPods Max — des AirPods Max verts",
+      "de": "Apple AirPods Max — der AirPods Max grün"
     },
     "descriptions": {
       "pt": "Apple AirPods Max — dos AirPods Max Verdes — selecionado pela LM WEAR.",
-      "en": "Apple AirPods Max — dos AirPods Max greens — selected by LM WEAR.",
-      "es": "Apple AirPods Max — dos AirPods Max verdes — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods Max — dos AirPods Max verts — sélectionné par LM WEAR.",
-      "de": "Apple AirPods Max — dos AirPods Max grüns — ausgewählt von LM WEAR."
+      "en": "Apple AirPods Max — of the AirPods Max green — selected by LM WEAR.",
+      "es": "Apple AirPods Max — de los AirPods Max verdes — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods Max — des AirPods Max verts — sélectionné par LM WEAR.",
+      "de": "Apple AirPods Max — der AirPods Max grün — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8631,17 +8631,17 @@ window.LM_PRODUCTS = [
     "description": "Apple AirPods Max — dos AirPods Max em branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Apple AirPods Max — dos AirPods Max em branco",
-      "en": "Apple AirPods Max — dos AirPods Max em white",
-      "es": "Apple AirPods Max — dos AirPods Max em blanco",
-      "fr": "Apple AirPods Max — dos AirPods Max em blanc",
-      "de": "Apple AirPods Max — dos AirPods Max em weiß"
+      "en": "Apple AirPods Max — of the AirPods Max in white",
+      "es": "Apple AirPods Max — de los AirPods Max en blanco",
+      "fr": "Apple AirPods Max — des AirPods Max en blanc",
+      "de": "Apple AirPods Max — der AirPods Max in weiß"
     },
     "descriptions": {
       "pt": "Apple AirPods Max — dos AirPods Max em branco — selecionado pela LM WEAR.",
-      "en": "Apple AirPods Max — dos AirPods Max em white — selected by LM WEAR.",
-      "es": "Apple AirPods Max — dos AirPods Max em blanco — seleccionado por LM WEAR.",
-      "fr": "Apple AirPods Max — dos AirPods Max em blanc — sélectionné par LM WEAR.",
-      "de": "Apple AirPods Max — dos AirPods Max em weiß — ausgewählt von LM WEAR."
+      "en": "Apple AirPods Max — of the AirPods Max in white — selected by LM WEAR.",
+      "es": "Apple AirPods Max — de los AirPods Max en blanco — seleccionado por LM WEAR.",
+      "fr": "Apple AirPods Max — des AirPods Max en blanc — sélectionné par LM WEAR.",
+      "de": "Apple AirPods Max — der AirPods Max in weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8667,17 +8667,17 @@ window.LM_PRODUCTS = [
     "description": "T-shirt AMI Paris — T-shirt branca com logótipo vermelho Ami — selecionado pela LM WEAR.",
     "names": {
       "pt": "T-shirt AMI Paris — T-shirt branca com logótipo vermelho Ami",
-      "en": "AMI Paris T-shirt — T-shirt white with logótipo red Ami",
-      "es": "Camiseta AMI Paris — T-shirt blanca con logótipo rojo Ami",
-      "fr": "T-shirt AMI Paris — T-shirt blanche avec logótipo rouge Ami",
-      "de": "AMI Paris T-Shirt — T-shirt weiß mit logótipo rot Ami"
+      "en": "AMI Paris T-shirt — T-shirt white with logo red Ami",
+      "es": "Camiseta AMI Paris — T-shirt blanca con logotipo rojo Ami",
+      "fr": "T-shirt AMI Paris — T-shirt blanche avec logo rouge Ami",
+      "de": "AMI Paris T-Shirt — T-shirt weiß mit Logo rot Ami"
     },
     "descriptions": {
       "pt": "T-shirt AMI Paris — T-shirt branca com logótipo vermelho Ami — selecionado pela LM WEAR.",
-      "en": "AMI Paris T-shirt — T-shirt white with logótipo red Ami — selected by LM WEAR.",
-      "es": "Camiseta AMI Paris — T-shirt blanca con logótipo rojo Ami — seleccionado por LM WEAR.",
-      "fr": "T-shirt AMI Paris — T-shirt blanche avec logótipo rouge Ami — sélectionné par LM WEAR.",
-      "de": "AMI Paris T-Shirt — T-shirt weiß mit logótipo rot Ami — ausgewählt von LM WEAR."
+      "en": "AMI Paris T-shirt — T-shirt white with logo red Ami — selected by LM WEAR.",
+      "es": "Camiseta AMI Paris — T-shirt blanca con logotipo rojo Ami — seleccionado por LM WEAR.",
+      "fr": "T-shirt AMI Paris — T-shirt blanche avec logo rouge Ami — sélectionné par LM WEAR.",
+      "de": "AMI Paris T-Shirt — T-shirt weiß mit Logo rot Ami — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8703,17 +8703,17 @@ window.LM_PRODUCTS = [
     "description": "T-shirt AMI Paris — T-shirt Preta com Logótipo Bordado — selecionado pela LM WEAR.",
     "names": {
       "pt": "T-shirt AMI Paris — T-shirt Preta com Logótipo Bordado",
-      "en": "AMI Paris T-shirt — T-shirt black with Logótipo embroidered",
-      "es": "Camiseta AMI Paris — T-shirt negra con Logótipo bordado",
-      "fr": "T-shirt AMI Paris — T-shirt noire avec Logótipo brodé",
-      "de": "AMI Paris T-Shirt — T-shirt schwarz mit Logótipo bestickt"
+      "en": "AMI Paris T-shirt — T-shirt black with logo embroidered",
+      "es": "Camiseta AMI Paris — T-shirt negra con logotipo bordado",
+      "fr": "T-shirt AMI Paris — T-shirt noire avec logo brodé",
+      "de": "AMI Paris T-Shirt — T-shirt schwarz mit Logo bestickt"
     },
     "descriptions": {
       "pt": "T-shirt AMI Paris — T-shirt Preta com Logótipo Bordado — selecionado pela LM WEAR.",
-      "en": "AMI Paris T-shirt — T-shirt black with Logótipo embroidered — selected by LM WEAR.",
-      "es": "Camiseta AMI Paris — T-shirt negra con Logótipo bordado — seleccionado por LM WEAR.",
-      "fr": "T-shirt AMI Paris — T-shirt noire avec Logótipo brodé — sélectionné par LM WEAR.",
-      "de": "AMI Paris T-Shirt — T-shirt schwarz mit Logótipo bestickt — ausgewählt von LM WEAR."
+      "en": "AMI Paris T-shirt — T-shirt black with logo embroidered — selected by LM WEAR.",
+      "es": "Camiseta AMI Paris — T-shirt negra con logotipo bordado — seleccionado por LM WEAR.",
+      "fr": "T-shirt AMI Paris — T-shirt noire avec logo brodé — sélectionné par LM WEAR.",
+      "de": "AMI Paris T-Shirt — T-shirt schwarz mit Logo bestickt — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8739,17 +8739,17 @@ window.LM_PRODUCTS = [
     "description": "Sweatshirt AMI Paris — Camisola azul-marinho com logótipo coração-A ami — selecionado pela LM WEAR.",
     "names": {
       "pt": "Sweatshirt AMI Paris — Camisola azul-marinho com logótipo coração-A ami",
-      "en": "AMI Paris Sweatshirt — Camisola navy blue with logótipo coração-A ami",
-      "es": "Sudadera AMI Paris — Camisola azul marino con logótipo coração-A ami",
-      "fr": "Sweatshirt AMI Paris — Camisola bleu marine avec logótipo coração-A ami",
-      "de": "AMI Paris Sweatshirt — Camisola marineblau mit logótipo coração-A ami"
+      "en": "AMI Paris Sweatshirt — sweatshirt navy blue with logo heart-in ami",
+      "es": "Sudadera AMI Paris — sudadera azul marino con logotipo corazón-en ami",
+      "fr": "Sweatshirt AMI Paris — sweatshirt bleu marine avec logo cœur-en ami",
+      "de": "AMI Paris Sweatshirt — Sweatshirt marineblau mit Logo Herz-in ami"
     },
     "descriptions": {
       "pt": "Sweatshirt AMI Paris — Camisola azul-marinho com logótipo coração-A ami — selecionado pela LM WEAR.",
-      "en": "AMI Paris Sweatshirt — Camisola navy blue with logótipo coração-A ami — selected by LM WEAR.",
-      "es": "Sudadera AMI Paris — Camisola azul marino con logótipo coração-A ami — seleccionado por LM WEAR.",
-      "fr": "Sweatshirt AMI Paris — Camisola bleu marine avec logótipo coração-A ami — sélectionné par LM WEAR.",
-      "de": "AMI Paris Sweatshirt — Camisola marineblau mit logótipo coração-A ami — ausgewählt von LM WEAR."
+      "en": "AMI Paris Sweatshirt — sweatshirt navy blue with logo heart-in ami — selected by LM WEAR.",
+      "es": "Sudadera AMI Paris — sudadera azul marino con logotipo corazón-en ami — seleccionado por LM WEAR.",
+      "fr": "Sweatshirt AMI Paris — sweatshirt bleu marine avec logo cœur-en ami — sélectionné par LM WEAR.",
+      "de": "AMI Paris Sweatshirt — Sweatshirt marineblau mit Logo Herz-in ami — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8775,17 +8775,17 @@ window.LM_PRODUCTS = [
     "description": "Sweatshirt AMI Paris — Camisola branca com emblema AMI — selecionado pela LM WEAR.",
     "names": {
       "pt": "Sweatshirt AMI Paris — Camisola branca com emblema AMI",
-      "en": "AMI Paris Sweatshirt — Camisola white with emblema AMI",
-      "es": "Sudadera AMI Paris — Camisola blanca con emblema AMI",
-      "fr": "Sweatshirt AMI Paris — Camisola blanche avec emblema AMI",
-      "de": "AMI Paris Sweatshirt — Camisola weiß mit emblema AMI"
+      "en": "AMI Paris Sweatshirt — sweatshirt white with emblem AMI",
+      "es": "Sudadera AMI Paris — sudadera blanca con emblema AMI",
+      "fr": "Sweatshirt AMI Paris — sweatshirt blanche avec emblème AMI",
+      "de": "AMI Paris Sweatshirt — Sweatshirt weiß mit Abzeichen AMI"
     },
     "descriptions": {
       "pt": "Sweatshirt AMI Paris — Camisola branca com emblema AMI — selecionado pela LM WEAR.",
-      "en": "AMI Paris Sweatshirt — Camisola white with emblema AMI — selected by LM WEAR.",
-      "es": "Sudadera AMI Paris — Camisola blanca con emblema AMI — seleccionado por LM WEAR.",
-      "fr": "Sweatshirt AMI Paris — Camisola blanche avec emblema AMI — sélectionné par LM WEAR.",
-      "de": "AMI Paris Sweatshirt — Camisola weiß mit emblema AMI — ausgewählt von LM WEAR."
+      "en": "AMI Paris Sweatshirt — sweatshirt white with emblem AMI — selected by LM WEAR.",
+      "es": "Sudadera AMI Paris — sudadera blanca con emblema AMI — seleccionado por LM WEAR.",
+      "fr": "Sweatshirt AMI Paris — sweatshirt blanche avec emblème AMI — sélectionné par LM WEAR.",
+      "de": "AMI Paris Sweatshirt — Sweatshirt weiß mit Abzeichen AMI — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8811,17 +8811,17 @@ window.LM_PRODUCTS = [
     "description": "Sweatshirt AMI Paris — Camisola Preta com Logótipo Coração-A — selecionado pela LM WEAR.",
     "names": {
       "pt": "Sweatshirt AMI Paris — Camisola Preta com Logótipo Coração-A",
-      "en": "AMI Paris Sweatshirt — Camisola black with Logótipo Coração-A",
-      "es": "Sudadera AMI Paris — Camisola negra con Logótipo Coração-A",
-      "fr": "Sweatshirt AMI Paris — Camisola noire avec Logótipo Coração-A",
-      "de": "AMI Paris Sweatshirt — Camisola schwarz mit Logótipo Coração-A"
+      "en": "AMI Paris Sweatshirt — sweatshirt black with logo heart-in",
+      "es": "Sudadera AMI Paris — sudadera negra con logotipo corazón-en",
+      "fr": "Sweatshirt AMI Paris — sweatshirt noire avec logo cœur-en",
+      "de": "AMI Paris Sweatshirt — Sweatshirt schwarz mit Logo Herz-in"
     },
     "descriptions": {
       "pt": "Sweatshirt AMI Paris — Camisola Preta com Logótipo Coração-A — selecionado pela LM WEAR.",
-      "en": "AMI Paris Sweatshirt — Camisola black with Logótipo Coração-A — selected by LM WEAR.",
-      "es": "Sudadera AMI Paris — Camisola negra con Logótipo Coração-A — seleccionado por LM WEAR.",
-      "fr": "Sweatshirt AMI Paris — Camisola noire avec Logótipo Coração-A — sélectionné par LM WEAR.",
-      "de": "AMI Paris Sweatshirt — Camisola schwarz mit Logótipo Coração-A — ausgewählt von LM WEAR."
+      "en": "AMI Paris Sweatshirt — sweatshirt black with logo heart-in — selected by LM WEAR.",
+      "es": "Sudadera AMI Paris — sudadera negra con logotipo corazón-en — seleccionado por LM WEAR.",
+      "fr": "Sweatshirt AMI Paris — sweatshirt noire avec logo cœur-en — sélectionné par LM WEAR.",
+      "de": "AMI Paris Sweatshirt — Sweatshirt schwarz mit Logo Herz-in — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8847,17 +8847,17 @@ window.LM_PRODUCTS = [
     "description": "Sweatshirt AMI Paris — Camisola rosa com logótipo AMI — selecionado pela LM WEAR.",
     "names": {
       "pt": "Sweatshirt AMI Paris — Camisola rosa com logótipo AMI",
-      "en": "AMI Paris Sweatshirt — Camisola pink with logótipo AMI",
-      "es": "Sudadera AMI Paris — Camisola rosa con logótipo AMI",
-      "fr": "Sweatshirt AMI Paris — Camisola rose avec logótipo AMI",
-      "de": "AMI Paris Sweatshirt — Camisola rosa mit logótipo AMI"
+      "en": "AMI Paris Sweatshirt — sweatshirt pink with logo AMI",
+      "es": "Sudadera AMI Paris — sudadera rosa con logotipo AMI",
+      "fr": "Sweatshirt AMI Paris — sweatshirt rose avec logo AMI",
+      "de": "AMI Paris Sweatshirt — Sweatshirt rosa mit Logo AMI"
     },
     "descriptions": {
       "pt": "Sweatshirt AMI Paris — Camisola rosa com logótipo AMI — selecionado pela LM WEAR.",
-      "en": "AMI Paris Sweatshirt — Camisola pink with logótipo AMI — selected by LM WEAR.",
-      "es": "Sudadera AMI Paris — Camisola rosa con logótipo AMI — seleccionado por LM WEAR.",
-      "fr": "Sweatshirt AMI Paris — Camisola rose avec logótipo AMI — sélectionné par LM WEAR.",
-      "de": "AMI Paris Sweatshirt — Camisola rosa mit logótipo AMI — ausgewählt von LM WEAR."
+      "en": "AMI Paris Sweatshirt — sweatshirt pink with logo AMI — selected by LM WEAR.",
+      "es": "Sudadera AMI Paris — sudadera rosa con logotipo AMI — seleccionado por LM WEAR.",
+      "fr": "Sweatshirt AMI Paris — sweatshirt rose avec logo AMI — sélectionné par LM WEAR.",
+      "de": "AMI Paris Sweatshirt — Sweatshirt rosa mit Logo AMI — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8883,17 +8883,17 @@ window.LM_PRODUCTS = [
     "description": "Sweatshirt AMI Paris — Sweatshirt Cinzenta com Patch Coração A — selecionado pela LM WEAR.",
     "names": {
       "pt": "Sweatshirt AMI Paris — Sweatshirt Cinzenta com Patch Coração A",
-      "en": "AMI Paris Sweatshirt — Sweatshirt grey with Patch Coração A",
-      "es": "Sudadera AMI Paris — Sweatshirt gris con Patch Coração A",
-      "fr": "Sweatshirt AMI Paris — Sweatshirt grise avec Patch Coração A",
-      "de": "AMI Paris Sweatshirt — Sweatshirt grau mit Patch Coração A"
+      "en": "AMI Paris Sweatshirt — Sweatshirt grey with Patch heart in",
+      "es": "Sudadera AMI Paris — Sweatshirt gris con Patch corazón en",
+      "fr": "Sweatshirt AMI Paris — Sweatshirt grise avec Patch cœur en",
+      "de": "AMI Paris Sweatshirt — Sweatshirt grau mit Patch Herz in"
     },
     "descriptions": {
       "pt": "Sweatshirt AMI Paris — Sweatshirt Cinzenta com Patch Coração A — selecionado pela LM WEAR.",
-      "en": "AMI Paris Sweatshirt — Sweatshirt grey with Patch Coração A — selected by LM WEAR.",
-      "es": "Sudadera AMI Paris — Sweatshirt gris con Patch Coração A — seleccionado por LM WEAR.",
-      "fr": "Sweatshirt AMI Paris — Sweatshirt grise avec Patch Coração A — sélectionné par LM WEAR.",
-      "de": "AMI Paris Sweatshirt — Sweatshirt grau mit Patch Coração A — ausgewählt von LM WEAR."
+      "en": "AMI Paris Sweatshirt — Sweatshirt grey with Patch heart in — selected by LM WEAR.",
+      "es": "Sudadera AMI Paris — Sweatshirt gris con Patch corazón en — seleccionado por LM WEAR.",
+      "fr": "Sweatshirt AMI Paris — Sweatshirt grise avec Patch cœur en — sélectionné par LM WEAR.",
+      "de": "AMI Paris Sweatshirt — Sweatshirt grau mit Patch Herz in — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8919,17 +8919,17 @@ window.LM_PRODUCTS = [
     "description": "Sweatshirt AMI Paris — Sweatshirt Preto com Patch Coração-A — selecionado pela LM WEAR.",
     "names": {
       "pt": "Sweatshirt AMI Paris — Sweatshirt Preto com Patch Coração-A",
-      "en": "AMI Paris Sweatshirt — Sweatshirt black with Patch Coração-A",
-      "es": "Sudadera AMI Paris — Sweatshirt negro con Patch Coração-A",
-      "fr": "Sweatshirt AMI Paris — Sweatshirt noir avec Patch Coração-A",
-      "de": "AMI Paris Sweatshirt — Sweatshirt schwarz mit Patch Coração-A"
+      "en": "AMI Paris Sweatshirt — Sweatshirt black with Patch heart-in",
+      "es": "Sudadera AMI Paris — Sweatshirt negro con Patch corazón-en",
+      "fr": "Sweatshirt AMI Paris — Sweatshirt noir avec Patch cœur-en",
+      "de": "AMI Paris Sweatshirt — Sweatshirt schwarz mit Patch Herz-in"
     },
     "descriptions": {
       "pt": "Sweatshirt AMI Paris — Sweatshirt Preto com Patch Coração-A — selecionado pela LM WEAR.",
-      "en": "AMI Paris Sweatshirt — Sweatshirt black with Patch Coração-A — selected by LM WEAR.",
-      "es": "Sudadera AMI Paris — Sweatshirt negro con Patch Coração-A — seleccionado por LM WEAR.",
-      "fr": "Sweatshirt AMI Paris — Sweatshirt noir avec Patch Coração-A — sélectionné par LM WEAR.",
-      "de": "AMI Paris Sweatshirt — Sweatshirt schwarz mit Patch Coração-A — ausgewählt von LM WEAR."
+      "en": "AMI Paris Sweatshirt — Sweatshirt black with Patch heart-in — selected by LM WEAR.",
+      "es": "Sudadera AMI Paris — Sweatshirt negro con Patch corazón-en — seleccionado por LM WEAR.",
+      "fr": "Sweatshirt AMI Paris — Sweatshirt noir avec Patch cœur-en — sélectionné par LM WEAR.",
+      "de": "AMI Paris Sweatshirt — Sweatshirt schwarz mit Patch Herz-in — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8950,17 +8950,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Nike — Mochila Nike Azul com Cordões Brancos — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Nike — Mochila Nike Azul com Cordões Brancos",
-      "en": "Nike Backpack — backpack Nike blue with Cordões white",
-      "es": "Mochila Nike — mochila Nike azul con Cordões blancos",
-      "fr": "Sac à dos Nike — sac à dos Nike bleu avec Cordões blancs",
-      "de": "Nike Rucksack — Rucksack Nike blau mit Cordões weiß"
+      "en": "Nike Backpack — backpack Nike blue with drawstrings white",
+      "es": "Mochila Nike — mochila Nike azul con cordones blancos",
+      "fr": "Sac à dos Nike — sac à des Nike bleu avec cordons blancs",
+      "de": "Nike Rucksack — Rucksack Nike blau mit Kordeln weiß"
     },
     "descriptions": {
       "pt": "Mochila Nike — Mochila Nike Azul com Cordões Brancos — selecionado pela LM WEAR.",
-      "en": "Nike Backpack — backpack Nike blue with Cordões white — selected by LM WEAR.",
-      "es": "Mochila Nike — mochila Nike azul con Cordões blancos — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Nike — sac à dos Nike bleu avec Cordões blancs — sélectionné par LM WEAR.",
-      "de": "Nike Rucksack — Rucksack Nike blau mit Cordões weiß — ausgewählt von LM WEAR."
+      "en": "Nike Backpack — backpack Nike blue with drawstrings white — selected by LM WEAR.",
+      "es": "Mochila Nike — mochila Nike azul con cordones blancos — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Nike — sac à des Nike bleu avec cordons blancs — sélectionné par LM WEAR.",
+      "de": "Nike Rucksack — Rucksack Nike blau mit Kordeln weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -8981,17 +8981,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Nike — Mochila Nike Cinzenta com Cordão Frontal — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Nike — Mochila Nike Cinzenta com Cordão Frontal",
-      "en": "Nike Backpack — backpack Nike grey with Cordão Frontal",
-      "es": "Mochila Nike — mochila Nike gris con Cordão Frontal",
-      "fr": "Sac à dos Nike — sac à dos Nike grise avec Cordão Frontal",
-      "de": "Nike Rucksack — Rucksack Nike grau mit Cordão Frontal"
+      "en": "Nike Backpack — backpack Nike grey with drawstring Frontal",
+      "es": "Mochila Nike — mochila Nike gris con cordón Frontal",
+      "fr": "Sac à dos Nike — sac à des Nike grise avec cordon Frontal",
+      "de": "Nike Rucksack — Rucksack Nike grau mit Kordel Frontal"
     },
     "descriptions": {
       "pt": "Mochila Nike — Mochila Nike Cinzenta com Cordão Frontal — selecionado pela LM WEAR.",
-      "en": "Nike Backpack — backpack Nike grey with Cordão Frontal — selected by LM WEAR.",
-      "es": "Mochila Nike — mochila Nike gris con Cordão Frontal — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Nike — sac à dos Nike grise avec Cordão Frontal — sélectionné par LM WEAR.",
-      "de": "Nike Rucksack — Rucksack Nike grau mit Cordão Frontal — ausgewählt von LM WEAR."
+      "en": "Nike Backpack — backpack Nike grey with drawstring Frontal — selected by LM WEAR.",
+      "es": "Mochila Nike — mochila Nike gris con cordón Frontal — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Nike — sac à des Nike grise avec cordon Frontal — sélectionné par LM WEAR.",
+      "de": "Nike Rucksack — Rucksack Nike grau mit Kordel Frontal — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9012,17 +9012,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Nike — Mochila Nike preta com cordão elástico — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Nike — Mochila Nike preta com cordão elástico",
-      "en": "Nike Backpack — backpack Nike black with cordão elástico",
-      "es": "Mochila Nike — mochila Nike negra con cordão elástico",
-      "fr": "Sac à dos Nike — sac à dos Nike noire avec cordão elástico",
-      "de": "Nike Rucksack — Rucksack Nike schwarz mit cordão elástico"
+      "en": "Nike Backpack — backpack Nike black with drawstring elástico",
+      "es": "Mochila Nike — mochila Nike negra con cordón elástico",
+      "fr": "Sac à dos Nike — sac à des Nike noire avec cordon elástico",
+      "de": "Nike Rucksack — Rucksack Nike schwarz mit Kordel elástico"
     },
     "descriptions": {
       "pt": "Mochila Nike — Mochila Nike preta com cordão elástico — selecionado pela LM WEAR.",
-      "en": "Nike Backpack — backpack Nike black with cordão elástico — selected by LM WEAR.",
-      "es": "Mochila Nike — mochila Nike negra con cordão elástico — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Nike — sac à dos Nike noire avec cordão elástico — sélectionné par LM WEAR.",
-      "de": "Nike Rucksack — Rucksack Nike schwarz mit cordão elástico — ausgewählt von LM WEAR."
+      "en": "Nike Backpack — backpack Nike black with drawstring elástico — selected by LM WEAR.",
+      "es": "Mochila Nike — mochila Nike negra con cordón elástico — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Nike — sac à des Nike noire avec cordon elástico — sélectionné par LM WEAR.",
+      "de": "Nike Rucksack — Rucksack Nike schwarz mit Kordel elástico — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9043,17 +9043,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Nike — Mochila Nike preta com cordões elásticos — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Nike — Mochila Nike preta com cordões elásticos",
-      "en": "Nike Backpack — backpack Nike black with cordões elásticos",
-      "es": "Mochila Nike — mochila Nike negra con cordões elásticos",
-      "fr": "Sac à dos Nike — sac à dos Nike noire avec cordões elásticos",
-      "de": "Nike Rucksack — Rucksack Nike schwarz mit cordões elásticos"
+      "en": "Nike Backpack — backpack Nike black with drawstrings elásticos",
+      "es": "Mochila Nike — mochila Nike negra con cordones elásticos",
+      "fr": "Sac à dos Nike — sac à des Nike noire avec cordons elásticos",
+      "de": "Nike Rucksack — Rucksack Nike schwarz mit Kordeln elásticos"
     },
     "descriptions": {
       "pt": "Mochila Nike — Mochila Nike preta com cordões elásticos — selecionado pela LM WEAR.",
-      "en": "Nike Backpack — backpack Nike black with cordões elásticos — selected by LM WEAR.",
-      "es": "Mochila Nike — mochila Nike negra con cordões elásticos — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Nike — sac à dos Nike noire avec cordões elásticos — sélectionné par LM WEAR.",
-      "de": "Nike Rucksack — Rucksack Nike schwarz mit cordões elásticos — ausgewählt von LM WEAR."
+      "en": "Nike Backpack — backpack Nike black with drawstrings elásticos — selected by LM WEAR.",
+      "es": "Mochila Nike — mochila Nike negra con cordones elásticos — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Nike — sac à des Nike noire avec cordons elásticos — sélectionné par LM WEAR.",
+      "de": "Nike Rucksack — Rucksack Nike schwarz mit Kordeln elásticos — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9076,14 +9076,14 @@ window.LM_PRODUCTS = [
       "pt": "Mochila Nike — Mochila Nike Vermelha com Bungee Branco",
       "en": "Nike Backpack — backpack Nike red with Bungee white",
       "es": "Mochila Nike — mochila Nike roja con Bungee blanco",
-      "fr": "Sac à dos Nike — sac à dos Nike rouge avec Bungee blanc",
+      "fr": "Sac à dos Nike — sac à des Nike rouge avec Bungee blanc",
       "de": "Nike Rucksack — Rucksack Nike rot mit Bungee weiß"
     },
     "descriptions": {
       "pt": "Mochila Nike — Mochila Nike Vermelha com Bungee Branco — selecionado pela LM WEAR.",
       "en": "Nike Backpack — backpack Nike red with Bungee white — selected by LM WEAR.",
       "es": "Mochila Nike — mochila Nike roja con Bungee blanco — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Nike — sac à dos Nike rouge avec Bungee blanc — sélectionné par LM WEAR.",
+      "fr": "Sac à dos Nike — sac à des Nike rouge avec Bungee blanc — sélectionné par LM WEAR.",
       "de": "Nike Rucksack — Rucksack Nike rot mit Bungee weiß — ausgewählt von LM WEAR."
     }
   },
@@ -9105,17 +9105,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Supreme — Mochila preta streetwear com logótipo branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Supreme — Mochila preta streetwear com logótipo branco",
-      "en": "Supreme Backpack — backpack black streetwear with logótipo white",
-      "es": "Mochila Supreme — mochila negra streetwear con logótipo blanco",
-      "fr": "Sac à dos Supreme — sac à dos noire streetwear avec logótipo blanc",
-      "de": "Supreme Rucksack — Rucksack schwarz streetwear mit logótipo weiß"
+      "en": "Supreme Backpack — backpack black streetwear with logo white",
+      "es": "Mochila Supreme — mochila negra streetwear con logotipo blanco",
+      "fr": "Sac à dos Supreme — sac à des noire streetwear avec logo blanc",
+      "de": "Supreme Rucksack — Rucksack schwarz streetwear mit Logo weiß"
     },
     "descriptions": {
       "pt": "Mochila Supreme — Mochila preta streetwear com logótipo branco — selecionado pela LM WEAR.",
-      "en": "Supreme Backpack — backpack black streetwear with logótipo white — selected by LM WEAR.",
-      "es": "Mochila Supreme — mochila negra streetwear con logótipo blanco — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Supreme — sac à dos noire streetwear avec logótipo blanc — sélectionné par LM WEAR.",
-      "de": "Supreme Rucksack — Rucksack schwarz streetwear mit logótipo weiß — ausgewählt von LM WEAR."
+      "en": "Supreme Backpack — backpack black streetwear with logo white — selected by LM WEAR.",
+      "es": "Mochila Supreme — mochila negra streetwear con logotipo blanco — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Supreme — sac à des noire streetwear avec logo blanc — sélectionné par LM WEAR.",
+      "de": "Supreme Rucksack — Rucksack schwarz streetwear mit Logo weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9138,14 +9138,14 @@ window.LM_PRODUCTS = [
       "pt": "Mochila Supreme — Mochila Supreme Amarela",
       "en": "Supreme Backpack — backpack Supreme Amarela",
       "es": "Mochila Supreme — mochila Supreme Amarela",
-      "fr": "Sac à dos Supreme — sac à dos Supreme Amarela",
+      "fr": "Sac à dos Supreme — sac à des Supreme Amarela",
       "de": "Supreme Rucksack — Rucksack Supreme Amarela"
     },
     "descriptions": {
       "pt": "Mochila Supreme — Mochila Supreme Amarela — selecionado pela LM WEAR.",
       "en": "Supreme Backpack — backpack Supreme Amarela — selected by LM WEAR.",
       "es": "Mochila Supreme — mochila Supreme Amarela — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Supreme — sac à dos Supreme Amarela — sélectionné par LM WEAR.",
+      "fr": "Sac à dos Supreme — sac à des Supreme Amarela — sélectionné par LM WEAR.",
       "de": "Supreme Rucksack — Rucksack Supreme Amarela — ausgewählt von LM WEAR."
     }
   },
@@ -9167,17 +9167,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Supreme — Mochila Supreme em Camuflado Azul — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Supreme — Mochila Supreme em Camuflado Azul",
-      "en": "Supreme Backpack — backpack Supreme em Camuflado blue",
-      "es": "Mochila Supreme — mochila Supreme em Camuflado azul",
-      "fr": "Sac à dos Supreme — sac à dos Supreme em Camuflado bleu",
-      "de": "Supreme Rucksack — Rucksack Supreme em Camuflado blau"
+      "en": "Supreme Backpack — backpack Supreme in camouflage blue",
+      "es": "Mochila Supreme — mochila Supreme en camuflaje azul",
+      "fr": "Sac à dos Supreme — sac à des Supreme en camouflage bleu",
+      "de": "Supreme Rucksack — Rucksack Supreme in Tarnmuster blau"
     },
     "descriptions": {
       "pt": "Mochila Supreme — Mochila Supreme em Camuflado Azul — selecionado pela LM WEAR.",
-      "en": "Supreme Backpack — backpack Supreme em Camuflado blue — selected by LM WEAR.",
-      "es": "Mochila Supreme — mochila Supreme em Camuflado azul — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Supreme — sac à dos Supreme em Camuflado bleu — sélectionné par LM WEAR.",
-      "de": "Supreme Rucksack — Rucksack Supreme em Camuflado blau — ausgewählt von LM WEAR."
+      "en": "Supreme Backpack — backpack Supreme in camouflage blue — selected by LM WEAR.",
+      "es": "Mochila Supreme — mochila Supreme en camuflaje azul — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Supreme — sac à des Supreme en camouflage bleu — sélectionné par LM WEAR.",
+      "de": "Supreme Rucksack — Rucksack Supreme in Tarnmuster blau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9200,14 +9200,14 @@ window.LM_PRODUCTS = [
       "pt": "Mochila Supreme — Mochila Supreme roxa com detalhes lavanda",
       "en": "Supreme Backpack — backpack Supreme roxa with details lavanda",
       "es": "Mochila Supreme — mochila Supreme roxa con detalles lavanda",
-      "fr": "Sac à dos Supreme — sac à dos Supreme roxa avec détails lavanda",
+      "fr": "Sac à dos Supreme — sac à des Supreme roxa avec détails lavanda",
       "de": "Supreme Rucksack — Rucksack Supreme roxa mit Details lavanda"
     },
     "descriptions": {
       "pt": "Mochila Supreme — Mochila Supreme roxa com detalhes lavanda — selecionado pela LM WEAR.",
       "en": "Supreme Backpack — backpack Supreme roxa with details lavanda — selected by LM WEAR.",
       "es": "Mochila Supreme — mochila Supreme roxa con detalles lavanda — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Supreme — sac à dos Supreme roxa avec détails lavanda — sélectionné par LM WEAR.",
+      "fr": "Sac à dos Supreme — sac à des Supreme roxa avec détails lavanda — sélectionné par LM WEAR.",
       "de": "Supreme Rucksack — Rucksack Supreme roxa mit Details lavanda — ausgewählt von LM WEAR."
     }
   },
@@ -9229,17 +9229,17 @@ window.LM_PRODUCTS = [
     "description": "Mochila Supreme — Mochila vermelha Supreme em — selecionado pela LM WEAR.",
     "names": {
       "pt": "Mochila Supreme — Mochila vermelha Supreme em",
-      "en": "Supreme Backpack — backpack red Supreme em",
-      "es": "Mochila Supreme — mochila roja Supreme em",
-      "fr": "Sac à dos Supreme — sac à dos rouge Supreme em",
-      "de": "Supreme Rucksack — Rucksack rot Supreme em"
+      "en": "Supreme Backpack — backpack red Supreme in",
+      "es": "Mochila Supreme — mochila roja Supreme en",
+      "fr": "Sac à dos Supreme — sac à des rouge Supreme en",
+      "de": "Supreme Rucksack — Rucksack rot Supreme in"
     },
     "descriptions": {
       "pt": "Mochila Supreme — Mochila vermelha Supreme em — selecionado pela LM WEAR.",
-      "en": "Supreme Backpack — backpack red Supreme em — selected by LM WEAR.",
-      "es": "Mochila Supreme — mochila roja Supreme em — seleccionado por LM WEAR.",
-      "fr": "Sac à dos Supreme — sac à dos rouge Supreme em — sélectionné par LM WEAR.",
-      "de": "Supreme Rucksack — Rucksack rot Supreme em — ausgewählt von LM WEAR."
+      "en": "Supreme Backpack — backpack red Supreme in — selected by LM WEAR.",
+      "es": "Mochila Supreme — mochila roja Supreme en — seleccionado por LM WEAR.",
+      "fr": "Sac à dos Supreme — sac à des rouge Supreme en — sélectionné par LM WEAR.",
+      "de": "Supreme Rucksack — Rucksack rot Supreme in — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9260,17 +9260,17 @@ window.LM_PRODUCTS = [
     "description": "Saco Under Armour — Saco de ginásio camuflado Under Armour — selecionado pela LM WEAR.",
     "names": {
       "pt": "Saco Under Armour — Saco de ginásio camuflado Under Armour",
-      "en": "Under Armour Gym Bag — Saco de ginásio camuflado Under Armour",
-      "es": "Bolsa Under Armour — Saco de ginásio camuflado Under Armour",
-      "fr": "Sac Under Armour — Saco de ginásio camuflado Under Armour",
-      "de": "Under Armour Sporttasche — Saco de ginásio camuflado Under Armour"
+      "en": "Under Armour Gym Bag — bag of ginásio camouflage Under Armour",
+      "es": "Bolsa Under Armour — bolsa de ginásio camuflaje Under Armour",
+      "fr": "Sac Under Armour — sac de ginásio camouflage Under Armour",
+      "de": "Under Armour Sporttasche — Tasche von ginásio Tarnmuster Under Armour"
     },
     "descriptions": {
       "pt": "Saco Under Armour — Saco de ginásio camuflado Under Armour — selecionado pela LM WEAR.",
-      "en": "Under Armour Gym Bag — Saco de ginásio camuflado Under Armour — selected by LM WEAR.",
-      "es": "Bolsa Under Armour — Saco de ginásio camuflado Under Armour — seleccionado por LM WEAR.",
-      "fr": "Sac Under Armour — Saco de ginásio camuflado Under Armour — sélectionné par LM WEAR.",
-      "de": "Under Armour Sporttasche — Saco de ginásio camuflado Under Armour — ausgewählt von LM WEAR."
+      "en": "Under Armour Gym Bag — bag of ginásio camouflage Under Armour — selected by LM WEAR.",
+      "es": "Bolsa Under Armour — bolsa de ginásio camuflaje Under Armour — seleccionado por LM WEAR.",
+      "fr": "Sac Under Armour — sac de ginásio camouflage Under Armour — sélectionné par LM WEAR.",
+      "de": "Under Armour Sporttasche — Tasche von ginásio Tarnmuster Under Armour — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9291,17 +9291,17 @@ window.LM_PRODUCTS = [
     "description": "Saco Under Armour — Saco de ginásio Under Armour preto — selecionado pela LM WEAR.",
     "names": {
       "pt": "Saco Under Armour — Saco de ginásio Under Armour preto",
-      "en": "Under Armour Gym Bag — Saco de ginásio Under Armour black",
-      "es": "Bolsa Under Armour — Saco de ginásio Under Armour negro",
-      "fr": "Sac Under Armour — Saco de ginásio Under Armour noir",
-      "de": "Under Armour Sporttasche — Saco de ginásio Under Armour schwarz"
+      "en": "Under Armour Gym Bag — bag of ginásio Under Armour black",
+      "es": "Bolsa Under Armour — bolsa de ginásio Under Armour negro",
+      "fr": "Sac Under Armour — sac de ginásio Under Armour noir",
+      "de": "Under Armour Sporttasche — Tasche von ginásio Under Armour schwarz"
     },
     "descriptions": {
       "pt": "Saco Under Armour — Saco de ginásio Under Armour preto — selecionado pela LM WEAR.",
-      "en": "Under Armour Gym Bag — Saco de ginásio Under Armour black — selected by LM WEAR.",
-      "es": "Bolsa Under Armour — Saco de ginásio Under Armour negro — seleccionado por LM WEAR.",
-      "fr": "Sac Under Armour — Saco de ginásio Under Armour noir — sélectionné par LM WEAR.",
-      "de": "Under Armour Sporttasche — Saco de ginásio Under Armour schwarz — ausgewählt von LM WEAR."
+      "en": "Under Armour Gym Bag — bag of ginásio Under Armour black — selected by LM WEAR.",
+      "es": "Bolsa Under Armour — bolsa de ginásio Under Armour negro — seleccionado por LM WEAR.",
+      "fr": "Sac Under Armour — sac de ginásio Under Armour noir — sélectionné par LM WEAR.",
+      "de": "Under Armour Sporttasche — Tasche von ginásio Under Armour schwarz — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9322,17 +9322,17 @@ window.LM_PRODUCTS = [
     "description": "Saco Under Armour — Saco Desportivo Under Armour Camuflado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Saco Under Armour — Saco Desportivo Under Armour Camuflado",
-      "en": "Under Armour Gym Bag — Saco Desportivo Under Armour Camuflado",
-      "es": "Bolsa Under Armour — Saco Desportivo Under Armour Camuflado",
-      "fr": "Sac Under Armour — Saco Desportivo Under Armour Camuflado",
-      "de": "Under Armour Sporttasche — Saco Desportivo Under Armour Camuflado"
+      "en": "Under Armour Gym Bag — bag Desportivo Under Armour camouflage",
+      "es": "Bolsa Under Armour — bolsa Desportivo Under Armour camuflaje",
+      "fr": "Sac Under Armour — sac Desportivo Under Armour camouflage",
+      "de": "Under Armour Sporttasche — Tasche Desportivo Under Armour Tarnmuster"
     },
     "descriptions": {
       "pt": "Saco Under Armour — Saco Desportivo Under Armour Camuflado — selecionado pela LM WEAR.",
-      "en": "Under Armour Gym Bag — Saco Desportivo Under Armour Camuflado — selected by LM WEAR.",
-      "es": "Bolsa Under Armour — Saco Desportivo Under Armour Camuflado — seleccionado por LM WEAR.",
-      "fr": "Sac Under Armour — Saco Desportivo Under Armour Camuflado — sélectionné par LM WEAR.",
-      "de": "Under Armour Sporttasche — Saco Desportivo Under Armour Camuflado — ausgewählt von LM WEAR."
+      "en": "Under Armour Gym Bag — bag Desportivo Under Armour camouflage — selected by LM WEAR.",
+      "es": "Bolsa Under Armour — bolsa Desportivo Under Armour camuflaje — seleccionado por LM WEAR.",
+      "fr": "Sac Under Armour — sac Desportivo Under Armour camouflage — sélectionné par LM WEAR.",
+      "de": "Under Armour Sporttasche — Tasche Desportivo Under Armour Tarnmuster — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9353,17 +9353,17 @@ window.LM_PRODUCTS = [
     "description": "Saco Under Armour — Saco desportivo Under Armour cinzento e dourado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Saco Under Armour — Saco desportivo Under Armour cinzento e dourado",
-      "en": "Under Armour Gym Bag — Saco desportivo Under Armour grey e gold",
-      "es": "Bolsa Under Armour — Saco desportivo Under Armour gris e dorado",
-      "fr": "Sac Under Armour — Saco desportivo Under Armour gris e doré",
-      "de": "Under Armour Sporttasche — Saco desportivo Under Armour grau e gold"
+      "en": "Under Armour Gym Bag — bag desportivo Under Armour grey and gold",
+      "es": "Bolsa Under Armour — bolsa desportivo Under Armour gris y dorado",
+      "fr": "Sac Under Armour — sac desportivo Under Armour gris et doré",
+      "de": "Under Armour Sporttasche — Tasche desportivo Under Armour grau und gold"
     },
     "descriptions": {
       "pt": "Saco Under Armour — Saco desportivo Under Armour cinzento e dourado — selecionado pela LM WEAR.",
-      "en": "Under Armour Gym Bag — Saco desportivo Under Armour grey e gold — selected by LM WEAR.",
-      "es": "Bolsa Under Armour — Saco desportivo Under Armour gris e dorado — seleccionado por LM WEAR.",
-      "fr": "Sac Under Armour — Saco desportivo Under Armour gris e doré — sélectionné par LM WEAR.",
-      "de": "Under Armour Sporttasche — Saco desportivo Under Armour grau e gold — ausgewählt von LM WEAR."
+      "en": "Under Armour Gym Bag — bag desportivo Under Armour grey and gold — selected by LM WEAR.",
+      "es": "Bolsa Under Armour — bolsa desportivo Under Armour gris y dorado — seleccionado por LM WEAR.",
+      "fr": "Sac Under Armour — sac desportivo Under Armour gris et doré — sélectionné par LM WEAR.",
+      "de": "Under Armour Sporttasche — Tasche desportivo Under Armour grau und gold — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9425,17 +9425,17 @@ window.LM_PRODUCTS = [
     "description": "T-shirt BAPE — T-shirt BAPE azul-marinho com logótipo amarelo — selecionado pela LM WEAR.",
     "names": {
       "pt": "T-shirt BAPE — T-shirt BAPE azul-marinho com logótipo amarelo",
-      "en": "BAPE T-shirt — T-shirt BAPE navy blue with logótipo amarelo",
-      "es": "Camiseta BAPE — T-shirt BAPE azul marino con logótipo amarelo",
-      "fr": "T-shirt BAPE — T-shirt BAPE bleu marine avec logótipo amarelo",
-      "de": "BAPE T-Shirt — T-shirt BAPE marineblau mit logótipo amarelo"
+      "en": "BAPE T-shirt — T-shirt BAPE navy blue with logo amarelo",
+      "es": "Camiseta BAPE — T-shirt BAPE azul marino con logotipo amarelo",
+      "fr": "T-shirt BAPE — T-shirt BAPE bleu marine avec logo amarelo",
+      "de": "BAPE T-Shirt — T-shirt BAPE marineblau mit Logo amarelo"
     },
     "descriptions": {
       "pt": "T-shirt BAPE — T-shirt BAPE azul-marinho com logótipo amarelo — selecionado pela LM WEAR.",
-      "en": "BAPE T-shirt — T-shirt BAPE navy blue with logótipo amarelo — selected by LM WEAR.",
-      "es": "Camiseta BAPE — T-shirt BAPE azul marino con logótipo amarelo — seleccionado por LM WEAR.",
-      "fr": "T-shirt BAPE — T-shirt BAPE bleu marine avec logótipo amarelo — sélectionné par LM WEAR.",
-      "de": "BAPE T-Shirt — T-shirt BAPE marineblau mit logótipo amarelo — ausgewählt von LM WEAR."
+      "en": "BAPE T-shirt — T-shirt BAPE navy blue with logo amarelo — selected by LM WEAR.",
+      "es": "Camiseta BAPE — T-shirt BAPE azul marino con logotipo amarelo — seleccionado por LM WEAR.",
+      "fr": "T-shirt BAPE — T-shirt BAPE bleu marine avec logo amarelo — sélectionné par LM WEAR.",
+      "de": "BAPE T-Shirt — T-shirt BAPE marineblau mit Logo amarelo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9497,17 +9497,17 @@ window.LM_PRODUCTS = [
     "description": "T-shirt BAPE — T-shirt branco BAPE com logótipo dourado — selecionado pela LM WEAR.",
     "names": {
       "pt": "T-shirt BAPE — T-shirt branco BAPE com logótipo dourado",
-      "en": "BAPE T-shirt — T-shirt white BAPE with logótipo gold",
-      "es": "Camiseta BAPE — T-shirt blanco BAPE con logótipo dorado",
-      "fr": "T-shirt BAPE — T-shirt blanc BAPE avec logótipo doré",
-      "de": "BAPE T-Shirt — T-shirt weiß BAPE mit logótipo gold"
+      "en": "BAPE T-shirt — T-shirt white BAPE with logo gold",
+      "es": "Camiseta BAPE — T-shirt blanco BAPE con logotipo dorado",
+      "fr": "T-shirt BAPE — T-shirt blanc BAPE avec logo doré",
+      "de": "BAPE T-Shirt — T-shirt weiß BAPE mit Logo gold"
     },
     "descriptions": {
       "pt": "T-shirt BAPE — T-shirt branco BAPE com logótipo dourado — selecionado pela LM WEAR.",
-      "en": "BAPE T-shirt — T-shirt white BAPE with logótipo gold — selected by LM WEAR.",
-      "es": "Camiseta BAPE — T-shirt blanco BAPE con logótipo dorado — seleccionado por LM WEAR.",
-      "fr": "T-shirt BAPE — T-shirt blanc BAPE avec logótipo doré — sélectionné par LM WEAR.",
-      "de": "BAPE T-Shirt — T-shirt weiß BAPE mit logótipo gold — ausgewählt von LM WEAR."
+      "en": "BAPE T-shirt — T-shirt white BAPE with logo gold — selected by LM WEAR.",
+      "es": "Camiseta BAPE — T-shirt blanco BAPE con logotipo dorado — seleccionado por LM WEAR.",
+      "fr": "T-shirt BAPE — T-shirt blanc BAPE avec logo doré — sélectionné par LM WEAR.",
+      "de": "BAPE T-Shirt — T-shirt weiß BAPE mit Logo gold — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9533,17 +9533,17 @@ window.LM_PRODUCTS = [
     "description": "T-shirt BAPE — T-shirt preta BAPE com logótipo amarelo — selecionado pela LM WEAR.",
     "names": {
       "pt": "T-shirt BAPE — T-shirt preta BAPE com logótipo amarelo",
-      "en": "BAPE T-shirt — T-shirt black BAPE with logótipo amarelo",
-      "es": "Camiseta BAPE — T-shirt negra BAPE con logótipo amarelo",
-      "fr": "T-shirt BAPE — T-shirt noire BAPE avec logótipo amarelo",
-      "de": "BAPE T-Shirt — T-shirt schwarz BAPE mit logótipo amarelo"
+      "en": "BAPE T-shirt — T-shirt black BAPE with logo amarelo",
+      "es": "Camiseta BAPE — T-shirt negra BAPE con logotipo amarelo",
+      "fr": "T-shirt BAPE — T-shirt noire BAPE avec logo amarelo",
+      "de": "BAPE T-Shirt — T-shirt schwarz BAPE mit Logo amarelo"
     },
     "descriptions": {
       "pt": "T-shirt BAPE — T-shirt preta BAPE com logótipo amarelo — selecionado pela LM WEAR.",
-      "en": "BAPE T-shirt — T-shirt black BAPE with logótipo amarelo — selected by LM WEAR.",
-      "es": "Camiseta BAPE — T-shirt negra BAPE con logótipo amarelo — seleccionado por LM WEAR.",
-      "fr": "T-shirt BAPE — T-shirt noire BAPE avec logótipo amarelo — sélectionné par LM WEAR.",
-      "de": "BAPE T-Shirt — T-shirt schwarz BAPE mit logótipo amarelo — ausgewählt von LM WEAR."
+      "en": "BAPE T-shirt — T-shirt black BAPE with logo amarelo — selected by LM WEAR.",
+      "es": "Camiseta BAPE — T-shirt negra BAPE con logotipo amarelo — seleccionado por LM WEAR.",
+      "fr": "T-shirt BAPE — T-shirt noire BAPE avec logo amarelo — sélectionné par LM WEAR.",
+      "de": "BAPE T-Shirt — T-shirt schwarz BAPE mit Logo amarelo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9564,17 +9564,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Cartier — Relógio azul em almofada marfim — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Cartier — Relógio azul em almofada marfim",
-      "en": "Cartier Watch — watch blue em almofada marfim",
-      "es": "Reloj Cartier — reloj azul em almofada marfim",
-      "fr": "Montre Cartier — montre bleu em almofada marfim",
-      "de": "Cartier Uhr — Uhr blau em almofada marfim"
+      "en": "Cartier Watch — watch blue in cushion marfim",
+      "es": "Reloj Cartier — reloj azul en cojín marfim",
+      "fr": "Montre Cartier — montre bleu en coussin marfim",
+      "de": "Cartier Uhr — Uhr blau in Kissen marfim"
     },
     "descriptions": {
       "pt": "Relógio Cartier — Relógio azul em almofada marfim — selecionado pela LM WEAR.",
-      "en": "Cartier Watch — watch blue em almofada marfim — selected by LM WEAR.",
-      "es": "Reloj Cartier — reloj azul em almofada marfim — seleccionado por LM WEAR.",
-      "fr": "Montre Cartier — montre bleu em almofada marfim — sélectionné par LM WEAR.",
-      "de": "Cartier Uhr — Uhr blau em almofada marfim — ausgewählt von LM WEAR."
+      "en": "Cartier Watch — watch blue in cushion marfim — selected by LM WEAR.",
+      "es": "Reloj Cartier — reloj azul en cojín marfim — seleccionado por LM WEAR.",
+      "fr": "Montre Cartier — montre bleu en coussin marfim — sélectionné par LM WEAR.",
+      "de": "Cartier Uhr — Uhr blau in Kissen marfim — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9595,17 +9595,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Cartier — Relógio Cartier de diamantes sobre almofada — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Cartier — Relógio Cartier de diamantes sobre almofada",
-      "en": "Cartier Watch — watch Cartier de diamantes sobre almofada",
-      "es": "Reloj Cartier — reloj Cartier de diamantes sobre almofada",
-      "fr": "Montre Cartier — montre Cartier de diamantes sobre almofada",
-      "de": "Cartier Uhr — Uhr Cartier de diamantes sobre almofada"
+      "en": "Cartier Watch — watch Cartier of diamantes on cushion",
+      "es": "Reloj Cartier — reloj Cartier de diamantes sobre cojín",
+      "fr": "Montre Cartier — montre Cartier de diamantes sur coussin",
+      "de": "Cartier Uhr — Uhr Cartier von diamantes auf Kissen"
     },
     "descriptions": {
       "pt": "Relógio Cartier — Relógio Cartier de diamantes sobre almofada — selecionado pela LM WEAR.",
-      "en": "Cartier Watch — watch Cartier de diamantes sobre almofada — selected by LM WEAR.",
-      "es": "Reloj Cartier — reloj Cartier de diamantes sobre almofada — seleccionado por LM WEAR.",
-      "fr": "Montre Cartier — montre Cartier de diamantes sobre almofada — sélectionné par LM WEAR.",
-      "de": "Cartier Uhr — Uhr Cartier de diamantes sobre almofada — ausgewählt von LM WEAR."
+      "en": "Cartier Watch — watch Cartier of diamantes on cushion — selected by LM WEAR.",
+      "es": "Reloj Cartier — reloj Cartier de diamantes sobre cojín — seleccionado por LM WEAR.",
+      "fr": "Montre Cartier — montre Cartier de diamantes sur coussin — sélectionné par LM WEAR.",
+      "de": "Cartier Uhr — Uhr Cartier von diamantes auf Kissen — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9657,17 +9657,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Cartier — Relógio Cartier Santos de Mostrador Verde — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Cartier — Relógio Cartier Santos de Mostrador Verde",
-      "en": "Cartier Watch — watch Cartier Santos de Mostrador green",
+      "en": "Cartier Watch — watch Cartier Santos of Mostrador green",
       "es": "Reloj Cartier — reloj Cartier Santos de Mostrador verde",
       "fr": "Montre Cartier — montre Cartier Santos de Mostrador vert",
-      "de": "Cartier Uhr — Uhr Cartier Santos de Mostrador grün"
+      "de": "Cartier Uhr — Uhr Cartier Santos von Mostrador grün"
     },
     "descriptions": {
       "pt": "Relógio Cartier — Relógio Cartier Santos de Mostrador Verde — selecionado pela LM WEAR.",
-      "en": "Cartier Watch — watch Cartier Santos de Mostrador green — selected by LM WEAR.",
+      "en": "Cartier Watch — watch Cartier Santos of Mostrador green — selected by LM WEAR.",
       "es": "Reloj Cartier — reloj Cartier Santos de Mostrador verde — seleccionado por LM WEAR.",
       "fr": "Montre Cartier — montre Cartier Santos de Mostrador vert — sélectionné par LM WEAR.",
-      "de": "Cartier Uhr — Uhr Cartier Santos de Mostrador grün — ausgewählt von LM WEAR."
+      "de": "Cartier Uhr — Uhr Cartier Santos von Mostrador grün — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9688,17 +9688,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Cartier — Relógio Cartier Santos em Almofada Marfim — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Cartier — Relógio Cartier Santos em Almofada Marfim",
-      "en": "Cartier Watch — watch Cartier Santos em Almofada Marfim",
-      "es": "Reloj Cartier — reloj Cartier Santos em Almofada Marfim",
-      "fr": "Montre Cartier — montre Cartier Santos em Almofada Marfim",
-      "de": "Cartier Uhr — Uhr Cartier Santos em Almofada Marfim"
+      "en": "Cartier Watch — watch Cartier Santos in cushion Marfim",
+      "es": "Reloj Cartier — reloj Cartier Santos en cojín Marfim",
+      "fr": "Montre Cartier — montre Cartier Santos en coussin Marfim",
+      "de": "Cartier Uhr — Uhr Cartier Santos in Kissen Marfim"
     },
     "descriptions": {
       "pt": "Relógio Cartier — Relógio Cartier Santos em Almofada Marfim — selecionado pela LM WEAR.",
-      "en": "Cartier Watch — watch Cartier Santos em Almofada Marfim — selected by LM WEAR.",
-      "es": "Reloj Cartier — reloj Cartier Santos em Almofada Marfim — seleccionado por LM WEAR.",
-      "fr": "Montre Cartier — montre Cartier Santos em Almofada Marfim — sélectionné par LM WEAR.",
-      "de": "Cartier Uhr — Uhr Cartier Santos em Almofada Marfim — ausgewählt von LM WEAR."
+      "en": "Cartier Watch — watch Cartier Santos in cushion Marfim — selected by LM WEAR.",
+      "es": "Reloj Cartier — reloj Cartier Santos en cojín Marfim — seleccionado por LM WEAR.",
+      "fr": "Montre Cartier — montre Cartier Santos en coussin Marfim — sélectionné par LM WEAR.",
+      "de": "Cartier Uhr — Uhr Cartier Santos in Kissen Marfim — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9719,17 +9719,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Cartier — Relógio Cartier Santos em almofada marfim — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Cartier — Relógio Cartier Santos em almofada marfim",
-      "en": "Cartier Watch — watch Cartier Santos em almofada marfim",
-      "es": "Reloj Cartier — reloj Cartier Santos em almofada marfim",
-      "fr": "Montre Cartier — montre Cartier Santos em almofada marfim",
-      "de": "Cartier Uhr — Uhr Cartier Santos em almofada marfim"
+      "en": "Cartier Watch — watch Cartier Santos in cushion marfim",
+      "es": "Reloj Cartier — reloj Cartier Santos en cojín marfim",
+      "fr": "Montre Cartier — montre Cartier Santos en coussin marfim",
+      "de": "Cartier Uhr — Uhr Cartier Santos in Kissen marfim"
     },
     "descriptions": {
       "pt": "Relógio Cartier — Relógio Cartier Santos em almofada marfim — selecionado pela LM WEAR.",
-      "en": "Cartier Watch — watch Cartier Santos em almofada marfim — selected by LM WEAR.",
-      "es": "Reloj Cartier — reloj Cartier Santos em almofada marfim — seleccionado por LM WEAR.",
-      "fr": "Montre Cartier — montre Cartier Santos em almofada marfim — sélectionné par LM WEAR.",
-      "de": "Cartier Uhr — Uhr Cartier Santos em almofada marfim — ausgewählt von LM WEAR."
+      "en": "Cartier Watch — watch Cartier Santos in cushion marfim — selected by LM WEAR.",
+      "es": "Reloj Cartier — reloj Cartier Santos en cojín marfim — seleccionado por LM WEAR.",
+      "fr": "Montre Cartier — montre Cartier Santos en coussin marfim — sélectionné par LM WEAR.",
+      "de": "Cartier Uhr — Uhr Cartier Santos in Kissen marfim — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9750,17 +9750,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Coach — Capa Coach em monograma bege — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Coach — Capa Coach em monograma bege",
-      "en": "Coach Phone Case — case Coach em monograma bege",
-      "es": "Funda Coach — funda Coach em monograma bege",
-      "fr": "Coque Coach — coque Coach em monograma bege",
-      "de": "Coach Handyhülle — Hülle Coach em monograma bege"
+      "en": "Coach Phone Case — case Coach in monogram bege",
+      "es": "Funda Coach — funda Coach en monograma bege",
+      "fr": "Coque Coach — coque Coach en monogramme bege",
+      "de": "Coach Handyhülle — Hülle Coach in Monogramm bege"
     },
     "descriptions": {
       "pt": "Capa Coach — Capa Coach em monograma bege — selecionado pela LM WEAR.",
-      "en": "Coach Phone Case — case Coach em monograma bege — selected by LM WEAR.",
-      "es": "Funda Coach — funda Coach em monograma bege — seleccionado por LM WEAR.",
-      "fr": "Coque Coach — coque Coach em monograma bege — sélectionné par LM WEAR.",
-      "de": "Coach Handyhülle — Hülle Coach em monograma bege — ausgewählt von LM WEAR."
+      "en": "Coach Phone Case — case Coach in monogram bege — selected by LM WEAR.",
+      "es": "Funda Coach — funda Coach en monograma bege — seleccionado por LM WEAR.",
+      "fr": "Coque Coach — coque Coach en monogramme bege — sélectionné par LM WEAR.",
+      "de": "Coach Handyhülle — Hülle Coach in Monogramm bege — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9781,17 +9781,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Coach — Capa Coach em Monograma Castanho — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Coach — Capa Coach em Monograma Castanho",
-      "en": "Coach Phone Case — case Coach em Monograma Castanho",
-      "es": "Funda Coach — funda Coach em Monograma Castanho",
-      "fr": "Coque Coach — coque Coach em Monograma Castanho",
-      "de": "Coach Handyhülle — Hülle Coach em Monograma Castanho"
+      "en": "Coach Phone Case — case Coach in monogram brown",
+      "es": "Funda Coach — funda Coach en monograma marrón",
+      "fr": "Coque Coach — coque Coach en monogramme marron",
+      "de": "Coach Handyhülle — Hülle Coach in Monogramm braun"
     },
     "descriptions": {
       "pt": "Capa Coach — Capa Coach em Monograma Castanho — selecionado pela LM WEAR.",
-      "en": "Coach Phone Case — case Coach em Monograma Castanho — selected by LM WEAR.",
-      "es": "Funda Coach — funda Coach em Monograma Castanho — seleccionado por LM WEAR.",
-      "fr": "Coque Coach — coque Coach em Monograma Castanho — sélectionné par LM WEAR.",
-      "de": "Coach Handyhülle — Hülle Coach em Monograma Castanho — ausgewählt von LM WEAR."
+      "en": "Coach Phone Case — case Coach in monogram brown — selected by LM WEAR.",
+      "es": "Funda Coach — funda Coach en monograma marrón — seleccionado por LM WEAR.",
+      "fr": "Coque Coach — coque Coach en monogramme marron — sélectionné par LM WEAR.",
+      "de": "Coach Handyhülle — Hülle Coach in Monogramm braun — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9812,17 +9812,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Coach — Capa Coach Monograma em Preto e Cinzento — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Coach — Capa Coach Monograma em Preto e Cinzento",
-      "en": "Coach Phone Case — case Coach Monograma em black e grey",
-      "es": "Funda Coach — funda Coach Monograma em negro e gris",
-      "fr": "Coque Coach — coque Coach Monograma em noir e gris",
-      "de": "Coach Handyhülle — Hülle Coach Monograma em schwarz e grau"
+      "en": "Coach Phone Case — case Coach monogram in black and grey",
+      "es": "Funda Coach — funda Coach monograma en negro y gris",
+      "fr": "Coque Coach — coque Coach monogramme en noir et gris",
+      "de": "Coach Handyhülle — Hülle Coach Monogramm in schwarz und grau"
     },
     "descriptions": {
       "pt": "Capa Coach — Capa Coach Monograma em Preto e Cinzento — selecionado pela LM WEAR.",
-      "en": "Coach Phone Case — case Coach Monograma em black e grey — selected by LM WEAR.",
-      "es": "Funda Coach — funda Coach Monograma em negro e gris — seleccionado por LM WEAR.",
-      "fr": "Coque Coach — coque Coach Monograma em noir e gris — sélectionné par LM WEAR.",
-      "de": "Coach Handyhülle — Hülle Coach Monograma em schwarz e grau — ausgewählt von LM WEAR."
+      "en": "Coach Phone Case — case Coach monogram in black and grey — selected by LM WEAR.",
+      "es": "Funda Coach — funda Coach monograma en negro y gris — seleccionado por LM WEAR.",
+      "fr": "Coque Coach — coque Coach monogramme en noir et gris — sélectionné par LM WEAR.",
+      "de": "Coach Handyhülle — Hülle Coach Monogramm in schwarz und grau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9874,17 +9874,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Coach — Capa Coach Rosa com Monograma — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Coach — Capa Coach Rosa com Monograma",
-      "en": "Coach Phone Case — case Coach pink with Monograma",
-      "es": "Funda Coach — funda Coach rosa con Monograma",
-      "fr": "Coque Coach — coque Coach rose avec Monograma",
-      "de": "Coach Handyhülle — Hülle Coach rosa mit Monograma"
+      "en": "Coach Phone Case — case Coach pink with monogram",
+      "es": "Funda Coach — funda Coach rosa con monograma",
+      "fr": "Coque Coach — coque Coach rose avec monogramme",
+      "de": "Coach Handyhülle — Hülle Coach rosa mit Monogramm"
     },
     "descriptions": {
       "pt": "Capa Coach — Capa Coach Rosa com Monograma — selecionado pela LM WEAR.",
-      "en": "Coach Phone Case — case Coach pink with Monograma — selected by LM WEAR.",
-      "es": "Funda Coach — funda Coach rosa con Monograma — seleccionado por LM WEAR.",
-      "fr": "Coque Coach — coque Coach rose avec Monograma — sélectionné par LM WEAR.",
-      "de": "Coach Handyhülle — Hülle Coach rosa mit Monograma — ausgewählt von LM WEAR."
+      "en": "Coach Phone Case — case Coach pink with monogram — selected by LM WEAR.",
+      "es": "Funda Coach — funda Coach rosa con monograma — seleccionado por LM WEAR.",
+      "fr": "Coque Coach — coque Coach rose avec monogramme — sélectionné par LM WEAR.",
+      "de": "Coach Handyhülle — Hülle Coach rosa mit Monogramm — ausgewählt von LM WEAR."
     }
   },
   {
@@ -9905,17 +9905,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Coach — Capa de iPhone Coach em denim azul — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Coach — Capa de iPhone Coach em denim azul",
-      "en": "Coach Phone Case — case de iPhone Coach em denim blue",
-      "es": "Funda Coach — funda de iPhone Coach em denim azul",
-      "fr": "Coque Coach — coque de iPhone Coach em denim bleu",
-      "de": "Coach Handyhülle — Hülle de iPhone Coach em denim blau"
+      "en": "Coach Phone Case — case of iPhone Coach in denim blue",
+      "es": "Funda Coach — funda de iPhone Coach en denim azul",
+      "fr": "Coque Coach — coque de iPhone Coach en denim bleu",
+      "de": "Coach Handyhülle — Hülle von iPhone Coach in denim blau"
     },
     "descriptions": {
       "pt": "Capa Coach — Capa de iPhone Coach em denim azul — selecionado pela LM WEAR.",
-      "en": "Coach Phone Case — case de iPhone Coach em denim blue — selected by LM WEAR.",
-      "es": "Funda Coach — funda de iPhone Coach em denim azul — seleccionado por LM WEAR.",
-      "fr": "Coque Coach — coque de iPhone Coach em denim bleu — sélectionné par LM WEAR.",
-      "de": "Coach Handyhülle — Hülle de iPhone Coach em denim blau — ausgewählt von LM WEAR."
+      "en": "Coach Phone Case — case of iPhone Coach in denim blue — selected by LM WEAR.",
+      "es": "Funda Coach — funda de iPhone Coach en denim azul — seleccionado por LM WEAR.",
+      "fr": "Coque Coach — coque de iPhone Coach en denim bleu — sélectionné par LM WEAR.",
+      "de": "Coach Handyhülle — Hülle von iPhone Coach in denim blau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -10800,17 +10800,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Goyard — Capa de luxo verde com padrão chevron — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Goyard — Capa de luxo verde com padrão chevron",
-      "en": "Goyard Phone Case — case de luxo green with padrão chevron",
-      "es": "Funda Goyard — funda de luxo verde con padrão chevron",
-      "fr": "Coque Goyard — coque de luxo vert avec padrão chevron",
-      "de": "Goyard Handyhülle — Hülle de luxo grün mit padrão chevron"
+      "en": "Goyard Phone Case — case luxury green with pattern chevron",
+      "es": "Funda Goyard — funda de lujo verde con patrón chevron",
+      "fr": "Coque Goyard — coque de luxe vert avec motif chevron",
+      "de": "Goyard Handyhülle — Hülle Luxus grün mit Muster chevron"
     },
     "descriptions": {
       "pt": "Capa Goyard — Capa de luxo verde com padrão chevron — selecionado pela LM WEAR.",
-      "en": "Goyard Phone Case — case de luxo green with padrão chevron — selected by LM WEAR.",
-      "es": "Funda Goyard — funda de luxo verde con padrão chevron — seleccionado por LM WEAR.",
-      "fr": "Coque Goyard — coque de luxo vert avec padrão chevron — sélectionné par LM WEAR.",
-      "de": "Goyard Handyhülle — Hülle de luxo grün mit padrão chevron — ausgewählt von LM WEAR."
+      "en": "Goyard Phone Case — case luxury green with pattern chevron — selected by LM WEAR.",
+      "es": "Funda Goyard — funda de lujo verde con patrón chevron — seleccionado por LM WEAR.",
+      "fr": "Coque Goyard — coque de luxe vert avec motif chevron — sélectionné par LM WEAR.",
+      "de": "Goyard Handyhülle — Hülle Luxus grün mit Muster chevron — ausgewählt von LM WEAR."
     }
   },
   {
@@ -10831,17 +10831,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Goyard — Capa de Smartphone Azul com Padrão Chevron — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Goyard — Capa de Smartphone Azul com Padrão Chevron",
-      "en": "Goyard Phone Case — case de Smartphone blue with Padrão Chevron",
-      "es": "Funda Goyard — funda de Smartphone azul con Padrão Chevron",
-      "fr": "Coque Goyard — coque de Smartphone bleu avec Padrão Chevron",
-      "de": "Goyard Handyhülle — Hülle de Smartphone blau mit Padrão Chevron"
+      "en": "Goyard Phone Case — case of Smartphone blue with pattern Chevron",
+      "es": "Funda Goyard — funda de Smartphone azul con patrón Chevron",
+      "fr": "Coque Goyard — coque de Smartphone bleu avec motif Chevron",
+      "de": "Goyard Handyhülle — Hülle von Smartphone blau mit Muster Chevron"
     },
     "descriptions": {
       "pt": "Capa Goyard — Capa de Smartphone Azul com Padrão Chevron — selecionado pela LM WEAR.",
-      "en": "Goyard Phone Case — case de Smartphone blue with Padrão Chevron — selected by LM WEAR.",
-      "es": "Funda Goyard — funda de Smartphone azul con Padrão Chevron — seleccionado por LM WEAR.",
-      "fr": "Coque Goyard — coque de Smartphone bleu avec Padrão Chevron — sélectionné par LM WEAR.",
-      "de": "Goyard Handyhülle — Hülle de Smartphone blau mit Padrão Chevron — ausgewählt von LM WEAR."
+      "en": "Goyard Phone Case — case of Smartphone blue with pattern Chevron — selected by LM WEAR.",
+      "es": "Funda Goyard — funda de Smartphone azul con patrón Chevron — seleccionado por LM WEAR.",
+      "fr": "Coque Goyard — coque de Smartphone bleu avec motif Chevron — sélectionné par LM WEAR.",
+      "de": "Goyard Handyhülle — Hülle von Smartphone blau mit Muster Chevron — ausgewählt von LM WEAR."
     }
   },
   {
@@ -10924,17 +10924,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Goyard — Smartphone de luxo com padrão burgundy — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Goyard — Smartphone de luxo com padrão burgundy",
-      "en": "Goyard Phone Case — Smartphone de luxo with padrão burgundy",
-      "es": "Funda Goyard — Smartphone de luxo con padrão burgundy",
-      "fr": "Coque Goyard — Smartphone de luxo avec padrão burgundy",
-      "de": "Goyard Handyhülle — Smartphone de luxo mit padrão burgundy"
+      "en": "Goyard Phone Case — Smartphone luxury with pattern burgundy",
+      "es": "Funda Goyard — Smartphone de lujo con patrón burgundy",
+      "fr": "Coque Goyard — Smartphone de luxe avec motif burgundy",
+      "de": "Goyard Handyhülle — Smartphone Luxus mit Muster burgundy"
     },
     "descriptions": {
       "pt": "Capa Goyard — Smartphone de luxo com padrão burgundy — selecionado pela LM WEAR.",
-      "en": "Goyard Phone Case — Smartphone de luxo with padrão burgundy — selected by LM WEAR.",
-      "es": "Funda Goyard — Smartphone de luxo con padrão burgundy — seleccionado por LM WEAR.",
-      "fr": "Coque Goyard — Smartphone de luxo avec padrão burgundy — sélectionné par LM WEAR.",
-      "de": "Goyard Handyhülle — Smartphone de luxo mit padrão burgundy — ausgewählt von LM WEAR."
+      "en": "Goyard Phone Case — Smartphone luxury with pattern burgundy — selected by LM WEAR.",
+      "es": "Funda Goyard — Smartphone de lujo con patrón burgundy — seleccionado por LM WEAR.",
+      "fr": "Coque Goyard — Smartphone de luxe avec motif burgundy — sélectionné par LM WEAR.",
+      "de": "Goyard Handyhülle — Smartphone Luxus mit Muster burgundy — ausgewählt von LM WEAR."
     }
   },
   {
@@ -10955,17 +10955,17 @@ window.LM_PRODUCTS = [
     "description": "Capa Goyard — Telemóvel Rosa com Padrão Chevron Goyard — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa Goyard — Telemóvel Rosa com Padrão Chevron Goyard",
-      "en": "Goyard Phone Case — Telemóvel pink with Padrão Chevron Goyard",
-      "es": "Funda Goyard — Telemóvel rosa con Padrão Chevron Goyard",
-      "fr": "Coque Goyard — Telemóvel rose avec Padrão Chevron Goyard",
-      "de": "Goyard Handyhülle — Telemóvel rosa mit Padrão Chevron Goyard"
+      "en": "Goyard Phone Case — phone pink with pattern Chevron Goyard",
+      "es": "Funda Goyard — móvil rosa con patrón Chevron Goyard",
+      "fr": "Coque Goyard — téléphone rose avec motif Chevron Goyard",
+      "de": "Goyard Handyhülle — Handy rosa mit Muster Chevron Goyard"
     },
     "descriptions": {
       "pt": "Capa Goyard — Telemóvel Rosa com Padrão Chevron Goyard — selecionado pela LM WEAR.",
-      "en": "Goyard Phone Case — Telemóvel pink with Padrão Chevron Goyard — selected by LM WEAR.",
-      "es": "Funda Goyard — Telemóvel rosa con Padrão Chevron Goyard — seleccionado por LM WEAR.",
-      "fr": "Coque Goyard — Telemóvel rose avec Padrão Chevron Goyard — sélectionné par LM WEAR.",
-      "de": "Goyard Handyhülle — Telemóvel rosa mit Padrão Chevron Goyard — ausgewählt von LM WEAR."
+      "en": "Goyard Phone Case — phone pink with pattern Chevron Goyard — selected by LM WEAR.",
+      "es": "Funda Goyard — móvil rosa con patrón Chevron Goyard — seleccionado por LM WEAR.",
+      "fr": "Coque Goyard — téléphone rose avec motif Chevron Goyard — sélectionné par LM WEAR.",
+      "de": "Goyard Handyhülle — Handy rosa mit Muster Chevron Goyard — ausgewählt von LM WEAR."
     }
   },
   {
@@ -10986,17 +10986,17 @@ window.LM_PRODUCTS = [
     "description": "Carteira Goyard — Carteira Goyard com Embalagem e Cartão de Autenticidade — selecionado pela LM WEAR.",
     "names": {
       "pt": "Carteira Goyard — Carteira Goyard com Embalagem e Cartão de Autenticidade",
-      "en": "Goyard Wallet — wallet Goyard with Embalagem e Cartão de Autenticidade",
-      "es": "Cartera Goyard — cartera Goyard con Embalagem e Cartão de Autenticidade",
-      "fr": "Portefeuille Goyard — portefeuille Goyard avec Embalagem e Cartão de Autenticidade",
-      "de": "Goyard Geldbörse — Geldbörse Goyard mit Embalagem e Cartão de Autenticidade"
+      "en": "Goyard Wallet — wallet Goyard with packaging and Cartão of Autenticidade",
+      "es": "Cartera Goyard — cartera Goyard con embalaje y Cartão de Autenticidade",
+      "fr": "Portefeuille Goyard — portefeuille Goyard avec emballage et Cartão de Autenticidade",
+      "de": "Goyard Geldbörse — Geldbörse Goyard mit Verpackung und Cartão von Autenticidade"
     },
     "descriptions": {
       "pt": "Carteira Goyard — Carteira Goyard com Embalagem e Cartão de Autenticidade — selecionado pela LM WEAR.",
-      "en": "Goyard Wallet — wallet Goyard with Embalagem e Cartão de Autenticidade — selected by LM WEAR.",
-      "es": "Cartera Goyard — cartera Goyard con Embalagem e Cartão de Autenticidade — seleccionado por LM WEAR.",
-      "fr": "Portefeuille Goyard — portefeuille Goyard avec Embalagem e Cartão de Autenticidade — sélectionné par LM WEAR.",
-      "de": "Goyard Geldbörse — Geldbörse Goyard mit Embalagem e Cartão de Autenticidade — ausgewählt von LM WEAR."
+      "en": "Goyard Wallet — wallet Goyard with packaging and Cartão of Autenticidade — selected by LM WEAR.",
+      "es": "Cartera Goyard — cartera Goyard con embalaje y Cartão de Autenticidade — seleccionado por LM WEAR.",
+      "fr": "Portefeuille Goyard — portefeuille Goyard avec emballage et Cartão de Autenticidade — sélectionné par LM WEAR.",
+      "de": "Goyard Geldbörse — Geldbörse Goyard mit Verpackung und Cartão von Autenticidade — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11017,17 +11017,17 @@ window.LM_PRODUCTS = [
     "description": "Carteira Goyard — Composição luxuosa Goyard em vermelho e verde — selecionado pela LM WEAR.",
     "names": {
       "pt": "Carteira Goyard — Composição luxuosa Goyard em vermelho e verde",
-      "en": "Goyard Wallet — withposição luxuosa Goyard em red e green",
-      "es": "Cartera Goyard — conposição luxuosa Goyard em rojo e verde",
-      "fr": "Portefeuille Goyard — avecposição luxuosa Goyard em rouge e vert",
-      "de": "Goyard Geldbörse — mitposição luxuosa Goyard em rot e grün"
+      "en": "Goyard Wallet — Composição luxuosa Goyard in red and green",
+      "es": "Cartera Goyard — Composição luxuosa Goyard en rojo y verde",
+      "fr": "Portefeuille Goyard — Composição luxuosa Goyard en rouge et vert",
+      "de": "Goyard Geldbörse — Composição luxuosa Goyard in rot und grün"
     },
     "descriptions": {
       "pt": "Carteira Goyard — Composição luxuosa Goyard em vermelho e verde — selecionado pela LM WEAR.",
-      "en": "Goyard Wallet — withposição luxuosa Goyard em red e green — selected by LM WEAR.",
-      "es": "Cartera Goyard — conposição luxuosa Goyard em rojo e verde — seleccionado por LM WEAR.",
-      "fr": "Portefeuille Goyard — avecposição luxuosa Goyard em rouge e vert — sélectionné par LM WEAR.",
-      "de": "Goyard Geldbörse — mitposição luxuosa Goyard em rot e grün — ausgewählt von LM WEAR."
+      "en": "Goyard Wallet — Composição luxuosa Goyard in red and green — selected by LM WEAR.",
+      "es": "Cartera Goyard — Composição luxuosa Goyard en rojo y verde — seleccionado por LM WEAR.",
+      "fr": "Portefeuille Goyard — Composição luxuosa Goyard en rouge et vert — sélectionné par LM WEAR.",
+      "de": "Goyard Geldbörse — Composição luxuosa Goyard in rot und grün — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11048,17 +11048,17 @@ window.LM_PRODUCTS = [
     "description": "Carteira Goyard — Conjunto de luxo Goyard — selecionado pela LM WEAR.",
     "names": {
       "pt": "Carteira Goyard — Conjunto de luxo Goyard",
-      "en": "Goyard Wallet — set de luxo Goyard",
-      "es": "Cartera Goyard — conjunto de luxo Goyard",
-      "fr": "Portefeuille Goyard — ensemble de luxo Goyard",
-      "de": "Goyard Geldbörse — Set de luxo Goyard"
+      "en": "Goyard Wallet — set luxury Goyard",
+      "es": "Cartera Goyard — conjunto de lujo Goyard",
+      "fr": "Portefeuille Goyard — ensemble de luxe Goyard",
+      "de": "Goyard Geldbörse — Set Luxus Goyard"
     },
     "descriptions": {
       "pt": "Carteira Goyard — Conjunto de luxo Goyard — selecionado pela LM WEAR.",
-      "en": "Goyard Wallet — set de luxo Goyard — selected by LM WEAR.",
-      "es": "Cartera Goyard — conjunto de luxo Goyard — seleccionado por LM WEAR.",
-      "fr": "Portefeuille Goyard — ensemble de luxo Goyard — sélectionné par LM WEAR.",
-      "de": "Goyard Geldbörse — Set de luxo Goyard — ausgewählt von LM WEAR."
+      "en": "Goyard Wallet — set luxury Goyard — selected by LM WEAR.",
+      "es": "Cartera Goyard — conjunto de lujo Goyard — seleccionado por LM WEAR.",
+      "fr": "Portefeuille Goyard — ensemble de luxe Goyard — sélectionné par LM WEAR.",
+      "de": "Goyard Geldbörse — Set Luxus Goyard — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11079,17 +11079,17 @@ window.LM_PRODUCTS = [
     "description": "Carteira Goyard — Conjunto Goyard com Porta-cartões e Acessórios — selecionado pela LM WEAR.",
     "names": {
       "pt": "Carteira Goyard — Conjunto Goyard com Porta-cartões e Acessórios",
-      "en": "Goyard Wallet — set Goyard with Porta-cartões e Acessórios",
-      "es": "Cartera Goyard — conjunto Goyard con Porta-cartões e Acessórios",
-      "fr": "Portefeuille Goyard — ensemble Goyard avec Porta-cartões e Acessórios",
-      "de": "Goyard Geldbörse — Set Goyard mit Porta-cartões e Acessórios"
+      "en": "Goyard Wallet — set Goyard with Porta-cartões and accessories",
+      "es": "Cartera Goyard — conjunto Goyard con Porta-cartões y accesorios",
+      "fr": "Portefeuille Goyard — ensemble Goyard avec Porta-cartões et accessoires",
+      "de": "Goyard Geldbörse — Set Goyard mit Porta-cartões und Zubehör"
     },
     "descriptions": {
       "pt": "Carteira Goyard — Conjunto Goyard com Porta-cartões e Acessórios — selecionado pela LM WEAR.",
-      "en": "Goyard Wallet — set Goyard with Porta-cartões e Acessórios — selected by LM WEAR.",
-      "es": "Cartera Goyard — conjunto Goyard con Porta-cartões e Acessórios — seleccionado por LM WEAR.",
-      "fr": "Portefeuille Goyard — ensemble Goyard avec Porta-cartões e Acessórios — sélectionné par LM WEAR.",
-      "de": "Goyard Geldbörse — Set Goyard mit Porta-cartões e Acessórios — ausgewählt von LM WEAR."
+      "en": "Goyard Wallet — set Goyard with Porta-cartões and accessories — selected by LM WEAR.",
+      "es": "Cartera Goyard — conjunto Goyard con Porta-cartões y accesorios — seleccionado por LM WEAR.",
+      "fr": "Portefeuille Goyard — ensemble Goyard avec Porta-cartões et accessoires — sélectionné par LM WEAR.",
+      "de": "Goyard Geldbörse — Set Goyard mit Porta-cartões und Zubehör — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11110,17 +11110,17 @@ window.LM_PRODUCTS = [
     "description": "Carteira Goyard — Conjunto Goyard Rosa sobre — selecionado pela LM WEAR.",
     "names": {
       "pt": "Carteira Goyard — Conjunto Goyard Rosa sobre",
-      "en": "Goyard Wallet — set Goyard pink sobre",
+      "en": "Goyard Wallet — set Goyard pink on",
       "es": "Cartera Goyard — conjunto Goyard rosa sobre",
-      "fr": "Portefeuille Goyard — ensemble Goyard rose sobre",
-      "de": "Goyard Geldbörse — Set Goyard rosa sobre"
+      "fr": "Portefeuille Goyard — ensemble Goyard rose sur",
+      "de": "Goyard Geldbörse — Set Goyard rosa auf"
     },
     "descriptions": {
       "pt": "Carteira Goyard — Conjunto Goyard Rosa sobre — selecionado pela LM WEAR.",
-      "en": "Goyard Wallet — set Goyard pink sobre — selected by LM WEAR.",
+      "en": "Goyard Wallet — set Goyard pink on — selected by LM WEAR.",
       "es": "Cartera Goyard — conjunto Goyard rosa sobre — seleccionado por LM WEAR.",
-      "fr": "Portefeuille Goyard — ensemble Goyard rose sobre — sélectionné par LM WEAR.",
-      "de": "Goyard Geldbörse — Set Goyard rosa sobre — ausgewählt von LM WEAR."
+      "fr": "Portefeuille Goyard — ensemble Goyard rose sur — sélectionné par LM WEAR.",
+      "de": "Goyard Geldbörse — Set Goyard rosa auf — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11327,17 +11327,17 @@ window.LM_PRODUCTS = [
     "description": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e acessórios — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e acessórios",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 6 with embalagem e acessórios",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 6 con embalagem e acessórios",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 6 avec embalagem e acessórios",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 6 mit embalagem e acessórios"
+      "en": "JBL Flip Speaker — speaker JBL Flip 6 with packaging and accessories",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 6 con embalaje y accesorios",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 6 avec emballage et accessoires",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 6 mit Verpackung und Zubehör"
     },
     "descriptions": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e acessórios — selecionado pela LM WEAR.",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 6 with embalagem e acessórios — selected by LM WEAR.",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 6 con embalagem e acessórios — seleccionado por LM WEAR.",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 6 avec embalagem e acessórios — sélectionné par LM WEAR.",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 6 mit embalagem e acessórios — ausgewählt von LM WEAR."
+      "en": "JBL Flip Speaker — speaker JBL Flip 6 with packaging and accessories — selected by LM WEAR.",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 6 con embalaje y accesorios — seleccionado por LM WEAR.",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 6 avec emballage et accessoires — sélectionné par LM WEAR.",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 6 mit Verpackung und Zubehör — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11358,17 +11358,17 @@ window.LM_PRODUCTS = [
     "description": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e cabo USB — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e cabo USB",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 6 with embalagem e cabo USB",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 6 con embalagem e cabo USB",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 6 avec embalagem e cabo USB",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 6 mit embalagem e cabo USB"
+      "en": "JBL Flip Speaker — speaker JBL Flip 6 with packaging and cabo USB",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 6 con embalaje y cabo USB",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 6 avec emballage et cabo USB",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 6 mit Verpackung und cabo USB"
     },
     "descriptions": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 6 com embalagem e cabo USB — selecionado pela LM WEAR.",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 6 with embalagem e cabo USB — selected by LM WEAR.",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 6 con embalagem e cabo USB — seleccionado por LM WEAR.",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 6 avec embalagem e cabo USB — sélectionné par LM WEAR.",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 6 mit embalagem e cabo USB — ausgewählt von LM WEAR."
+      "en": "JBL Flip Speaker — speaker JBL Flip 6 with packaging and cabo USB — selected by LM WEAR.",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 6 con embalaje y cabo USB — seleccionado por LM WEAR.",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 6 avec emballage et cabo USB — sélectionné par LM WEAR.",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 6 mit Verpackung und cabo USB — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11389,17 +11389,17 @@ window.LM_PRODUCTS = [
     "description": "Coluna JBL Flip — Coluna JBL Flip 6 em destaque — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 6 em destaque",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 6 em destaque",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 6 em destaque",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 6 em destaque",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 6 em destaque"
+      "en": "JBL Flip Speaker — speaker JBL Flip 6 featured",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 6 destacado",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 6 en vedette",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 6 hervorgehoben"
     },
     "descriptions": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 6 em destaque — selecionado pela LM WEAR.",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 6 em destaque — selected by LM WEAR.",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 6 em destaque — seleccionado por LM WEAR.",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 6 em destaque — sélectionné par LM WEAR.",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 6 em destaque — ausgewählt von LM WEAR."
+      "en": "JBL Flip Speaker — speaker JBL Flip 6 featured — selected by LM WEAR.",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 6 destacado — seleccionado por LM WEAR.",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 6 en vedette — sélectionné par LM WEAR.",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 6 hervorgehoben — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11420,17 +11420,17 @@ window.LM_PRODUCTS = [
     "description": "Coluna JBL Flip — Coluna JBL Flip 7 e acessórios — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 7 e acessórios",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 7 e acessórios",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 7 e acessórios",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 7 e acessórios",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 7 e acessórios"
+      "en": "JBL Flip Speaker — speaker JBL Flip 7 and accessories",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 7 y accesorios",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 7 et accessoires",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 7 und Zubehör"
     },
     "descriptions": {
       "pt": "Coluna JBL Flip — Coluna JBL Flip 7 e acessórios — selecionado pela LM WEAR.",
-      "en": "JBL Flip Speaker — Coluna JBL Flip 7 e acessórios — selected by LM WEAR.",
-      "es": "Altavoz JBL Flip — Coluna JBL Flip 7 e acessórios — seleccionado por LM WEAR.",
-      "fr": "Enceinte JBL Flip — Coluna JBL Flip 7 e acessórios — sélectionné par LM WEAR.",
-      "de": "JBL Flip Lautsprecher — Coluna JBL Flip 7 e acessórios — ausgewählt von LM WEAR."
+      "en": "JBL Flip Speaker — speaker JBL Flip 7 and accessories — selected by LM WEAR.",
+      "es": "Altavoz JBL Flip — altavoz JBL Flip 7 y accesorios — seleccionado por LM WEAR.",
+      "fr": "Enceinte JBL Flip — enceinte JBL Flip 7 et accessoires — sélectionné par LM WEAR.",
+      "de": "JBL Flip Lautsprecher — Lautsprecher JBL Flip 7 und Zubehör — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11451,17 +11451,17 @@ window.LM_PRODUCTS = [
     "description": "Pulseira Lacoste — Pulseira Lacoste com Caixa e Pouch — selecionado pela LM WEAR.",
     "names": {
       "pt": "Pulseira Lacoste — Pulseira Lacoste com Caixa e Pouch",
-      "en": "Lacoste Bracelet — Pulseira Lacoste with Caixa e Pouch",
-      "es": "Pulsera Lacoste — Pulseira Lacoste con Caixa e Pouch",
-      "fr": "Bracelet Lacoste — Pulseira Lacoste avec Caixa e Pouch",
-      "de": "Lacoste Armband — Pulseira Lacoste mit Caixa e Pouch"
+      "en": "Lacoste Bracelet — bracelet Lacoste with Caixa and Pouch",
+      "es": "Pulsera Lacoste — pulsera Lacoste con Caixa y Pouch",
+      "fr": "Bracelet Lacoste — bracelet Lacoste avec Caixa et Pouch",
+      "de": "Lacoste Armband — Armband Lacoste mit Caixa und Pouch"
     },
     "descriptions": {
       "pt": "Pulseira Lacoste — Pulseira Lacoste com Caixa e Pouch — selecionado pela LM WEAR.",
-      "en": "Lacoste Bracelet — Pulseira Lacoste with Caixa e Pouch — selected by LM WEAR.",
-      "es": "Pulsera Lacoste — Pulseira Lacoste con Caixa e Pouch — seleccionado por LM WEAR.",
-      "fr": "Bracelet Lacoste — Pulseira Lacoste avec Caixa e Pouch — sélectionné par LM WEAR.",
-      "de": "Lacoste Armband — Pulseira Lacoste mit Caixa e Pouch — ausgewählt von LM WEAR."
+      "en": "Lacoste Bracelet — bracelet Lacoste with Caixa and Pouch — selected by LM WEAR.",
+      "es": "Pulsera Lacoste — pulsera Lacoste con Caixa y Pouch — seleccionado por LM WEAR.",
+      "fr": "Bracelet Lacoste — bracelet Lacoste avec Caixa et Pouch — sélectionné par LM WEAR.",
+      "de": "Lacoste Armband — Armband Lacoste mit Caixa und Pouch — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11482,17 +11482,17 @@ window.LM_PRODUCTS = [
     "description": "Pulseira Lacoste — Pulseira Lacoste com Embalagem Elegante — selecionado pela LM WEAR.",
     "names": {
       "pt": "Pulseira Lacoste — Pulseira Lacoste com Embalagem Elegante",
-      "en": "Lacoste Bracelet — Pulseira Lacoste with Embalagem Elegante",
-      "es": "Pulsera Lacoste — Pulseira Lacoste con Embalagem Elegante",
-      "fr": "Bracelet Lacoste — Pulseira Lacoste avec Embalagem Elegante",
-      "de": "Lacoste Armband — Pulseira Lacoste mit Embalagem Elegante"
+      "en": "Lacoste Bracelet — bracelet Lacoste with packaging Elegante",
+      "es": "Pulsera Lacoste — pulsera Lacoste con embalaje Elegante",
+      "fr": "Bracelet Lacoste — bracelet Lacoste avec emballage Elegante",
+      "de": "Lacoste Armband — Armband Lacoste mit Verpackung Elegante"
     },
     "descriptions": {
       "pt": "Pulseira Lacoste — Pulseira Lacoste com Embalagem Elegante — selecionado pela LM WEAR.",
-      "en": "Lacoste Bracelet — Pulseira Lacoste with Embalagem Elegante — selected by LM WEAR.",
-      "es": "Pulsera Lacoste — Pulseira Lacoste con Embalagem Elegante — seleccionado por LM WEAR.",
-      "fr": "Bracelet Lacoste — Pulseira Lacoste avec Embalagem Elegante — sélectionné par LM WEAR.",
-      "de": "Lacoste Armband — Pulseira Lacoste mit Embalagem Elegante — ausgewählt von LM WEAR."
+      "en": "Lacoste Bracelet — bracelet Lacoste with packaging Elegante — selected by LM WEAR.",
+      "es": "Pulsera Lacoste — pulsera Lacoste con embalaje Elegante — seleccionado por LM WEAR.",
+      "fr": "Bracelet Lacoste — bracelet Lacoste avec emballage Elegante — sélectionné par LM WEAR.",
+      "de": "Lacoste Armband — Armband Lacoste mit Verpackung Elegante — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11513,17 +11513,17 @@ window.LM_PRODUCTS = [
     "description": "Pulseira Lacoste — Pulseira Lacoste Dourada em Destaque — selecionado pela LM WEAR.",
     "names": {
       "pt": "Pulseira Lacoste — Pulseira Lacoste Dourada em Destaque",
-      "en": "Lacoste Bracelet — Pulseira Lacoste gold em Destaque",
-      "es": "Pulsera Lacoste — Pulseira Lacoste dorada em Destaque",
-      "fr": "Bracelet Lacoste — Pulseira Lacoste dorée em Destaque",
-      "de": "Lacoste Armband — Pulseira Lacoste gold em Destaque"
+      "en": "Lacoste Bracelet — bracelet Lacoste gold featured",
+      "es": "Pulsera Lacoste — pulsera Lacoste dorada destacado",
+      "fr": "Bracelet Lacoste — bracelet Lacoste dorée en vedette",
+      "de": "Lacoste Armband — Armband Lacoste gold hervorgehoben"
     },
     "descriptions": {
       "pt": "Pulseira Lacoste — Pulseira Lacoste Dourada em Destaque — selecionado pela LM WEAR.",
-      "en": "Lacoste Bracelet — Pulseira Lacoste gold em Destaque — selected by LM WEAR.",
-      "es": "Pulsera Lacoste — Pulseira Lacoste dorada em Destaque — seleccionado por LM WEAR.",
-      "fr": "Bracelet Lacoste — Pulseira Lacoste dorée em Destaque — sélectionné par LM WEAR.",
-      "de": "Lacoste Armband — Pulseira Lacoste gold em Destaque — ausgewählt von LM WEAR."
+      "en": "Lacoste Bracelet — bracelet Lacoste gold featured — selected by LM WEAR.",
+      "es": "Pulsera Lacoste — pulsera Lacoste dorada destacado — seleccionado por LM WEAR.",
+      "fr": "Bracelet Lacoste — bracelet Lacoste dorée en vedette — sélectionné par LM WEAR.",
+      "de": "Lacoste Armband — Armband Lacoste gold hervorgehoben — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11792,17 +11792,17 @@ window.LM_PRODUCTS = [
     "description": "LEGO Technic — Ferrari de competição — selecionado pela LM WEAR.",
     "names": {
       "pt": "LEGO Technic — Ferrari de competição",
-      "en": "LEGO Technic — Ferrari de withpetição",
-      "es": "LEGO Technic — Ferrari de conpetição",
-      "fr": "LEGO Technic — Ferrari de avecpetição",
-      "de": "LEGO Technic — Ferrari de mitpetição"
+      "en": "LEGO Technic — Ferrari of competição",
+      "es": "LEGO Technic — Ferrari de competição",
+      "fr": "LEGO Technic — Ferrari de competição",
+      "de": "LEGO Technic — Ferrari von competição"
     },
     "descriptions": {
       "pt": "LEGO Technic — Ferrari de competição — selecionado pela LM WEAR.",
-      "en": "LEGO Technic — Ferrari de withpetição — selected by LM WEAR.",
-      "es": "LEGO Technic — Ferrari de conpetição — seleccionado por LM WEAR.",
-      "fr": "LEGO Technic — Ferrari de avecpetição — sélectionné par LM WEAR.",
-      "de": "LEGO Technic — Ferrari de mitpetição — ausgewählt von LM WEAR."
+      "en": "LEGO Technic — Ferrari of competição — selected by LM WEAR.",
+      "es": "LEGO Technic — Ferrari de competição — seleccionado por LM WEAR.",
+      "fr": "LEGO Technic — Ferrari de competição — sélectionné par LM WEAR.",
+      "de": "LEGO Technic — Ferrari von competição — ausgewählt von LM WEAR."
     }
   },
   {
@@ -11854,17 +11854,17 @@ window.LM_PRODUCTS = [
     "description": "LEGO Technic — McLaren de Fórmula 1 — selecionado pela LM WEAR.",
     "names": {
       "pt": "LEGO Technic — McLaren de Fórmula 1",
-      "en": "LEGO Technic — McLaren de Fórmula 1",
+      "en": "LEGO Technic — McLaren of Fórmula 1",
       "es": "LEGO Technic — McLaren de Fórmula 1",
       "fr": "LEGO Technic — McLaren de Fórmula 1",
-      "de": "LEGO Technic — McLaren de Fórmula 1"
+      "de": "LEGO Technic — McLaren von Fórmula 1"
     },
     "descriptions": {
       "pt": "LEGO Technic — McLaren de Fórmula 1 — selecionado pela LM WEAR.",
-      "en": "LEGO Technic — McLaren de Fórmula 1 — selected by LM WEAR.",
+      "en": "LEGO Technic — McLaren of Fórmula 1 — selected by LM WEAR.",
       "es": "LEGO Technic — McLaren de Fórmula 1 — seleccionado por LM WEAR.",
       "fr": "LEGO Technic — McLaren de Fórmula 1 — sélectionné par LM WEAR.",
-      "de": "LEGO Technic — McLaren de Fórmula 1 — ausgewählt von LM WEAR."
+      "de": "LEGO Technic — McLaren von Fórmula 1 — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12009,17 +12009,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de luxo Louis Vuitton em Damier — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de luxo Louis Vuitton em Damier",
-      "en": "Louis Vuitton Belt & Wallet Set — set de luxo Louis Vuitton em Damier",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto de luxo Louis Vuitton em Damier",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble de luxo Louis Vuitton em Damier",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set de luxo Louis Vuitton em Damier"
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set luxury Louis Vuitton in Damier",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto de lujo Louis Vuitton en Damier",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble de luxe Louis Vuitton en Damier",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Luxus Louis Vuitton in Damier"
     },
     "descriptions": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de luxo Louis Vuitton em Damier — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Belt & Wallet Set — set de luxo Louis Vuitton em Damier — selected by LM WEAR.",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto de luxo Louis Vuitton em Damier — seleccionado por LM WEAR.",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble de luxo Louis Vuitton em Damier — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set de luxo Louis Vuitton em Damier — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set luxury Louis Vuitton in Damier — selected by LM WEAR.",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto de lujo Louis Vuitton en Damier — seleccionado por LM WEAR.",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble de luxe Louis Vuitton en Damier — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Luxus Louis Vuitton in Damier — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12040,17 +12040,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de Luxo Louis Vuitton — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de Luxo Louis Vuitton",
-      "en": "Louis Vuitton Belt & Wallet Set — set de Luxo Louis Vuitton",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto de Luxo Louis Vuitton",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble de Luxo Louis Vuitton",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set de Luxo Louis Vuitton"
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set luxury Louis Vuitton",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto de lujo Louis Vuitton",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble de luxe Louis Vuitton",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Luxus Louis Vuitton"
     },
     "descriptions": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto de Luxo Louis Vuitton — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Belt & Wallet Set — set de Luxo Louis Vuitton — selected by LM WEAR.",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto de Luxo Louis Vuitton — seleccionado por LM WEAR.",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble de Luxo Louis Vuitton — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set de Luxo Louis Vuitton — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set luxury Louis Vuitton — selected by LM WEAR.",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto de lujo Louis Vuitton — seleccionado por LM WEAR.",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble de luxe Louis Vuitton — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Luxus Louis Vuitton — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12071,17 +12071,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton"
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton"
     },
     "descriptions": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton — selected by LM WEAR.",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton — seleccionado por LM WEAR.",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton — selected by LM WEAR.",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton — seleccionado por LM WEAR.",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12102,17 +12102,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Castanho — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Castanho",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton em orange e Castanho",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton em naranja e Castanho",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton em orange e Castanho",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton em orange e Castanho"
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton in orange and brown",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton en naranja y marrón",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton en orange et marron",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton in orange und braun"
     },
     "descriptions": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Castanho — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton em orange e Castanho — selected by LM WEAR.",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton em naranja e Castanho — seleccionado por LM WEAR.",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton em orange e Castanho — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton em orange e Castanho — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton in orange and brown — selected by LM WEAR.",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton en naranja y marrón — seleccionado por LM WEAR.",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton en orange et marron — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton in orange und braun — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12133,17 +12133,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Damier — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Damier",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton em orange e Damier",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton em naranja e Damier",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton em orange e Damier",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton em orange e Damier"
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton in orange and Damier",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton en naranja y Damier",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton en orange et Damier",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton in orange und Damier"
     },
     "descriptions": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja e Damier — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton em orange e Damier — selected by LM WEAR.",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton em naranja e Damier — seleccionado por LM WEAR.",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton em orange e Damier — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton em orange e Damier — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton in orange and Damier — selected by LM WEAR.",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton en naranja y Damier — seleccionado por LM WEAR.",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton en orange et Damier — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton in orange und Damier — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12164,17 +12164,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton em orange",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton em naranja",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton em orange",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton em orange"
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton in orange",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton en naranja",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton en orange",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton in orange"
     },
     "descriptions": {
       "pt": "Conjunto Louis Vuitton — cinto e carteira — Conjunto Louis Vuitton em Laranja — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Belt & Wallet Set — set Louis Vuitton em orange — selected by LM WEAR.",
-      "es": "Conjunto Louis Vuitton — cinturón y cartera — conjunto Louis Vuitton em naranja — seleccionado por LM WEAR.",
-      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ensemble Louis Vuitton em orange — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Set Louis Vuitton em orange — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Belt & Wallet Set — belt and wallet — set Louis Vuitton in orange — selected by LM WEAR.",
+      "es": "Conjunto Louis Vuitton — cinturón y cartera — cinturón y cartera — conjunto Louis Vuitton en naranja — seleccionado por LM WEAR.",
+      "fr": "Ensemble Louis Vuitton — ceinture et portefeuille — ceinture et portefeuille — ensemble Louis Vuitton en orange — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Gürtel- und Geldbörsen-Set — Gürtel und Geldbörse — Set Louis Vuitton in orange — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12207,17 +12207,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — Brancas de Luxo — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — Brancas de Luxo",
-      "en": "Louis Vuitton Sneakers — white de Luxo",
-      "es": "Zapatillas Louis Vuitton — blancas de Luxo",
-      "fr": "Baskets Louis Vuitton — blanches de Luxo",
-      "de": "Louis Vuitton Sneaker — weiß de Luxo"
+      "en": "Louis Vuitton Sneakers — white luxury",
+      "es": "Zapatillas Louis Vuitton — blancas de lujo",
+      "fr": "Baskets Louis Vuitton — blanches de luxe",
+      "de": "Louis Vuitton Sneaker — weiß Luxus"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — Brancas de Luxo — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — white de Luxo — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — blancas de Luxo — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — blanches de Luxo — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — weiß de Luxo — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — white luxury — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — blancas de lujo — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — blanches de luxe — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — weiß Luxus — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12250,17 +12250,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — Louis Vuitton Brancas e Douradas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton Brancas e Douradas",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton white e golds",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton blancas e doradas",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton blanches e dorées",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton weiß e golds"
+      "en": "Louis Vuitton Sneakers — Louis Vuitton white and gold",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton blancas y doradas",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton blanches et dorées",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton weiß und gold"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton Brancas e Douradas — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton white e golds — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton blancas e doradas — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton blanches e dorées — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton weiß e golds — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — Louis Vuitton white and gold — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton blancas y doradas — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton blanches et dorées — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton weiß und gold — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12293,17 +12293,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — Louis Vuitton em Branco e Azul Denim — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton em Branco e Azul Denim",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton em white e blue Denim",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton em blanco e azul Denim",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton em blanc e bleu Denim",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton em weiß e blau Denim"
+      "en": "Louis Vuitton Sneakers — Louis Vuitton in white and blue Denim",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton en blanco y azul Denim",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton en blanc et bleu Denim",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton in weiß und blau Denim"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton em Branco e Azul Denim — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton em white e blue Denim — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton em blanco e azul Denim — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton em blanc e bleu Denim — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton em weiß e blau Denim — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — Louis Vuitton in white and blue Denim — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton en blanco y azul Denim — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton en blanc et bleu Denim — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton in weiß und blau Denim — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12336,17 +12336,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — Louis Vuitton Rosa e Brancas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton Rosa e Brancas",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton pink e white",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton rosa e blancas",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton rose e blanches",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton rosa e weiß"
+      "en": "Louis Vuitton Sneakers — Louis Vuitton pink and white",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton rosa y blancas",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton rose et blanches",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton rosa und weiß"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton Rosa e Brancas — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton pink e white — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton rosa e blancas — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton rose e blanches — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton rosa e weiß — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — Louis Vuitton pink and white — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton rosa y blancas — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton rose et blanches — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton rosa und weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12379,17 +12379,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — de luxo preto e branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — de luxo preto e branco",
-      "en": "Louis Vuitton Sneakers — de luxo black e white",
-      "es": "Zapatillas Louis Vuitton — de luxo negro e blanco",
-      "fr": "Baskets Louis Vuitton — de luxo noir e blanc",
-      "de": "Louis Vuitton Sneaker — de luxo schwarz e weiß"
+      "en": "Louis Vuitton Sneakers — luxury black and white",
+      "es": "Zapatillas Louis Vuitton — de lujo negro y blanco",
+      "fr": "Baskets Louis Vuitton — de luxe noir et blanc",
+      "de": "Louis Vuitton Sneaker — Luxus schwarz und weiß"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — de luxo preto e branco — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — de luxo black e white — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — de luxo negro e blanco — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — de luxo noir e blanc — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — de luxo schwarz e weiß — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — luxury black and white — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — de lujo negro y blanco — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — de luxe noir et blanc — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Luxus schwarz und weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12422,17 +12422,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — de luxo verdes e brancos LV — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — de luxo verdes e brancos LV",
-      "en": "Louis Vuitton Sneakers — de luxo greens e white LV",
-      "es": "Zapatillas Louis Vuitton — de luxo verdes e blancos LV",
-      "fr": "Baskets Louis Vuitton — de luxo verts e blancs LV",
-      "de": "Louis Vuitton Sneaker — de luxo grüns e weiß LV"
+      "en": "Louis Vuitton Sneakers — luxury green and white LV",
+      "es": "Zapatillas Louis Vuitton — de lujo verdes y blancos LV",
+      "fr": "Baskets Louis Vuitton — de luxe verts et blancs LV",
+      "de": "Louis Vuitton Sneaker — Luxus grün und weiß LV"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — de luxo verdes e brancos LV — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — de luxo greens e white LV — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — de luxo verdes e blancos LV — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — de luxo verts e blancs LV — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — de luxo grüns e weiß LV — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — luxury green and white LV — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — de lujo verdes y blancos LV — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — de luxe verts et blancs LV — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Luxus grün und weiß LV — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12465,17 +12465,17 @@ window.LM_PRODUCTS = [
     "description": "Ténis Louis Vuitton — Louis Vuitton em Branco e Azul Cielo — selecionado pela LM WEAR.",
     "names": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton em Branco e Azul Cielo",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton em white e blue Cielo",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton em blanco e azul Cielo",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton em blanc e bleu Cielo",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton em weiß e blau Cielo"
+      "en": "Louis Vuitton Sneakers — Louis Vuitton in white and blue Cielo",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton en blanco y azul Cielo",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton en blanc et bleu Cielo",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton in weiß und blau Cielo"
     },
     "descriptions": {
       "pt": "Ténis Louis Vuitton — Louis Vuitton em Branco e Azul Cielo — selecionado pela LM WEAR.",
-      "en": "Louis Vuitton Sneakers — Louis Vuitton em white e blue Cielo — selected by LM WEAR.",
-      "es": "Zapatillas Louis Vuitton — Louis Vuitton em blanco e azul Cielo — seleccionado por LM WEAR.",
-      "fr": "Baskets Louis Vuitton — Louis Vuitton em blanc e bleu Cielo — sélectionné par LM WEAR.",
-      "de": "Louis Vuitton Sneaker — Louis Vuitton em weiß e blau Cielo — ausgewählt von LM WEAR."
+      "en": "Louis Vuitton Sneakers — Louis Vuitton in white and blue Cielo — selected by LM WEAR.",
+      "es": "Zapatillas Louis Vuitton — Louis Vuitton en blanco y azul Cielo — seleccionado por LM WEAR.",
+      "fr": "Baskets Louis Vuitton — Louis Vuitton en blanc et bleu Cielo — sélectionné par LM WEAR.",
+      "de": "Louis Vuitton Sneaker — Louis Vuitton in weiß und blau Cielo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12496,17 +12496,17 @@ window.LM_PRODUCTS = [
     "description": "Gorro Nike — Gorro azul de malha com logótipo Nike — selecionado pela LM WEAR.",
     "names": {
       "pt": "Gorro Nike — Gorro azul de malha com logótipo Nike",
-      "en": "Nike Beanie — Gorro blue de malha with logótipo Nike",
-      "es": "Gorro Nike — Gorro azul de malha con logótipo Nike",
-      "fr": "Bonnet Nike — Gorro bleu de malha avec logótipo Nike",
-      "de": "Nike Mütze — Gorro blau de malha mit logótipo Nike"
+      "en": "Nike Beanie — beanie blue of knit with logo Nike",
+      "es": "Gorro Nike — gorro azul de tejido con logotipo Nike",
+      "fr": "Bonnet Nike — bonnet bleu de maille avec logo Nike",
+      "de": "Nike Mütze — Mütze blau von Strick mit Logo Nike"
     },
     "descriptions": {
       "pt": "Gorro Nike — Gorro azul de malha com logótipo Nike — selecionado pela LM WEAR.",
-      "en": "Nike Beanie — Gorro blue de malha with logótipo Nike — selected by LM WEAR.",
-      "es": "Gorro Nike — Gorro azul de malha con logótipo Nike — seleccionado por LM WEAR.",
-      "fr": "Bonnet Nike — Gorro bleu de malha avec logótipo Nike — sélectionné par LM WEAR.",
-      "de": "Nike Mütze — Gorro blau de malha mit logótipo Nike — ausgewählt von LM WEAR."
+      "en": "Nike Beanie — beanie blue of knit with logo Nike — selected by LM WEAR.",
+      "es": "Gorro Nike — gorro azul de tejido con logotipo Nike — seleccionado por LM WEAR.",
+      "fr": "Bonnet Nike — bonnet bleu de maille avec logo Nike — sélectionné par LM WEAR.",
+      "de": "Nike Mütze — Mütze blau von Strick mit Logo Nike — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12527,17 +12527,17 @@ window.LM_PRODUCTS = [
     "description": "Gorro Nike — Gorro branco de malha com logótipo Nike — selecionado pela LM WEAR.",
     "names": {
       "pt": "Gorro Nike — Gorro branco de malha com logótipo Nike",
-      "en": "Nike Beanie — Gorro white de malha with logótipo Nike",
-      "es": "Gorro Nike — Gorro blanco de malha con logótipo Nike",
-      "fr": "Bonnet Nike — Gorro blanc de malha avec logótipo Nike",
-      "de": "Nike Mütze — Gorro weiß de malha mit logótipo Nike"
+      "en": "Nike Beanie — beanie white of knit with logo Nike",
+      "es": "Gorro Nike — gorro blanco de tejido con logotipo Nike",
+      "fr": "Bonnet Nike — bonnet blanc de maille avec logo Nike",
+      "de": "Nike Mütze — Mütze weiß von Strick mit Logo Nike"
     },
     "descriptions": {
       "pt": "Gorro Nike — Gorro branco de malha com logótipo Nike — selecionado pela LM WEAR.",
-      "en": "Nike Beanie — Gorro white de malha with logótipo Nike — selected by LM WEAR.",
-      "es": "Gorro Nike — Gorro blanco de malha con logótipo Nike — seleccionado por LM WEAR.",
-      "fr": "Bonnet Nike — Gorro blanc de malha avec logótipo Nike — sélectionné par LM WEAR.",
-      "de": "Nike Mütze — Gorro weiß de malha mit logótipo Nike — ausgewählt von LM WEAR."
+      "en": "Nike Beanie — beanie white of knit with logo Nike — selected by LM WEAR.",
+      "es": "Gorro Nike — gorro blanco de tejido con logotipo Nike — seleccionado por LM WEAR.",
+      "fr": "Bonnet Nike — bonnet blanc de maille avec logo Nike — sélectionné par LM WEAR.",
+      "de": "Nike Mütze — Mütze weiß von Strick mit Logo Nike — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12558,17 +12558,17 @@ window.LM_PRODUCTS = [
     "description": "Gorro Nike — Gorro cinzento Nike em malha — selecionado pela LM WEAR.",
     "names": {
       "pt": "Gorro Nike — Gorro cinzento Nike em malha",
-      "en": "Nike Beanie — Gorro grey Nike em malha",
-      "es": "Gorro Nike — Gorro gris Nike em malha",
-      "fr": "Bonnet Nike — Gorro gris Nike em malha",
-      "de": "Nike Mütze — Gorro grau Nike em malha"
+      "en": "Nike Beanie — beanie grey Nike in knit",
+      "es": "Gorro Nike — gorro gris Nike en tejido",
+      "fr": "Bonnet Nike — bonnet gris Nike en maille",
+      "de": "Nike Mütze — Mütze grau Nike in Strick"
     },
     "descriptions": {
       "pt": "Gorro Nike — Gorro cinzento Nike em malha — selecionado pela LM WEAR.",
-      "en": "Nike Beanie — Gorro grey Nike em malha — selected by LM WEAR.",
-      "es": "Gorro Nike — Gorro gris Nike em malha — seleccionado por LM WEAR.",
-      "fr": "Bonnet Nike — Gorro gris Nike em malha — sélectionné par LM WEAR.",
-      "de": "Nike Mütze — Gorro grau Nike em malha — ausgewählt von LM WEAR."
+      "en": "Nike Beanie — beanie grey Nike in knit — selected by LM WEAR.",
+      "es": "Gorro Nike — gorro gris Nike en tejido — seleccionado por LM WEAR.",
+      "fr": "Bonnet Nike — bonnet gris Nike en maille — sélectionné par LM WEAR.",
+      "de": "Nike Mütze — Mütze grau Nike in Strick — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12589,17 +12589,17 @@ window.LM_PRODUCTS = [
     "description": "Gorro Nike — Gorro de malha azul-marinho com swoosh branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Gorro Nike — Gorro de malha azul-marinho com swoosh branco",
-      "en": "Nike Beanie — Gorro de malha navy blue with swoosh white",
-      "es": "Gorro Nike — Gorro de malha azul marino con swoosh blanco",
-      "fr": "Bonnet Nike — Gorro de malha bleu marine avec swoosh blanc",
-      "de": "Nike Mütze — Gorro de malha marineblau mit swoosh weiß"
+      "en": "Nike Beanie — beanie of knit navy blue with swoosh white",
+      "es": "Gorro Nike — gorro de tejido azul marino con swoosh blanco",
+      "fr": "Bonnet Nike — bonnet de maille bleu marine avec swoosh blanc",
+      "de": "Nike Mütze — Mütze von Strick marineblau mit swoosh weiß"
     },
     "descriptions": {
       "pt": "Gorro Nike — Gorro de malha azul-marinho com swoosh branco — selecionado pela LM WEAR.",
-      "en": "Nike Beanie — Gorro de malha navy blue with swoosh white — selected by LM WEAR.",
-      "es": "Gorro Nike — Gorro de malha azul marino con swoosh blanco — seleccionado por LM WEAR.",
-      "fr": "Bonnet Nike — Gorro de malha bleu marine avec swoosh blanc — sélectionné par LM WEAR.",
-      "de": "Nike Mütze — Gorro de malha marineblau mit swoosh weiß — ausgewählt von LM WEAR."
+      "en": "Nike Beanie — beanie of knit navy blue with swoosh white — selected by LM WEAR.",
+      "es": "Gorro Nike — gorro de tejido azul marino con swoosh blanco — seleccionado por LM WEAR.",
+      "fr": "Bonnet Nike — bonnet de maille bleu marine avec swoosh blanc — sélectionné par LM WEAR.",
+      "de": "Nike Mütze — Mütze von Strick marineblau mit swoosh weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12620,17 +12620,17 @@ window.LM_PRODUCTS = [
     "description": "Gorro Nike — Gorro preto Nike em malha canelada — selecionado pela LM WEAR.",
     "names": {
       "pt": "Gorro Nike — Gorro preto Nike em malha canelada",
-      "en": "Nike Beanie — Gorro black Nike em malha canelada",
-      "es": "Gorro Nike — Gorro negro Nike em malha canelada",
-      "fr": "Bonnet Nike — Gorro noir Nike em malha canelada",
-      "de": "Nike Mütze — Gorro schwarz Nike em malha canelada"
+      "en": "Nike Beanie — beanie black Nike in knit canelada",
+      "es": "Gorro Nike — gorro negro Nike en tejido canelada",
+      "fr": "Bonnet Nike — bonnet noir Nike en maille canelada",
+      "de": "Nike Mütze — Mütze schwarz Nike in Strick canelada"
     },
     "descriptions": {
       "pt": "Gorro Nike — Gorro preto Nike em malha canelada — selecionado pela LM WEAR.",
-      "en": "Nike Beanie — Gorro black Nike em malha canelada — selected by LM WEAR.",
-      "es": "Gorro Nike — Gorro negro Nike em malha canelada — seleccionado por LM WEAR.",
-      "fr": "Bonnet Nike — Gorro noir Nike em malha canelada — sélectionné par LM WEAR.",
-      "de": "Nike Mütze — Gorro schwarz Nike em malha canelada — ausgewählt von LM WEAR."
+      "en": "Nike Beanie — beanie black Nike in knit canelada — selected by LM WEAR.",
+      "es": "Gorro Nike — gorro negro Nike en tejido canelada — seleccionado por LM WEAR.",
+      "fr": "Bonnet Nike — bonnet noir Nike en maille canelada — sélectionné par LM WEAR.",
+      "de": "Nike Mütze — Mütze schwarz Nike in Strick canelada — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12651,17 +12651,17 @@ window.LM_PRODUCTS = [
     "description": "Gorro Nike — Gorro vermelho de malha com swoosh branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Gorro Nike — Gorro vermelho de malha com swoosh branco",
-      "en": "Nike Beanie — Gorro red de malha with swoosh white",
-      "es": "Gorro Nike — Gorro rojo de malha con swoosh blanco",
-      "fr": "Bonnet Nike — Gorro rouge de malha avec swoosh blanc",
-      "de": "Nike Mütze — Gorro rot de malha mit swoosh weiß"
+      "en": "Nike Beanie — beanie red of knit with swoosh white",
+      "es": "Gorro Nike — gorro rojo de tejido con swoosh blanco",
+      "fr": "Bonnet Nike — bonnet rouge de maille avec swoosh blanc",
+      "de": "Nike Mütze — Mütze rot von Strick mit swoosh weiß"
     },
     "descriptions": {
       "pt": "Gorro Nike — Gorro vermelho de malha com swoosh branco — selecionado pela LM WEAR.",
-      "en": "Nike Beanie — Gorro red de malha with swoosh white — selected by LM WEAR.",
-      "es": "Gorro Nike — Gorro rojo de malha con swoosh blanco — seleccionado por LM WEAR.",
-      "fr": "Bonnet Nike — Gorro rouge de malha avec swoosh blanc — sélectionné par LM WEAR.",
-      "de": "Nike Mütze — Gorro rot de malha mit swoosh weiß — ausgewählt von LM WEAR."
+      "en": "Nike Beanie — beanie red of knit with swoosh white — selected by LM WEAR.",
+      "es": "Gorro Nike — gorro rojo de tejido con swoosh blanco — seleccionado por LM WEAR.",
+      "fr": "Bonnet Nike — bonnet rouge de maille avec swoosh blanc — sélectionné par LM WEAR.",
+      "de": "Nike Mütze — Mütze rot von Strick mit swoosh weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12759,17 +12759,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike NOCTA — Conjunto Desportivo NOCTA Preto e Dourado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike NOCTA — Conjunto Desportivo NOCTA Preto e Dourado",
-      "en": "Nike NOCTA Set — set Desportivo NOCTA black e gold",
-      "es": "Conjunto Nike NOCTA — conjunto Desportivo NOCTA negro e dorado",
-      "fr": "Ensemble Nike NOCTA — ensemble Desportivo NOCTA noir e doré",
-      "de": "Nike NOCTA Set — Set Desportivo NOCTA schwarz e gold"
+      "en": "Nike NOCTA Set — set Desportivo NOCTA black and gold",
+      "es": "Conjunto Nike NOCTA — conjunto Desportivo NOCTA negro y dorado",
+      "fr": "Ensemble Nike NOCTA — ensemble Desportivo NOCTA noir et doré",
+      "de": "Nike NOCTA Set — Set Desportivo NOCTA schwarz und gold"
     },
     "descriptions": {
       "pt": "Conjunto Nike NOCTA — Conjunto Desportivo NOCTA Preto e Dourado — selecionado pela LM WEAR.",
-      "en": "Nike NOCTA Set — set Desportivo NOCTA black e gold — selected by LM WEAR.",
-      "es": "Conjunto Nike NOCTA — conjunto Desportivo NOCTA negro e dorado — seleccionado por LM WEAR.",
-      "fr": "Ensemble Nike NOCTA — ensemble Desportivo NOCTA noir e doré — sélectionné par LM WEAR.",
-      "de": "Nike NOCTA Set — Set Desportivo NOCTA schwarz e gold — ausgewählt von LM WEAR."
+      "en": "Nike NOCTA Set — set Desportivo NOCTA black and gold — selected by LM WEAR.",
+      "es": "Conjunto Nike NOCTA — conjunto Desportivo NOCTA negro y dorado — seleccionado por LM WEAR.",
+      "fr": "Ensemble Nike NOCTA — ensemble Desportivo NOCTA noir et doré — sélectionné par LM WEAR.",
+      "de": "Nike NOCTA Set — Set Desportivo NOCTA schwarz und gold — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12831,17 +12831,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike NOCTA — Conjunto Nike x NOCTA Cinzento e Preto — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike NOCTA — Conjunto Nike x NOCTA Cinzento e Preto",
-      "en": "Nike NOCTA Set — set Nike x NOCTA grey e black",
-      "es": "Conjunto Nike NOCTA — conjunto Nike x NOCTA gris e negro",
-      "fr": "Ensemble Nike NOCTA — ensemble Nike x NOCTA gris e noir",
-      "de": "Nike NOCTA Set — Set Nike x NOCTA grau e schwarz"
+      "en": "Nike NOCTA Set — set Nike x NOCTA grey and black",
+      "es": "Conjunto Nike NOCTA — conjunto Nike x NOCTA gris y negro",
+      "fr": "Ensemble Nike NOCTA — ensemble Nike x NOCTA gris et noir",
+      "de": "Nike NOCTA Set — Set Nike x NOCTA grau und schwarz"
     },
     "descriptions": {
       "pt": "Conjunto Nike NOCTA — Conjunto Nike x NOCTA Cinzento e Preto — selecionado pela LM WEAR.",
-      "en": "Nike NOCTA Set — set Nike x NOCTA grey e black — selected by LM WEAR.",
-      "es": "Conjunto Nike NOCTA — conjunto Nike x NOCTA gris e negro — seleccionado por LM WEAR.",
-      "fr": "Ensemble Nike NOCTA — ensemble Nike x NOCTA gris e noir — sélectionné par LM WEAR.",
-      "de": "Nike NOCTA Set — Set Nike x NOCTA grau e schwarz — ausgewählt von LM WEAR."
+      "en": "Nike NOCTA Set — set Nike x NOCTA grey and black — selected by LM WEAR.",
+      "es": "Conjunto Nike NOCTA — conjunto Nike x NOCTA gris y negro — seleccionado por LM WEAR.",
+      "fr": "Ensemble Nike NOCTA — ensemble Nike x NOCTA gris et noir — sélectionné par LM WEAR.",
+      "de": "Nike NOCTA Set — Set Nike x NOCTA grau und schwarz — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12910,17 +12910,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Shox — Sapatilha de corrida branca e rosa — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Shox — Sapatilha de corrida branca e rosa",
-      "en": "Nike Shox — Sapatilha de corrida white e pink",
-      "es": "Nike Shox — Sapatilha de corrida blanca e rosa",
-      "fr": "Nike Shox — Sapatilha de corrida blanche e rose",
-      "de": "Nike Shox — Sapatilha de corrida weiß e rosa"
+      "en": "Nike Shox — Sapatilha of corrida white and pink",
+      "es": "Nike Shox — Sapatilha de corrida blanca y rosa",
+      "fr": "Nike Shox — Sapatilha de corrida blanche et rose",
+      "de": "Nike Shox — Sapatilha von corrida weiß und rosa"
     },
     "descriptions": {
       "pt": "Nike Shox — Sapatilha de corrida branca e rosa — selecionado pela LM WEAR.",
-      "en": "Nike Shox — Sapatilha de corrida white e pink — selected by LM WEAR.",
-      "es": "Nike Shox — Sapatilha de corrida blanca e rosa — seleccionado por LM WEAR.",
-      "fr": "Nike Shox — Sapatilha de corrida blanche e rose — sélectionné par LM WEAR.",
-      "de": "Nike Shox — Sapatilha de corrida weiß e rosa — ausgewählt von LM WEAR."
+      "en": "Nike Shox — Sapatilha of corrida white and pink — selected by LM WEAR.",
+      "es": "Nike Shox — Sapatilha de corrida blanca y rosa — seleccionado por LM WEAR.",
+      "fr": "Nike Shox — Sapatilha de corrida blanche et rose — sélectionné par LM WEAR.",
+      "de": "Nike Shox — Sapatilha von corrida weiß und rosa — ausgewählt von LM WEAR."
     }
   },
   {
@@ -12953,17 +12953,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Shox — Nike Shox Brancas e Vermelhas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Shox — Nike Shox Brancas e Vermelhas",
-      "en": "Nike Shox — Nike Shox white e red",
-      "es": "Nike Shox — Nike Shox blancas e rojas",
-      "fr": "Nike Shox — Nike Shox blanches e rouges",
-      "de": "Nike Shox — Nike Shox weiß e rot"
+      "en": "Nike Shox — Nike Shox white and red",
+      "es": "Nike Shox — Nike Shox blancas y rojas",
+      "fr": "Nike Shox — Nike Shox blanches et rouges",
+      "de": "Nike Shox — Nike Shox weiß und rot"
     },
     "descriptions": {
       "pt": "Nike Shox — Nike Shox Brancas e Vermelhas — selecionado pela LM WEAR.",
-      "en": "Nike Shox — Nike Shox white e red — selected by LM WEAR.",
-      "es": "Nike Shox — Nike Shox blancas e rojas — seleccionado por LM WEAR.",
-      "fr": "Nike Shox — Nike Shox blanches e rouges — sélectionné par LM WEAR.",
-      "de": "Nike Shox — Nike Shox weiß e rot — ausgewählt von LM WEAR."
+      "en": "Nike Shox — Nike Shox white and red — selected by LM WEAR.",
+      "es": "Nike Shox — Nike Shox blancas y rojas — seleccionado por LM WEAR.",
+      "fr": "Nike Shox — Nike Shox blanches et rouges — sélectionné par LM WEAR.",
+      "de": "Nike Shox — Nike Shox weiß und rot — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13039,17 +13039,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Shox — pretos e rosa — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Shox — pretos e rosa",
-      "en": "Nike Shox — black e pink",
-      "es": "Nike Shox — negros e rosa",
-      "fr": "Nike Shox — noirs e rose",
-      "de": "Nike Shox — schwarz e rosa"
+      "en": "Nike Shox — black and pink",
+      "es": "Nike Shox — negros y rosa",
+      "fr": "Nike Shox — noirs et rose",
+      "de": "Nike Shox — schwarz und rosa"
     },
     "descriptions": {
       "pt": "Nike Shox — pretos e rosa — selecionado pela LM WEAR.",
-      "en": "Nike Shox — black e pink — selected by LM WEAR.",
-      "es": "Nike Shox — negros e rosa — seleccionado por LM WEAR.",
-      "fr": "Nike Shox — noirs e rose — sélectionné par LM WEAR.",
-      "de": "Nike Shox — schwarz e rosa — ausgewählt von LM WEAR."
+      "en": "Nike Shox — black and pink — selected by LM WEAR.",
+      "es": "Nike Shox — negros y rosa — seleccionado por LM WEAR.",
+      "fr": "Nike Shox — noirs et rose — sélectionné par LM WEAR.",
+      "de": "Nike Shox — schwarz und rosa — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13113,17 +13113,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Nike — Caixa Nike Branca com Cinco Meias Coloridas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Nike — Caixa Nike Branca com Cinco Meias Coloridas",
-      "en": "Nike Socks — Caixa Nike white with Cinco socks Coloridas",
-      "es": "Calcetines Nike — Caixa Nike blanca con Cinco calcetines Coloridas",
-      "fr": "Chaussettes Nike — Caixa Nike blanche avec Cinco chaussettes Coloridas",
-      "de": "Nike Socken — Caixa Nike weiß mit Cinco Socken Coloridas"
+      "en": "Nike Socks — Caixa Nike white with five socks colourful",
+      "es": "Calcetines Nike — Caixa Nike blanca con cinco calcetines coloridos",
+      "fr": "Chaussettes Nike — Caixa Nike blanche avec cinq chaussettes colorées",
+      "de": "Nike Socken — Caixa Nike weiß mit fünf Socken bunt"
     },
     "descriptions": {
       "pt": "Meias Nike — Caixa Nike Branca com Cinco Meias Coloridas — selecionado pela LM WEAR.",
-      "en": "Nike Socks — Caixa Nike white with Cinco socks Coloridas — selected by LM WEAR.",
-      "es": "Calcetines Nike — Caixa Nike blanca con Cinco calcetines Coloridas — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Nike — Caixa Nike blanche avec Cinco chaussettes Coloridas — sélectionné par LM WEAR.",
-      "de": "Nike Socken — Caixa Nike weiß mit Cinco Socken Coloridas — ausgewählt von LM WEAR."
+      "en": "Nike Socks — Caixa Nike white with five socks colourful — selected by LM WEAR.",
+      "es": "Calcetines Nike — Caixa Nike blanca con cinco calcetines coloridos — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Nike — Caixa Nike blanche avec cinq chaussettes colorées — sélectionné par LM WEAR.",
+      "de": "Nike Socken — Caixa Nike weiß mit fünf Socken bunt — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13144,17 +13144,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Nike — Caixa Nike com cinco meias ribadas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Nike — Caixa Nike com cinco meias ribadas",
-      "en": "Nike Socks — Caixa Nike with cinco socks ribadas",
+      "en": "Nike Socks — Caixa Nike with five socks ribadas",
       "es": "Calcetines Nike — Caixa Nike con cinco calcetines ribadas",
-      "fr": "Chaussettes Nike — Caixa Nike avec cinco chaussettes ribadas",
-      "de": "Nike Socken — Caixa Nike mit cinco Socken ribadas"
+      "fr": "Chaussettes Nike — Caixa Nike avec cinq chaussettes ribadas",
+      "de": "Nike Socken — Caixa Nike mit fünf Socken ribadas"
     },
     "descriptions": {
       "pt": "Meias Nike — Caixa Nike com cinco meias ribadas — selecionado pela LM WEAR.",
-      "en": "Nike Socks — Caixa Nike with cinco socks ribadas — selected by LM WEAR.",
+      "en": "Nike Socks — Caixa Nike with five socks ribadas — selected by LM WEAR.",
       "es": "Calcetines Nike — Caixa Nike con cinco calcetines ribadas — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Nike — Caixa Nike avec cinco chaussettes ribadas — sélectionné par LM WEAR.",
-      "de": "Nike Socken — Caixa Nike mit cinco Socken ribadas — ausgewählt von LM WEAR."
+      "fr": "Chaussettes Nike — Caixa Nike avec cinq chaussettes ribadas — sélectionné par LM WEAR.",
+      "de": "Nike Socken — Caixa Nike mit fünf Socken ribadas — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13175,17 +13175,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Nike — Caixa Nike com meias coloridas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Nike — Caixa Nike com meias coloridas",
-      "en": "Nike Socks — Caixa Nike with socks coloridas",
-      "es": "Calcetines Nike — Caixa Nike con calcetines coloridas",
-      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes coloridas",
-      "de": "Nike Socken — Caixa Nike mit Socken coloridas"
+      "en": "Nike Socks — Caixa Nike with socks colourful",
+      "es": "Calcetines Nike — Caixa Nike con calcetines coloridos",
+      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes colorées",
+      "de": "Nike Socken — Caixa Nike mit Socken bunt"
     },
     "descriptions": {
       "pt": "Meias Nike — Caixa Nike com meias coloridas — selecionado pela LM WEAR.",
-      "en": "Nike Socks — Caixa Nike with socks coloridas — selected by LM WEAR.",
-      "es": "Calcetines Nike — Caixa Nike con calcetines coloridas — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes coloridas — sélectionné par LM WEAR.",
-      "de": "Nike Socken — Caixa Nike mit Socken coloridas — ausgewählt von LM WEAR."
+      "en": "Nike Socks — Caixa Nike with socks colourful — selected by LM WEAR.",
+      "es": "Calcetines Nike — Caixa Nike con calcetines coloridos — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes colorées — sélectionné par LM WEAR.",
+      "de": "Nike Socken — Caixa Nike mit Socken bunt — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13206,17 +13206,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Nike — Caixa Nike com meias coloridas — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Nike — Caixa Nike com meias coloridas",
-      "en": "Nike Socks — Caixa Nike with socks coloridas",
-      "es": "Calcetines Nike — Caixa Nike con calcetines coloridas",
-      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes coloridas",
-      "de": "Nike Socken — Caixa Nike mit Socken coloridas"
+      "en": "Nike Socks — Caixa Nike with socks colourful",
+      "es": "Calcetines Nike — Caixa Nike con calcetines coloridos",
+      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes colorées",
+      "de": "Nike Socken — Caixa Nike mit Socken bunt"
     },
     "descriptions": {
       "pt": "Meias Nike — Caixa Nike com meias coloridas — selecionado pela LM WEAR.",
-      "en": "Nike Socks — Caixa Nike with socks coloridas — selected by LM WEAR.",
-      "es": "Calcetines Nike — Caixa Nike con calcetines coloridas — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes coloridas — sélectionné par LM WEAR.",
-      "de": "Nike Socken — Caixa Nike mit Socken coloridas — ausgewählt von LM WEAR."
+      "en": "Nike Socks — Caixa Nike with socks colourful — selected by LM WEAR.",
+      "es": "Calcetines Nike — Caixa Nike con calcetines coloridos — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Nike — Caixa Nike avec chaussettes colorées — sélectionné par LM WEAR.",
+      "de": "Nike Socken — Caixa Nike mit Socken bunt — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13237,17 +13237,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Nike — Conjunto de meias Nike em caixa branca — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Nike — Conjunto de meias Nike em caixa branca",
-      "en": "Nike Socks — set de socks Nike em caixa white",
-      "es": "Calcetines Nike — conjunto de calcetines Nike em caixa blanca",
-      "fr": "Chaussettes Nike — ensemble de chaussettes Nike em caixa blanche",
-      "de": "Nike Socken — Set de Socken Nike em caixa weiß"
+      "en": "Nike Socks — set of socks Nike in caixa white",
+      "es": "Calcetines Nike — conjunto de calcetines Nike en caixa blanca",
+      "fr": "Chaussettes Nike — ensemble de chaussettes Nike en caixa blanche",
+      "de": "Nike Socken — Set von Socken Nike in caixa weiß"
     },
     "descriptions": {
       "pt": "Meias Nike — Conjunto de meias Nike em caixa branca — selecionado pela LM WEAR.",
-      "en": "Nike Socks — set de socks Nike em caixa white — selected by LM WEAR.",
-      "es": "Calcetines Nike — conjunto de calcetines Nike em caixa blanca — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Nike — ensemble de chaussettes Nike em caixa blanche — sélectionné par LM WEAR.",
-      "de": "Nike Socken — Set de Socken Nike em caixa weiß — ausgewählt von LM WEAR."
+      "en": "Nike Socks — set of socks Nike in caixa white — selected by LM WEAR.",
+      "es": "Calcetines Nike — conjunto de calcetines Nike en caixa blanca — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Nike — ensemble de chaussettes Nike en caixa blanche — sélectionné par LM WEAR.",
+      "de": "Nike Socken — Set von Socken Nike in caixa weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13273,17 +13273,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike Tech — Conjunto Nike Cinzento de Ganga Mesclada — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike Tech — Conjunto Nike Cinzento de Ganga Mesclada",
-      "en": "Nike Tech Set — set Nike grey de Ganga Mesclada",
+      "en": "Nike Tech Set — set Nike grey of Ganga Mesclada",
       "es": "Conjunto Nike Tech — conjunto Nike gris de Ganga Mesclada",
       "fr": "Ensemble Nike Tech — ensemble Nike gris de Ganga Mesclada",
-      "de": "Nike Tech Set — Set Nike grau de Ganga Mesclada"
+      "de": "Nike Tech Set — Set Nike grau von Ganga Mesclada"
     },
     "descriptions": {
       "pt": "Conjunto Nike Tech — Conjunto Nike Cinzento de Ganga Mesclada — selecionado pela LM WEAR.",
-      "en": "Nike Tech Set — set Nike grey de Ganga Mesclada — selected by LM WEAR.",
+      "en": "Nike Tech Set — set Nike grey of Ganga Mesclada — selected by LM WEAR.",
       "es": "Conjunto Nike Tech — conjunto Nike gris de Ganga Mesclada — seleccionado por LM WEAR.",
       "fr": "Ensemble Nike Tech — ensemble Nike gris de Ganga Mesclada — sélectionné par LM WEAR.",
-      "de": "Nike Tech Set — Set Nike grau de Ganga Mesclada — ausgewählt von LM WEAR."
+      "de": "Nike Tech Set — Set Nike grau von Ganga Mesclada — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13309,17 +13309,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike Tech — Conjunto Nike Preto e Cinzento — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike Tech — Conjunto Nike Preto e Cinzento",
-      "en": "Nike Tech Set — set Nike black e grey",
-      "es": "Conjunto Nike Tech — conjunto Nike negro e gris",
-      "fr": "Ensemble Nike Tech — ensemble Nike noir e gris",
-      "de": "Nike Tech Set — Set Nike schwarz e grau"
+      "en": "Nike Tech Set — set Nike black and grey",
+      "es": "Conjunto Nike Tech — conjunto Nike negro y gris",
+      "fr": "Ensemble Nike Tech — ensemble Nike noir et gris",
+      "de": "Nike Tech Set — Set Nike schwarz und grau"
     },
     "descriptions": {
       "pt": "Conjunto Nike Tech — Conjunto Nike Preto e Cinzento — selecionado pela LM WEAR.",
-      "en": "Nike Tech Set — set Nike black e grey — selected by LM WEAR.",
-      "es": "Conjunto Nike Tech — conjunto Nike negro e gris — seleccionado por LM WEAR.",
-      "fr": "Ensemble Nike Tech — ensemble Nike noir e gris — sélectionné par LM WEAR.",
-      "de": "Nike Tech Set — Set Nike schwarz e grau — ausgewählt von LM WEAR."
+      "en": "Nike Tech Set — set Nike black and grey — selected by LM WEAR.",
+      "es": "Conjunto Nike Tech — conjunto Nike negro y gris — seleccionado por LM WEAR.",
+      "fr": "Ensemble Nike Tech — ensemble Nike noir et gris — sélectionné par LM WEAR.",
+      "de": "Nike Tech Set — Set Nike schwarz und grau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13352,17 +13352,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa",
-      "en": "Nike Air Max / TN — Sapatilha Air Max roxa e pink",
-      "es": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa",
-      "fr": "Nike Air Max / TN — Sapatilha Air Max roxa e rose",
-      "de": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa"
+      "en": "Nike Air Max / TN — Sapatilha Air Max roxa and pink",
+      "es": "Nike Air Max / TN — Sapatilha Air Max roxa y rosa",
+      "fr": "Nike Air Max / TN — Sapatilha Air Max roxa et rose",
+      "de": "Nike Air Max / TN — Sapatilha Air Max roxa und rosa"
     },
     "descriptions": {
       "pt": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa — selecionado pela LM WEAR.",
-      "en": "Nike Air Max / TN — Sapatilha Air Max roxa e pink — selected by LM WEAR.",
-      "es": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa — seleccionado por LM WEAR.",
-      "fr": "Nike Air Max / TN — Sapatilha Air Max roxa e rose — sélectionné par LM WEAR.",
-      "de": "Nike Air Max / TN — Sapatilha Air Max roxa e rosa — ausgewählt von LM WEAR."
+      "en": "Nike Air Max / TN — Sapatilha Air Max roxa and pink — selected by LM WEAR.",
+      "es": "Nike Air Max / TN — Sapatilha Air Max roxa y rosa — seleccionado por LM WEAR.",
+      "fr": "Nike Air Max / TN — Sapatilha Air Max roxa et rose — sélectionné par LM WEAR.",
+      "de": "Nike Air Max / TN — Sapatilha Air Max roxa und rosa — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13438,17 +13438,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Max / TN — Sapatilha Nike Air Max Branca e Lilás — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Max / TN — Sapatilha Nike Air Max Branca e Lilás",
-      "en": "Nike Air Max / TN — Sapatilha Nike Air Max white e Lilás",
-      "es": "Nike Air Max / TN — Sapatilha Nike Air Max blanca e Lilás",
-      "fr": "Nike Air Max / TN — Sapatilha Nike Air Max blanche e Lilás",
-      "de": "Nike Air Max / TN — Sapatilha Nike Air Max weiß e Lilás"
+      "en": "Nike Air Max / TN — Sapatilha Nike Air Max white and Lilás",
+      "es": "Nike Air Max / TN — Sapatilha Nike Air Max blanca y Lilás",
+      "fr": "Nike Air Max / TN — Sapatilha Nike Air Max blanche et Lilás",
+      "de": "Nike Air Max / TN — Sapatilha Nike Air Max weiß und Lilás"
     },
     "descriptions": {
       "pt": "Nike Air Max / TN — Sapatilha Nike Air Max Branca e Lilás — selecionado pela LM WEAR.",
-      "en": "Nike Air Max / TN — Sapatilha Nike Air Max white e Lilás — selected by LM WEAR.",
-      "es": "Nike Air Max / TN — Sapatilha Nike Air Max blanca e Lilás — seleccionado por LM WEAR.",
-      "fr": "Nike Air Max / TN — Sapatilha Nike Air Max blanche e Lilás — sélectionné par LM WEAR.",
-      "de": "Nike Air Max / TN — Sapatilha Nike Air Max weiß e Lilás — ausgewählt von LM WEAR."
+      "en": "Nike Air Max / TN — Sapatilha Nike Air Max white and Lilás — selected by LM WEAR.",
+      "es": "Nike Air Max / TN — Sapatilha Nike Air Max blanca y Lilás — seleccionado por LM WEAR.",
+      "fr": "Nike Air Max / TN — Sapatilha Nike Air Max blanche et Lilás — sélectionné par LM WEAR.",
+      "de": "Nike Air Max / TN — Sapatilha Nike Air Max weiß und Lilás — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13524,17 +13524,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Max / TN — Sapatilha Nike preta em perfil — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Max / TN — Sapatilha Nike preta em perfil",
-      "en": "Nike Air Max / TN — Sapatilha Nike black em perfil",
-      "es": "Nike Air Max / TN — Sapatilha Nike negra em perfil",
-      "fr": "Nike Air Max / TN — Sapatilha Nike noire em perfil",
-      "de": "Nike Air Max / TN — Sapatilha Nike schwarz em perfil"
+      "en": "Nike Air Max / TN — Sapatilha Nike black in perfil",
+      "es": "Nike Air Max / TN — Sapatilha Nike negra en perfil",
+      "fr": "Nike Air Max / TN — Sapatilha Nike noire en perfil",
+      "de": "Nike Air Max / TN — Sapatilha Nike schwarz in perfil"
     },
     "descriptions": {
       "pt": "Nike Air Max / TN — Sapatilha Nike preta em perfil — selecionado pela LM WEAR.",
-      "en": "Nike Air Max / TN — Sapatilha Nike black em perfil — selected by LM WEAR.",
-      "es": "Nike Air Max / TN — Sapatilha Nike negra em perfil — seleccionado por LM WEAR.",
-      "fr": "Nike Air Max / TN — Sapatilha Nike noire em perfil — sélectionné par LM WEAR.",
-      "de": "Nike Air Max / TN — Sapatilha Nike schwarz em perfil — ausgewählt von LM WEAR."
+      "en": "Nike Air Max / TN — Sapatilha Nike black in perfil — selected by LM WEAR.",
+      "es": "Nike Air Max / TN — Sapatilha Nike negra en perfil — seleccionado por LM WEAR.",
+      "fr": "Nike Air Max / TN — Sapatilha Nike noire en perfil — sélectionné par LM WEAR.",
+      "de": "Nike Air Max / TN — Sapatilha Nike schwarz in perfil — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13567,17 +13567,17 @@ window.LM_PRODUCTS = [
     "description": "Nike Air Max / TN — Sapatilha Nike TN em gradiente azul e roxo — selecionado pela LM WEAR.",
     "names": {
       "pt": "Nike Air Max / TN — Sapatilha Nike TN em gradiente azul e roxo",
-      "en": "Nike Air Max / TN — Sapatilha Nike TN em gradiente blue e roxo",
-      "es": "Nike Air Max / TN — Sapatilha Nike TN em gradiente azul e roxo",
-      "fr": "Nike Air Max / TN — Sapatilha Nike TN em gradiente bleu e roxo",
-      "de": "Nike Air Max / TN — Sapatilha Nike TN em gradiente blau e roxo"
+      "en": "Nike Air Max / TN — Sapatilha Nike TN in gradiente blue and roxo",
+      "es": "Nike Air Max / TN — Sapatilha Nike TN en gradiente azul y roxo",
+      "fr": "Nike Air Max / TN — Sapatilha Nike TN en gradiente bleu et roxo",
+      "de": "Nike Air Max / TN — Sapatilha Nike TN in gradiente blau und roxo"
     },
     "descriptions": {
       "pt": "Nike Air Max / TN — Sapatilha Nike TN em gradiente azul e roxo — selecionado pela LM WEAR.",
-      "en": "Nike Air Max / TN — Sapatilha Nike TN em gradiente blue e roxo — selected by LM WEAR.",
-      "es": "Nike Air Max / TN — Sapatilha Nike TN em gradiente azul e roxo — seleccionado por LM WEAR.",
-      "fr": "Nike Air Max / TN — Sapatilha Nike TN em gradiente bleu e roxo — sélectionné par LM WEAR.",
-      "de": "Nike Air Max / TN — Sapatilha Nike TN em gradiente blau e roxo — ausgewählt von LM WEAR."
+      "en": "Nike Air Max / TN — Sapatilha Nike TN in gradiente blue and roxo — selected by LM WEAR.",
+      "es": "Nike Air Max / TN — Sapatilha Nike TN en gradiente azul y roxo — seleccionado por LM WEAR.",
+      "fr": "Nike Air Max / TN — Sapatilha Nike TN en gradiente bleu et roxo — sélectionné par LM WEAR.",
+      "de": "Nike Air Max / TN — Sapatilha Nike TN in gradiente blau und roxo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13603,17 +13603,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike Windrunner — Conjunto de treino Nike cinzento claro — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike Windrunner — Conjunto de treino Nike cinzento claro",
-      "en": "Nike Windrunner Tracksuit — set de treino Nike grey claro",
-      "es": "Chándal Nike Windrunner — conjunto de treino Nike gris claro",
-      "fr": "Ensemble Nike Windrunner — ensemble de treino Nike gris claro",
-      "de": "Nike Windrunner Trainingsanzug — Set de treino Nike grau claro"
+      "en": "Nike Windrunner Tracksuit — training set Nike grey claro",
+      "es": "Chándal Nike Windrunner — conjunto de entrenamiento Nike gris claro",
+      "fr": "Ensemble Nike Windrunner — ensemble d'entraînement Nike gris claro",
+      "de": "Nike Windrunner Trainingsanzug — Trainingsset Nike grau claro"
     },
     "descriptions": {
       "pt": "Conjunto Nike Windrunner — Conjunto de treino Nike cinzento claro — selecionado pela LM WEAR.",
-      "en": "Nike Windrunner Tracksuit — set de treino Nike grey claro — selected by LM WEAR.",
-      "es": "Chándal Nike Windrunner — conjunto de treino Nike gris claro — seleccionado por LM WEAR.",
-      "fr": "Ensemble Nike Windrunner — ensemble de treino Nike gris claro — sélectionné par LM WEAR.",
-      "de": "Nike Windrunner Trainingsanzug — Set de treino Nike grau claro — ausgewählt von LM WEAR."
+      "en": "Nike Windrunner Tracksuit — training set Nike grey claro — selected by LM WEAR.",
+      "es": "Chándal Nike Windrunner — conjunto de entrenamiento Nike gris claro — seleccionado por LM WEAR.",
+      "fr": "Ensemble Nike Windrunner — ensemble d'entraînement Nike gris claro — sélectionné par LM WEAR.",
+      "de": "Nike Windrunner Trainingsanzug — Trainingsset Nike grau claro — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13639,17 +13639,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike Windrunner — Conjunto de treino preto Nike — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike Windrunner — Conjunto de treino preto Nike",
-      "en": "Nike Windrunner Tracksuit — set de treino black Nike",
-      "es": "Chándal Nike Windrunner — conjunto de treino negro Nike",
-      "fr": "Ensemble Nike Windrunner — ensemble de treino noir Nike",
-      "de": "Nike Windrunner Trainingsanzug — Set de treino schwarz Nike"
+      "en": "Nike Windrunner Tracksuit — training set black Nike",
+      "es": "Chándal Nike Windrunner — conjunto de entrenamiento negro Nike",
+      "fr": "Ensemble Nike Windrunner — ensemble d'entraînement noir Nike",
+      "de": "Nike Windrunner Trainingsanzug — Trainingsset schwarz Nike"
     },
     "descriptions": {
       "pt": "Conjunto Nike Windrunner — Conjunto de treino preto Nike — selecionado pela LM WEAR.",
-      "en": "Nike Windrunner Tracksuit — set de treino black Nike — selected by LM WEAR.",
-      "es": "Chándal Nike Windrunner — conjunto de treino negro Nike — seleccionado por LM WEAR.",
-      "fr": "Ensemble Nike Windrunner — ensemble de treino noir Nike — sélectionné par LM WEAR.",
-      "de": "Nike Windrunner Trainingsanzug — Set de treino schwarz Nike — ausgewählt von LM WEAR."
+      "en": "Nike Windrunner Tracksuit — training set black Nike — selected by LM WEAR.",
+      "es": "Chándal Nike Windrunner — conjunto de entrenamiento negro Nike — seleccionado por LM WEAR.",
+      "fr": "Ensemble Nike Windrunner — ensemble d'entraînement noir Nike — sélectionné par LM WEAR.",
+      "de": "Nike Windrunner Trainingsanzug — Trainingsset schwarz Nike — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13675,17 +13675,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Nike Windrunner — Conjunto desportivo Nike azul-acinzentado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Nike Windrunner — Conjunto desportivo Nike azul-acinzentado",
-      "en": "Nike Windrunner Tracksuit — set desportivo Nike blue-agreydo",
-      "es": "Chándal Nike Windrunner — conjunto desportivo Nike azul-agrisdo",
-      "fr": "Ensemble Nike Windrunner — ensemble desportivo Nike bleu-agrisedo",
-      "de": "Nike Windrunner Trainingsanzug — Set desportivo Nike blau-agraudo"
+      "en": "Nike Windrunner Tracksuit — set desportivo Nike blue-acinzentado",
+      "es": "Chándal Nike Windrunner — conjunto desportivo Nike azul-acinzentado",
+      "fr": "Ensemble Nike Windrunner — ensemble desportivo Nike bleu-acinzentado",
+      "de": "Nike Windrunner Trainingsanzug — Set desportivo Nike blau-acinzentado"
     },
     "descriptions": {
       "pt": "Conjunto Nike Windrunner — Conjunto desportivo Nike azul-acinzentado — selecionado pela LM WEAR.",
-      "en": "Nike Windrunner Tracksuit — set desportivo Nike blue-agreydo — selected by LM WEAR.",
-      "es": "Chándal Nike Windrunner — conjunto desportivo Nike azul-agrisdo — seleccionado por LM WEAR.",
-      "fr": "Ensemble Nike Windrunner — ensemble desportivo Nike bleu-agrisedo — sélectionné par LM WEAR.",
-      "de": "Nike Windrunner Trainingsanzug — Set desportivo Nike blau-agraudo — ausgewählt von LM WEAR."
+      "en": "Nike Windrunner Tracksuit — set desportivo Nike blue-acinzentado — selected by LM WEAR.",
+      "es": "Chándal Nike Windrunner — conjunto desportivo Nike azul-acinzentado — seleccionado por LM WEAR.",
+      "fr": "Ensemble Nike Windrunner — ensemble desportivo Nike bleu-acinzentado — sélectionné par LM WEAR.",
+      "de": "Nike Windrunner Trainingsanzug — Set desportivo Nike blau-acinzentado — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13711,17 +13711,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino azul-marinho — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino azul-marinho",
-      "en": "Polo Ralph Lauren Tracksuit — set de fato de treino navy blue",
-      "es": "Chándal Polo Ralph Lauren — conjunto de fato de treino azul marino",
-      "fr": "Ensemble Polo Ralph Lauren — ensemble de fato de treino bleu marine",
-      "de": "Polo Ralph Lauren Trainingsanzug — Set de fato de treino marineblau"
+      "en": "Polo Ralph Lauren Tracksuit — set of tracksuit navy blue",
+      "es": "Chándal Polo Ralph Lauren — conjunto de chándal azul marino",
+      "fr": "Ensemble Polo Ralph Lauren — ensemble de survêtement bleu marine",
+      "de": "Polo Ralph Lauren Trainingsanzug — Set von Trainingsanzug marineblau"
     },
     "descriptions": {
       "pt": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino azul-marinho — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Tracksuit — set de fato de treino navy blue — selected by LM WEAR.",
-      "es": "Chándal Polo Ralph Lauren — conjunto de fato de treino azul marino — seleccionado por LM WEAR.",
-      "fr": "Ensemble Polo Ralph Lauren — ensemble de fato de treino bleu marine — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Trainingsanzug — Set de fato de treino marineblau — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Tracksuit — set of tracksuit navy blue — selected by LM WEAR.",
+      "es": "Chándal Polo Ralph Lauren — conjunto de chándal azul marino — seleccionado por LM WEAR.",
+      "fr": "Ensemble Polo Ralph Lauren — ensemble de survêtement bleu marine — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Trainingsanzug — Set von Trainingsanzug marineblau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13747,17 +13747,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino cinzento — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino cinzento",
-      "en": "Polo Ralph Lauren Tracksuit — set de fato de treino grey",
-      "es": "Chándal Polo Ralph Lauren — conjunto de fato de treino gris",
-      "fr": "Ensemble Polo Ralph Lauren — ensemble de fato de treino gris",
-      "de": "Polo Ralph Lauren Trainingsanzug — Set de fato de treino grau"
+      "en": "Polo Ralph Lauren Tracksuit — set of tracksuit grey",
+      "es": "Chándal Polo Ralph Lauren — conjunto de chándal gris",
+      "fr": "Ensemble Polo Ralph Lauren — ensemble de survêtement gris",
+      "de": "Polo Ralph Lauren Trainingsanzug — Set von Trainingsanzug grau"
     },
     "descriptions": {
       "pt": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino cinzento — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Tracksuit — set de fato de treino grey — selected by LM WEAR.",
-      "es": "Chándal Polo Ralph Lauren — conjunto de fato de treino gris — seleccionado por LM WEAR.",
-      "fr": "Ensemble Polo Ralph Lauren — ensemble de fato de treino gris — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Trainingsanzug — Set de fato de treino grau — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Tracksuit — set of tracksuit grey — selected by LM WEAR.",
+      "es": "Chándal Polo Ralph Lauren — conjunto de chándal gris — seleccionado por LM WEAR.",
+      "fr": "Ensemble Polo Ralph Lauren — ensemble de survêtement gris — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Trainingsanzug — Set von Trainingsanzug grau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13783,17 +13783,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino preto com logótimo branco — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino preto com logótimo branco",
-      "en": "Polo Ralph Lauren Tracksuit — set de fato de treino black with logótimo white",
-      "es": "Chándal Polo Ralph Lauren — conjunto de fato de treino negro con logótimo blanco",
-      "fr": "Ensemble Polo Ralph Lauren — ensemble de fato de treino noir avec logótimo blanc",
-      "de": "Polo Ralph Lauren Trainingsanzug — Set de fato de treino schwarz mit logótimo weiß"
+      "en": "Polo Ralph Lauren Tracksuit — set of tracksuit black with logótimo white",
+      "es": "Chándal Polo Ralph Lauren — conjunto de chándal negro con logótimo blanco",
+      "fr": "Ensemble Polo Ralph Lauren — ensemble de survêtement noir avec logótimo blanc",
+      "de": "Polo Ralph Lauren Trainingsanzug — Set von Trainingsanzug schwarz mit logótimo weiß"
     },
     "descriptions": {
       "pt": "Conjunto Polo Ralph Lauren — Conjunto de fato de treino preto com logótimo branco — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Tracksuit — set de fato de treino black with logótimo white — selected by LM WEAR.",
-      "es": "Chándal Polo Ralph Lauren — conjunto de fato de treino negro con logótimo blanco — seleccionado por LM WEAR.",
-      "fr": "Ensemble Polo Ralph Lauren — ensemble de fato de treino noir avec logótimo blanc — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Trainingsanzug — Set de fato de treino schwarz mit logótimo weiß — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Tracksuit — set of tracksuit black with logótimo white — selected by LM WEAR.",
+      "es": "Chándal Polo Ralph Lauren — conjunto de chándal negro con logótimo blanco — seleccionado por LM WEAR.",
+      "fr": "Ensemble Polo Ralph Lauren — ensemble de survêtement noir avec logótimo blanc — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Trainingsanzug — Set von Trainingsanzug schwarz mit logótimo weiß — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13891,17 +13891,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie Polo Ralph Lauren — Hoodie cinzento com emblema polo — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie Polo Ralph Lauren — Hoodie cinzento com emblema polo",
-      "en": "Polo Ralph Lauren Hoodie — Hoodie grey with emblema polo",
+      "en": "Polo Ralph Lauren Hoodie — Hoodie grey with emblem polo",
       "es": "Sudadera Polo Ralph Lauren — Hoodie gris con emblema polo",
-      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie gris avec emblema polo",
-      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie grau mit emblema polo"
+      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie gris avec emblème polo",
+      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie grau mit Abzeichen polo"
     },
     "descriptions": {
       "pt": "Hoodie Polo Ralph Lauren — Hoodie cinzento com emblema polo — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Hoodie — Hoodie grey with emblema polo — selected by LM WEAR.",
+      "en": "Polo Ralph Lauren Hoodie — Hoodie grey with emblem polo — selected by LM WEAR.",
       "es": "Sudadera Polo Ralph Lauren — Hoodie gris con emblema polo — seleccionado por LM WEAR.",
-      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie gris avec emblema polo — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie grau mit emblema polo — ausgewählt von LM WEAR."
+      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie gris avec emblème polo — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie grau mit Abzeichen polo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -13927,17 +13927,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie Polo Ralph Lauren — Hoodie preto com emblema bordado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie Polo Ralph Lauren — Hoodie preto com emblema bordado",
-      "en": "Polo Ralph Lauren Hoodie — Hoodie black with emblema embroidered",
+      "en": "Polo Ralph Lauren Hoodie — Hoodie black with emblem embroidered",
       "es": "Sudadera Polo Ralph Lauren — Hoodie negro con emblema bordado",
-      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie noir avec emblema brodé",
-      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie schwarz mit emblema bestickt"
+      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie noir avec emblème brodé",
+      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie schwarz mit Abzeichen bestickt"
     },
     "descriptions": {
       "pt": "Hoodie Polo Ralph Lauren — Hoodie preto com emblema bordado — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Hoodie — Hoodie black with emblema embroidered — selected by LM WEAR.",
+      "en": "Polo Ralph Lauren Hoodie — Hoodie black with emblem embroidered — selected by LM WEAR.",
       "es": "Sudadera Polo Ralph Lauren — Hoodie negro con emblema bordado — seleccionado por LM WEAR.",
-      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie noir avec emblema brodé — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie schwarz mit emblema bestickt — ausgewählt von LM WEAR."
+      "fr": "Sweat à capuche Polo Ralph Lauren — Hoodie noir avec emblème brodé — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Kapuzenpullover — Hoodie schwarz mit Abzeichen bestickt — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14035,17 +14035,17 @@ window.LM_PRODUCTS = [
     "description": "Coleção de polos Polo Ralph Lauren — Polo Azul-Marinho Los Angeles em Destaque — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coleção de polos Polo Ralph Lauren — Polo Azul-Marinho Los Angeles em Destaque",
-      "en": "Polo Ralph Lauren Polo Collection — Polo navy blue Los Angeles em Destaque",
-      "es": "Colección de polos Polo Ralph Lauren — Polo azul marino Los Angeles em Destaque",
-      "fr": "Collection de polos Polo Ralph Lauren — Polo bleu marine Los Angeles em Destaque",
-      "de": "Polo Ralph Lauren Polo-Kollektion — Polo marineblau Los Angeles em Destaque"
+      "en": "Polo Ralph Lauren Polo Collection — Polo navy blue Los Angeles featured",
+      "es": "Colección de polos Polo Ralph Lauren — Polo azul marino Los Angeles destacado",
+      "fr": "Collection de polos Polo Ralph Lauren — Polo bleu marine Los Angeles en vedette",
+      "de": "Polo Ralph Lauren Polo-Kollektion — Polo marineblau Los Angeles hervorgehoben"
     },
     "descriptions": {
       "pt": "Coleção de polos Polo Ralph Lauren — Polo Azul-Marinho Los Angeles em Destaque — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Polo Collection — Polo navy blue Los Angeles em Destaque — selected by LM WEAR.",
-      "es": "Colección de polos Polo Ralph Lauren — Polo azul marino Los Angeles em Destaque — seleccionado por LM WEAR.",
-      "fr": "Collection de polos Polo Ralph Lauren — Polo bleu marine Los Angeles em Destaque — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Polo-Kollektion — Polo marineblau Los Angeles em Destaque — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Polo Collection — Polo navy blue Los Angeles featured — selected by LM WEAR.",
+      "es": "Colección de polos Polo Ralph Lauren — Polo azul marino Los Angeles destacado — seleccionado por LM WEAR.",
+      "fr": "Collection de polos Polo Ralph Lauren — Polo bleu marine Los Angeles en vedette — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Polo-Kollektion — Polo marineblau Los Angeles hervorgehoben — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14071,17 +14071,17 @@ window.LM_PRODUCTS = [
     "description": "Coleção de polos Polo Ralph Lauren — Polo Dubai preto com bordados dourados — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coleção de polos Polo Ralph Lauren — Polo Dubai preto com bordados dourados",
-      "en": "Polo Ralph Lauren Polo Collection — Polo Dubai black with embroidered golds",
+      "en": "Polo Ralph Lauren Polo Collection — Polo Dubai black with embroidered gold",
       "es": "Colección de polos Polo Ralph Lauren — Polo Dubai negro con bordados dorados",
       "fr": "Collection de polos Polo Ralph Lauren — Polo Dubai noir avec brodés dorés",
-      "de": "Polo Ralph Lauren Polo-Kollektion — Polo Dubai schwarz mit bestickt golds"
+      "de": "Polo Ralph Lauren Polo-Kollektion — Polo Dubai schwarz mit bestickt gold"
     },
     "descriptions": {
       "pt": "Coleção de polos Polo Ralph Lauren — Polo Dubai preto com bordados dourados — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Polo Collection — Polo Dubai black with embroidered golds — selected by LM WEAR.",
+      "en": "Polo Ralph Lauren Polo Collection — Polo Dubai black with embroidered gold — selected by LM WEAR.",
       "es": "Colección de polos Polo Ralph Lauren — Polo Dubai negro con bordados dorados — seleccionado por LM WEAR.",
       "fr": "Collection de polos Polo Ralph Lauren — Polo Dubai noir avec brodés dorés — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Polo-Kollektion — Polo Dubai schwarz mit bestickt golds — ausgewählt von LM WEAR."
+      "de": "Polo Ralph Lauren Polo-Kollektion — Polo Dubai schwarz mit bestickt gold — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14215,17 +14215,17 @@ window.LM_PRODUCTS = [
     "description": "Coleção de polos Polo Ralph Lauren — Polo Verde Milan com Bordados Dourados — selecionado pela LM WEAR.",
     "names": {
       "pt": "Coleção de polos Polo Ralph Lauren — Polo Verde Milan com Bordados Dourados",
-      "en": "Polo Ralph Lauren Polo Collection — Polo green Milan with embroidered golds",
+      "en": "Polo Ralph Lauren Polo Collection — Polo green Milan with embroidered gold",
       "es": "Colección de polos Polo Ralph Lauren — Polo verde Milan con bordados dorados",
       "fr": "Collection de polos Polo Ralph Lauren — Polo vert Milan avec brodés dorés",
-      "de": "Polo Ralph Lauren Polo-Kollektion — Polo grün Milan mit bestickt golds"
+      "de": "Polo Ralph Lauren Polo-Kollektion — Polo grün Milan mit bestickt gold"
     },
     "descriptions": {
       "pt": "Coleção de polos Polo Ralph Lauren — Polo Verde Milan com Bordados Dourados — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Polo Collection — Polo green Milan with embroidered golds — selected by LM WEAR.",
+      "en": "Polo Ralph Lauren Polo Collection — Polo green Milan with embroidered gold — selected by LM WEAR.",
       "es": "Colección de polos Polo Ralph Lauren — Polo verde Milan con bordados dorados — seleccionado por LM WEAR.",
       "fr": "Collection de polos Polo Ralph Lauren — Polo vert Milan avec brodés dorés — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Polo-Kollektion — Polo grün Milan mit bestickt golds — ausgewählt von LM WEAR."
+      "de": "Polo Ralph Lauren Polo-Kollektion — Polo grün Milan mit bestickt gold — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14251,17 +14251,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie com fecho Polo Ralph Lauren — Camisola branca com fecho e capuz — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Camisola branca com fecho e capuz",
-      "en": "Polo Ralph Lauren Zip Hoodie — Camisola white with fecho e capuz",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Camisola blanca con fecho e capuz",
-      "fr": "Sweat zippé Polo Ralph Lauren — Camisola blanche avec fecho e capuz",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Camisola weiß mit fecho e capuz"
+      "en": "Polo Ralph Lauren Zip Hoodie — sweatshirt white with zip and capuz",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — sudadera blanca con cremallera y capuz",
+      "fr": "Sweat zippé Polo Ralph Lauren — sweatshirt blanche avec fermeture éclair et capuz",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Sweatshirt weiß mit Reißverschluss und capuz"
     },
     "descriptions": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Camisola branca com fecho e capuz — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Zip Hoodie — Camisola white with fecho e capuz — selected by LM WEAR.",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Camisola blanca con fecho e capuz — seleccionado por LM WEAR.",
-      "fr": "Sweat zippé Polo Ralph Lauren — Camisola blanche avec fecho e capuz — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Camisola weiß mit fecho e capuz — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Zip Hoodie — sweatshirt white with zip and capuz — selected by LM WEAR.",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — sudadera blanca con cremallera y capuz — seleccionado por LM WEAR.",
+      "fr": "Sweat zippé Polo Ralph Lauren — sweatshirt blanche avec fermeture éclair et capuz — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Sweatshirt weiß mit Reißverschluss und capuz — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14323,17 +14323,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie com fecho Polo Ralph Lauren — Hoodie Cinzento com Logótipo Bordado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Hoodie Cinzento com Logótipo Bordado",
-      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with Logótipo embroidered",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con Logótipo bordado",
-      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec Logótipo brodé",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logótipo bestickt"
+      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with logo embroidered",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con logotipo bordado",
+      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec logo brodé",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logo bestickt"
     },
     "descriptions": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Hoodie Cinzento com Logótipo Bordado — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with Logótipo embroidered — selected by LM WEAR.",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con Logótipo bordado — seleccionado por LM WEAR.",
-      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec Logótipo brodé — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logótipo bestickt — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with logo embroidered — selected by LM WEAR.",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con logotipo bordado — seleccionado por LM WEAR.",
+      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec logo brodé — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logo bestickt — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14359,17 +14359,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie com fecho Polo Ralph Lauren — Hoodie Cinzento com Logótipo Polo — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Hoodie Cinzento com Logótipo Polo",
-      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with Logótipo Polo",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con Logótipo Polo",
-      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec Logótipo Polo",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logótipo Polo"
+      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with logo Polo",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con logotipo Polo",
+      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec logo Polo",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logo Polo"
     },
     "descriptions": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Hoodie Cinzento com Logótipo Polo — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with Logótipo Polo — selected by LM WEAR.",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con Logótipo Polo — seleccionado por LM WEAR.",
-      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec Logótipo Polo — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logótipo Polo — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie grey with logo Polo — selected by LM WEAR.",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie gris con logotipo Polo — seleccionado por LM WEAR.",
+      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie gris avec logo Polo — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie grau mit Logo Polo — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14431,17 +14431,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie com fecho Polo Ralph Lauren — Hoodie preto com logo e fecho metálico — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Hoodie preto com logo e fecho metálico",
-      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie black with logo e fecho metálico",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie negro con logo e fecho metálico",
-      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie noir avec logo e fecho metálico",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie schwarz mit logo e fecho metálico"
+      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie black with logo and fecho metallic",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie negro con logo y fecho metálico",
+      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie noir avec logo et fecho métallique",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie schwarz mit logo und fecho metallisch"
     },
     "descriptions": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Hoodie preto com logo e fecho metálico — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie black with logo e fecho metálico — selected by LM WEAR.",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie negro con logo e fecho metálico — seleccionado por LM WEAR.",
-      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie noir avec logo e fecho metálico — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie schwarz mit logo e fecho metálico — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Zip Hoodie — Hoodie black with logo and fecho metallic — selected by LM WEAR.",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Hoodie negro con logo y fecho metálico — seleccionado por LM WEAR.",
+      "fr": "Sweat zippé Polo Ralph Lauren — Hoodie noir avec logo et fecho métallique — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Hoodie schwarz mit logo und fecho metallisch — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14467,17 +14467,17 @@ window.LM_PRODUCTS = [
     "description": "Hoodie com fecho Polo Ralph Lauren — Sweatshirt Branco com Logótipo Vermelho — selecionado pela LM WEAR.",
     "names": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Sweatshirt Branco com Logótipo Vermelho",
-      "en": "Polo Ralph Lauren Zip Hoodie — Sweatshirt white with Logótipo red",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Sweatshirt blanco con Logótipo rojo",
-      "fr": "Sweat zippé Polo Ralph Lauren — Sweatshirt blanc avec Logótipo rouge",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Sweatshirt weiß mit Logótipo rot"
+      "en": "Polo Ralph Lauren Zip Hoodie — Sweatshirt white with logo red",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Sweatshirt blanco con logotipo rojo",
+      "fr": "Sweat zippé Polo Ralph Lauren — Sweatshirt blanc avec logo rouge",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Sweatshirt weiß mit Logo rot"
     },
     "descriptions": {
       "pt": "Hoodie com fecho Polo Ralph Lauren — Sweatshirt Branco com Logótipo Vermelho — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Zip Hoodie — Sweatshirt white with Logótipo red — selected by LM WEAR.",
-      "es": "Sudadera con cremallera Polo Ralph Lauren — Sweatshirt blanco con Logótipo rojo — seleccionado por LM WEAR.",
-      "fr": "Sweat zippé Polo Ralph Lauren — Sweatshirt blanc avec Logótipo rouge — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Zip-Hoodie — Sweatshirt weiß mit Logótipo rot — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Zip Hoodie — Sweatshirt white with logo red — selected by LM WEAR.",
+      "es": "Sudadera con cremallera Polo Ralph Lauren — Sweatshirt blanco con logotipo rojo — seleccionado por LM WEAR.",
+      "fr": "Sweat zippé Polo Ralph Lauren — Sweatshirt blanc avec logo rouge — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Zip-Hoodie — Sweatshirt weiß mit Logo rot — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14498,17 +14498,17 @@ window.LM_PRODUCTS = [
     "description": "Capa RIMOWA — Caixa de capa azul RIMOWA — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa RIMOWA — Caixa de capa azul RIMOWA",
-      "en": "RIMOWA Phone Case — Caixa de case blue RIMOWA",
+      "en": "RIMOWA Phone Case — Caixa of case blue RIMOWA",
       "es": "Funda RIMOWA — Caixa de funda azul RIMOWA",
       "fr": "Coque RIMOWA — Caixa de coque bleu RIMOWA",
-      "de": "RIMOWA Handyhülle — Caixa de Hülle blau RIMOWA"
+      "de": "RIMOWA Handyhülle — Caixa von Hülle blau RIMOWA"
     },
     "descriptions": {
       "pt": "Capa RIMOWA — Caixa de capa azul RIMOWA — selecionado pela LM WEAR.",
-      "en": "RIMOWA Phone Case — Caixa de case blue RIMOWA — selected by LM WEAR.",
+      "en": "RIMOWA Phone Case — Caixa of case blue RIMOWA — selected by LM WEAR.",
       "es": "Funda RIMOWA — Caixa de funda azul RIMOWA — seleccionado por LM WEAR.",
       "fr": "Coque RIMOWA — Caixa de coque bleu RIMOWA — sélectionné par LM WEAR.",
-      "de": "RIMOWA Handyhülle — Caixa de Hülle blau RIMOWA — ausgewählt von LM WEAR."
+      "de": "RIMOWA Handyhülle — Caixa von Hülle blau RIMOWA — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14560,17 +14560,17 @@ window.LM_PRODUCTS = [
     "description": "Capa RIMOWA — Capa de telemóvel dourada RIMOWA — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa RIMOWA — Capa de telemóvel dourada RIMOWA",
-      "en": "RIMOWA Phone Case — case de telemóvel gold RIMOWA",
-      "es": "Funda RIMOWA — funda de telemóvel dorada RIMOWA",
-      "fr": "Coque RIMOWA — coque de telemóvel dorée RIMOWA",
-      "de": "RIMOWA Handyhülle — Hülle de telemóvel gold RIMOWA"
+      "en": "RIMOWA Phone Case — case of phone gold RIMOWA",
+      "es": "Funda RIMOWA — funda de móvil dorada RIMOWA",
+      "fr": "Coque RIMOWA — coque de téléphone dorée RIMOWA",
+      "de": "RIMOWA Handyhülle — Hülle von Handy gold RIMOWA"
     },
     "descriptions": {
       "pt": "Capa RIMOWA — Capa de telemóvel dourada RIMOWA — selecionado pela LM WEAR.",
-      "en": "RIMOWA Phone Case — case de telemóvel gold RIMOWA — selected by LM WEAR.",
-      "es": "Funda RIMOWA — funda de telemóvel dorada RIMOWA — seleccionado por LM WEAR.",
-      "fr": "Coque RIMOWA — coque de telemóvel dorée RIMOWA — sélectionné par LM WEAR.",
-      "de": "RIMOWA Handyhülle — Hülle de telemóvel gold RIMOWA — ausgewählt von LM WEAR."
+      "en": "RIMOWA Phone Case — case of phone gold RIMOWA — selected by LM WEAR.",
+      "es": "Funda RIMOWA — funda de móvil dorada RIMOWA — seleccionado por LM WEAR.",
+      "fr": "Coque RIMOWA — coque de téléphone dorée RIMOWA — sélectionné par LM WEAR.",
+      "de": "RIMOWA Handyhülle — Hülle von Handy gold RIMOWA — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14591,17 +14591,17 @@ window.LM_PRODUCTS = [
     "description": "Capa RIMOWA — Capa de telemóvel RIMOWA em rosa metálico — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa RIMOWA — Capa de telemóvel RIMOWA em rosa metálico",
-      "en": "RIMOWA Phone Case — case de telemóvel RIMOWA em pink metálico",
-      "es": "Funda RIMOWA — funda de telemóvel RIMOWA em rosa metálico",
-      "fr": "Coque RIMOWA — coque de telemóvel RIMOWA em rose metálico",
-      "de": "RIMOWA Handyhülle — Hülle de telemóvel RIMOWA em rosa metálico"
+      "en": "RIMOWA Phone Case — case of phone RIMOWA in pink metallic",
+      "es": "Funda RIMOWA — funda de móvil RIMOWA en rosa metálico",
+      "fr": "Coque RIMOWA — coque de téléphone RIMOWA en rose métallique",
+      "de": "RIMOWA Handyhülle — Hülle von Handy RIMOWA in rosa metallisch"
     },
     "descriptions": {
       "pt": "Capa RIMOWA — Capa de telemóvel RIMOWA em rosa metálico — selecionado pela LM WEAR.",
-      "en": "RIMOWA Phone Case — case de telemóvel RIMOWA em pink metálico — selected by LM WEAR.",
-      "es": "Funda RIMOWA — funda de telemóvel RIMOWA em rosa metálico — seleccionado por LM WEAR.",
-      "fr": "Coque RIMOWA — coque de telemóvel RIMOWA em rose metálico — sélectionné par LM WEAR.",
-      "de": "RIMOWA Handyhülle — Hülle de telemóvel RIMOWA em rosa metálico — ausgewählt von LM WEAR."
+      "en": "RIMOWA Phone Case — case of phone RIMOWA in pink metallic — selected by LM WEAR.",
+      "es": "Funda RIMOWA — funda de móvil RIMOWA en rosa metálico — seleccionado por LM WEAR.",
+      "fr": "Coque RIMOWA — coque de téléphone RIMOWA en rose métallique — sélectionné par LM WEAR.",
+      "de": "RIMOWA Handyhülle — Hülle von Handy RIMOWA in rosa metallisch — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14622,17 +14622,17 @@ window.LM_PRODUCTS = [
     "description": "Capa RIMOWA — Capa RIMOWA Laranja em Caixa — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa RIMOWA — Capa RIMOWA Laranja em Caixa",
-      "en": "RIMOWA Phone Case — case RIMOWA orange em Caixa",
-      "es": "Funda RIMOWA — funda RIMOWA naranja em Caixa",
-      "fr": "Coque RIMOWA — coque RIMOWA orange em Caixa",
-      "de": "RIMOWA Handyhülle — Hülle RIMOWA orange em Caixa"
+      "en": "RIMOWA Phone Case — case RIMOWA orange in Caixa",
+      "es": "Funda RIMOWA — funda RIMOWA naranja en Caixa",
+      "fr": "Coque RIMOWA — coque RIMOWA orange en Caixa",
+      "de": "RIMOWA Handyhülle — Hülle RIMOWA orange in Caixa"
     },
     "descriptions": {
       "pt": "Capa RIMOWA — Capa RIMOWA Laranja em Caixa — selecionado pela LM WEAR.",
-      "en": "RIMOWA Phone Case — case RIMOWA orange em Caixa — selected by LM WEAR.",
-      "es": "Funda RIMOWA — funda RIMOWA naranja em Caixa — seleccionado por LM WEAR.",
-      "fr": "Coque RIMOWA — coque RIMOWA orange em Caixa — sélectionné par LM WEAR.",
-      "de": "RIMOWA Handyhülle — Hülle RIMOWA orange em Caixa — ausgewählt von LM WEAR."
+      "en": "RIMOWA Phone Case — case RIMOWA orange in Caixa — selected by LM WEAR.",
+      "es": "Funda RIMOWA — funda RIMOWA naranja en Caixa — seleccionado por LM WEAR.",
+      "fr": "Coque RIMOWA — coque RIMOWA orange en Caixa — sélectionné par LM WEAR.",
+      "de": "RIMOWA Handyhülle — Hülle RIMOWA orange in Caixa — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14653,17 +14653,17 @@ window.LM_PRODUCTS = [
     "description": "Capa RIMOWA — Embalagem RIMOWA com acessório prateado — selecionado pela LM WEAR.",
     "names": {
       "pt": "Capa RIMOWA — Embalagem RIMOWA com acessório prateado",
-      "en": "RIMOWA Phone Case — Embalagem RIMOWA with acessório prateado",
-      "es": "Funda RIMOWA — Embalagem RIMOWA con acessório prateado",
-      "fr": "Coque RIMOWA — Embalagem RIMOWA avec acessório prateado",
-      "de": "RIMOWA Handyhülle — Embalagem RIMOWA mit acessório prateado"
+      "en": "RIMOWA Phone Case — packaging RIMOWA with acessório prateado",
+      "es": "Funda RIMOWA — embalaje RIMOWA con acessório prateado",
+      "fr": "Coque RIMOWA — emballage RIMOWA avec acessório prateado",
+      "de": "RIMOWA Handyhülle — Verpackung RIMOWA mit acessório prateado"
     },
     "descriptions": {
       "pt": "Capa RIMOWA — Embalagem RIMOWA com acessório prateado — selecionado pela LM WEAR.",
-      "en": "RIMOWA Phone Case — Embalagem RIMOWA with acessório prateado — selected by LM WEAR.",
-      "es": "Funda RIMOWA — Embalagem RIMOWA con acessório prateado — seleccionado por LM WEAR.",
-      "fr": "Coque RIMOWA — Embalagem RIMOWA avec acessório prateado — sélectionné par LM WEAR.",
-      "de": "RIMOWA Handyhülle — Embalagem RIMOWA mit acessório prateado — ausgewählt von LM WEAR."
+      "en": "RIMOWA Phone Case — packaging RIMOWA with acessório prateado — selected by LM WEAR.",
+      "es": "Funda RIMOWA — embalaje RIMOWA con acessório prateado — seleccionado por LM WEAR.",
+      "fr": "Coque RIMOWA — emballage RIMOWA avec acessório prateado — sélectionné par LM WEAR.",
+      "de": "RIMOWA Handyhülle — Verpackung RIMOWA mit acessório prateado — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14684,17 +14684,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Rolex — Conjunto Rolex com Datejust e acessórios — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Rolex — Conjunto Rolex com Datejust e acessórios",
-      "en": "Rolex Watch — set Rolex with Datejust e acessórios",
-      "es": "Reloj Rolex — conjunto Rolex con Datejust e acessórios",
-      "fr": "Montre Rolex — ensemble Rolex avec Datejust e acessórios",
-      "de": "Rolex Uhr — Set Rolex mit Datejust e acessórios"
+      "en": "Rolex Watch — set Rolex with Datejust and accessories",
+      "es": "Reloj Rolex — conjunto Rolex con Datejust y accesorios",
+      "fr": "Montre Rolex — ensemble Rolex avec Datejust et accessoires",
+      "de": "Rolex Uhr — Set Rolex mit Datejust und Zubehör"
     },
     "descriptions": {
       "pt": "Relógio Rolex — Conjunto Rolex com Datejust e acessórios — selecionado pela LM WEAR.",
-      "en": "Rolex Watch — set Rolex with Datejust e acessórios — selected by LM WEAR.",
-      "es": "Reloj Rolex — conjunto Rolex con Datejust e acessórios — seleccionado por LM WEAR.",
-      "fr": "Montre Rolex — ensemble Rolex avec Datejust e acessórios — sélectionné par LM WEAR.",
-      "de": "Rolex Uhr — Set Rolex mit Datejust e acessórios — ausgewählt von LM WEAR."
+      "en": "Rolex Watch — set Rolex with Datejust and accessories — selected by LM WEAR.",
+      "es": "Reloj Rolex — conjunto Rolex con Datejust y accesorios — seleccionado por LM WEAR.",
+      "fr": "Montre Rolex — ensemble Rolex avec Datejust et accessoires — sélectionné par LM WEAR.",
+      "de": "Rolex Uhr — Set Rolex mit Datejust und Zubehör — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14715,17 +14715,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Rolex — Cronógrafo Daytona em Ouro Rosa — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Rolex — Cronógrafo Daytona em Ouro Rosa",
-      "en": "Rolex Watch — Cronógrafo Daytona em Ouro pink",
-      "es": "Reloj Rolex — Cronógrafo Daytona em Ouro rosa",
-      "fr": "Montre Rolex — Cronógrafo Daytona em Ouro rose",
-      "de": "Rolex Uhr — Cronógrafo Daytona em Ouro rosa"
+      "en": "Rolex Watch — Cronógrafo Daytona in Ouro pink",
+      "es": "Reloj Rolex — Cronógrafo Daytona en Ouro rosa",
+      "fr": "Montre Rolex — Cronógrafo Daytona en Ouro rose",
+      "de": "Rolex Uhr — Cronógrafo Daytona in Ouro rosa"
     },
     "descriptions": {
       "pt": "Relógio Rolex — Cronógrafo Daytona em Ouro Rosa — selecionado pela LM WEAR.",
-      "en": "Rolex Watch — Cronógrafo Daytona em Ouro pink — selected by LM WEAR.",
-      "es": "Reloj Rolex — Cronógrafo Daytona em Ouro rosa — seleccionado por LM WEAR.",
-      "fr": "Montre Rolex — Cronógrafo Daytona em Ouro rose — sélectionné par LM WEAR.",
-      "de": "Rolex Uhr — Cronógrafo Daytona em Ouro rosa — ausgewählt von LM WEAR."
+      "en": "Rolex Watch — Cronógrafo Daytona in Ouro pink — selected by LM WEAR.",
+      "es": "Reloj Rolex — Cronógrafo Daytona en Ouro rosa — seleccionado por LM WEAR.",
+      "fr": "Montre Rolex — Cronógrafo Daytona en Ouro rose — sélectionné par LM WEAR.",
+      "de": "Rolex Uhr — Cronógrafo Daytona in Ouro rosa — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14746,17 +14746,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Rolex — Relógio GMT-Master II Batman no almofadão — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Rolex — Relógio GMT-Master II Batman no almofadão",
-      "en": "Rolex Watch — watch GMT-Master II Batman no almofadão",
-      "es": "Reloj Rolex — reloj GMT-Master II Batman no almofadão",
-      "fr": "Montre Rolex — montre GMT-Master II Batman no almofadão",
-      "de": "Rolex Uhr — Uhr GMT-Master II Batman no almofadão"
+      "en": "Rolex Watch — watch GMT-Master II Batman in the almofadão",
+      "es": "Reloj Rolex — reloj GMT-Master II Batman en el almofadão",
+      "fr": "Montre Rolex — montre GMT-Master II Batman sur le almofadão",
+      "de": "Rolex Uhr — Uhr GMT-Master II Batman am almofadão"
     },
     "descriptions": {
       "pt": "Relógio Rolex — Relógio GMT-Master II Batman no almofadão — selecionado pela LM WEAR.",
-      "en": "Rolex Watch — watch GMT-Master II Batman no almofadão — selected by LM WEAR.",
-      "es": "Reloj Rolex — reloj GMT-Master II Batman no almofadão — seleccionado por LM WEAR.",
-      "fr": "Montre Rolex — montre GMT-Master II Batman no almofadão — sélectionné par LM WEAR.",
-      "de": "Rolex Uhr — Uhr GMT-Master II Batman no almofadão — ausgewählt von LM WEAR."
+      "en": "Rolex Watch — watch GMT-Master II Batman in the almofadão — selected by LM WEAR.",
+      "es": "Reloj Rolex — reloj GMT-Master II Batman en el almofadão — seleccionado por LM WEAR.",
+      "fr": "Montre Rolex — montre GMT-Master II Batman sur le almofadão — sélectionné par LM WEAR.",
+      "de": "Rolex Uhr — Uhr GMT-Master II Batman am almofadão — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14777,17 +14777,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Rolex — Relógio Pepsi sobre almofada de couro — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Rolex — Relógio Pepsi sobre almofada de couro",
-      "en": "Rolex Watch — watch Pepsi sobre almofada de couro",
-      "es": "Reloj Rolex — reloj Pepsi sobre almofada de couro",
-      "fr": "Montre Rolex — montre Pepsi sobre almofada de couro",
-      "de": "Rolex Uhr — Uhr Pepsi sobre almofada de couro"
+      "en": "Rolex Watch — watch Pepsi on cushion of couro",
+      "es": "Reloj Rolex — reloj Pepsi sobre cojín de couro",
+      "fr": "Montre Rolex — montre Pepsi sur coussin de couro",
+      "de": "Rolex Uhr — Uhr Pepsi auf Kissen von couro"
     },
     "descriptions": {
       "pt": "Relógio Rolex — Relógio Pepsi sobre almofada de couro — selecionado pela LM WEAR.",
-      "en": "Rolex Watch — watch Pepsi sobre almofada de couro — selected by LM WEAR.",
-      "es": "Reloj Rolex — reloj Pepsi sobre almofada de couro — seleccionado por LM WEAR.",
-      "fr": "Montre Rolex — montre Pepsi sobre almofada de couro — sélectionné par LM WEAR.",
-      "de": "Rolex Uhr — Uhr Pepsi sobre almofada de couro — ausgewählt von LM WEAR."
+      "en": "Rolex Watch — watch Pepsi on cushion of couro — selected by LM WEAR.",
+      "es": "Reloj Rolex — reloj Pepsi sobre cojín de couro — seleccionado por LM WEAR.",
+      "fr": "Montre Rolex — montre Pepsi sur coussin de couro — sélectionné par LM WEAR.",
+      "de": "Rolex Uhr — Uhr Pepsi auf Kissen von couro — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14808,17 +14808,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Rolex — Relógio Submariner Verde em Almofada Creme — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Rolex — Relógio Submariner Verde em Almofada Creme",
-      "en": "Rolex Watch — watch Submariner green em Almofada cream",
-      "es": "Reloj Rolex — reloj Submariner verde em Almofada crema",
-      "fr": "Montre Rolex — montre Submariner vert em Almofada crème",
-      "de": "Rolex Uhr — Uhr Submariner grün em Almofada creme"
+      "en": "Rolex Watch — watch Submariner green in cushion cream",
+      "es": "Reloj Rolex — reloj Submariner verde en cojín crema",
+      "fr": "Montre Rolex — montre Submariner vert en coussin crème",
+      "de": "Rolex Uhr — Uhr Submariner grün in Kissen creme"
     },
     "descriptions": {
       "pt": "Relógio Rolex — Relógio Submariner Verde em Almofada Creme — selecionado pela LM WEAR.",
-      "en": "Rolex Watch — watch Submariner green em Almofada cream — selected by LM WEAR.",
-      "es": "Reloj Rolex — reloj Submariner verde em Almofada crema — seleccionado por LM WEAR.",
-      "fr": "Montre Rolex — montre Submariner vert em Almofada crème — sélectionné par LM WEAR.",
-      "de": "Rolex Uhr — Uhr Submariner grün em Almofada creme — ausgewählt von LM WEAR."
+      "en": "Rolex Watch — watch Submariner green in cushion cream — selected by LM WEAR.",
+      "es": "Reloj Rolex — reloj Submariner verde en cojín crema — seleccionado por LM WEAR.",
+      "fr": "Montre Rolex — montre Submariner vert en coussin crème — sélectionné par LM WEAR.",
+      "de": "Rolex Uhr — Uhr Submariner grün in Kissen creme — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14839,17 +14839,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio Rolex — Relógio Yacht‑Master em Destaque — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio Rolex — Relógio Yacht‑Master em Destaque",
-      "en": "Rolex Watch — watch Yacht‑Master em Destaque",
-      "es": "Reloj Rolex — reloj Yacht‑Master em Destaque",
-      "fr": "Montre Rolex — montre Yacht‑Master em Destaque",
-      "de": "Rolex Uhr — Uhr Yacht‑Master em Destaque"
+      "en": "Rolex Watch — watch Yacht‑Master featured",
+      "es": "Reloj Rolex — reloj Yacht‑Master destacado",
+      "fr": "Montre Rolex — montre Yacht‑Master en vedette",
+      "de": "Rolex Uhr — Uhr Yacht‑Master hervorgehoben"
     },
     "descriptions": {
       "pt": "Relógio Rolex — Relógio Yacht‑Master em Destaque — selecionado pela LM WEAR.",
-      "en": "Rolex Watch — watch Yacht‑Master em Destaque — selected by LM WEAR.",
-      "es": "Reloj Rolex — reloj Yacht‑Master em Destaque — seleccionado por LM WEAR.",
-      "fr": "Montre Rolex — montre Yacht‑Master em Destaque — sélectionné par LM WEAR.",
-      "de": "Rolex Uhr — Uhr Yacht‑Master em Destaque — ausgewählt von LM WEAR."
+      "en": "Rolex Watch — watch Yacht‑Master featured — selected by LM WEAR.",
+      "es": "Reloj Rolex — reloj Yacht‑Master destacado — seleccionado por LM WEAR.",
+      "fr": "Montre Rolex — montre Yacht‑Master en vedette — sélectionné par LM WEAR.",
+      "de": "Rolex Uhr — Uhr Yacht‑Master hervorgehoben — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14870,17 +14870,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio com acabamento de diamantes — Relógio de Luxo com Diamantes no Suporte Cremoso — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio com acabamento de diamantes — Relógio de Luxo com Diamantes no Suporte Cremoso",
-      "en": "Diamond-Finish Watch — watch de Luxo with Diamantes no Suporte Cremoso",
-      "es": "Reloj con acabado de diamantes — reloj de Luxo con Diamantes no Suporte Cremoso",
-      "fr": "Montre avec finition diamants — montre de Luxo avec Diamantes no Suporte Cremoso",
-      "de": "Uhr mit Diamantbesatz — Uhr de Luxo mit Diamantes no Suporte Cremoso"
+      "en": "Diamond-Finish Watch — watch luxury with Diamantes in the Suporte Cremoso",
+      "es": "Reloj con acabado de diamantes — reloj de lujo con Diamantes en el Suporte Cremoso",
+      "fr": "Montre avec finition diamants — montre de luxe avec Diamantes sur le Suporte Cremoso",
+      "de": "Uhr mit Diamantbesatz — Uhr Luxus mit Diamantes am Suporte Cremoso"
     },
     "descriptions": {
       "pt": "Relógio com acabamento de diamantes — Relógio de Luxo com Diamantes no Suporte Cremoso — selecionado pela LM WEAR.",
-      "en": "Diamond-Finish Watch — watch de Luxo with Diamantes no Suporte Cremoso — selected by LM WEAR.",
-      "es": "Reloj con acabado de diamantes — reloj de Luxo con Diamantes no Suporte Cremoso — seleccionado por LM WEAR.",
-      "fr": "Montre avec finition diamants — montre de Luxo avec Diamantes no Suporte Cremoso — sélectionné par LM WEAR.",
-      "de": "Uhr mit Diamantbesatz — Uhr de Luxo mit Diamantes no Suporte Cremoso — ausgewählt von LM WEAR."
+      "en": "Diamond-Finish Watch — watch luxury with Diamantes in the Suporte Cremoso — selected by LM WEAR.",
+      "es": "Reloj con acabado de diamantes — reloj de lujo con Diamantes en el Suporte Cremoso — seleccionado por LM WEAR.",
+      "fr": "Montre avec finition diamants — montre de luxe avec Diamantes sur le Suporte Cremoso — sélectionné par LM WEAR.",
+      "de": "Uhr mit Diamantbesatz — Uhr Luxus mit Diamantes am Suporte Cremoso — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14901,17 +14901,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio com acabamento de diamantes — Relógio de luxo sobre almofada marfim — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio com acabamento de diamantes — Relógio de luxo sobre almofada marfim",
-      "en": "Diamond-Finish Watch — watch de luxo sobre almofada marfim",
-      "es": "Reloj con acabado de diamantes — reloj de luxo sobre almofada marfim",
-      "fr": "Montre avec finition diamants — montre de luxo sobre almofada marfim",
-      "de": "Uhr mit Diamantbesatz — Uhr de luxo sobre almofada marfim"
+      "en": "Diamond-Finish Watch — watch luxury on cushion marfim",
+      "es": "Reloj con acabado de diamantes — reloj de lujo sobre cojín marfim",
+      "fr": "Montre avec finition diamants — montre de luxe sur coussin marfim",
+      "de": "Uhr mit Diamantbesatz — Uhr Luxus auf Kissen marfim"
     },
     "descriptions": {
       "pt": "Relógio com acabamento de diamantes — Relógio de luxo sobre almofada marfim — selecionado pela LM WEAR.",
-      "en": "Diamond-Finish Watch — watch de luxo sobre almofada marfim — selected by LM WEAR.",
-      "es": "Reloj con acabado de diamantes — reloj de luxo sobre almofada marfim — seleccionado por LM WEAR.",
-      "fr": "Montre avec finition diamants — montre de luxo sobre almofada marfim — sélectionné par LM WEAR.",
-      "de": "Uhr mit Diamantbesatz — Uhr de luxo sobre almofada marfim — ausgewählt von LM WEAR."
+      "en": "Diamond-Finish Watch — watch luxury on cushion marfim — selected by LM WEAR.",
+      "es": "Reloj con acabado de diamantes — reloj de lujo sobre cojín marfim — seleccionado por LM WEAR.",
+      "fr": "Montre avec finition diamants — montre de luxe sur coussin marfim — sélectionné par LM WEAR.",
+      "de": "Uhr mit Diamantbesatz — Uhr Luxus auf Kissen marfim — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14932,17 +14932,17 @@ window.LM_PRODUCTS = [
     "description": "Relógio com acabamento de diamantes — Relógio Rolex com Diamantes no Mostruário — selecionado pela LM WEAR.",
     "names": {
       "pt": "Relógio com acabamento de diamantes — Relógio Rolex com Diamantes no Mostruário",
-      "en": "Diamond-Finish Watch — watch Rolex with Diamantes no Mostruário",
-      "es": "Reloj con acabado de diamantes — reloj Rolex con Diamantes no Mostruário",
-      "fr": "Montre avec finition diamants — montre Rolex avec Diamantes no Mostruário",
-      "de": "Uhr mit Diamantbesatz — Uhr Rolex mit Diamantes no Mostruário"
+      "en": "Diamond-Finish Watch — watch Rolex with Diamantes in the Mostruário",
+      "es": "Reloj con acabado de diamantes — reloj Rolex con Diamantes en el Mostruário",
+      "fr": "Montre avec finition diamants — montre Rolex avec Diamantes sur le Mostruário",
+      "de": "Uhr mit Diamantbesatz — Uhr Rolex mit Diamantes am Mostruário"
     },
     "descriptions": {
       "pt": "Relógio com acabamento de diamantes — Relógio Rolex com Diamantes no Mostruário — selecionado pela LM WEAR.",
-      "en": "Diamond-Finish Watch — watch Rolex with Diamantes no Mostruário — selected by LM WEAR.",
-      "es": "Reloj con acabado de diamantes — reloj Rolex con Diamantes no Mostruário — seleccionado por LM WEAR.",
-      "fr": "Montre avec finition diamants — montre Rolex avec Diamantes no Mostruário — sélectionné par LM WEAR.",
-      "de": "Uhr mit Diamantbesatz — Uhr Rolex mit Diamantes no Mostruário — ausgewählt von LM WEAR."
+      "en": "Diamond-Finish Watch — watch Rolex with Diamantes in the Mostruário — selected by LM WEAR.",
+      "es": "Reloj con acabado de diamantes — reloj Rolex con Diamantes en el Mostruário — seleccionado por LM WEAR.",
+      "fr": "Montre avec finition diamants — montre Rolex avec Diamantes sur le Mostruário — sélectionné par LM WEAR.",
+      "de": "Uhr mit Diamantbesatz — Uhr Rolex mit Diamantes am Mostruário — ausgewählt von LM WEAR."
     }
   },
   {
@@ -14994,17 +14994,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Polo Ralph Lauren — Embalagem de Meias Polo Azul Royal — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Polo Ralph Lauren — Embalagem de Meias Polo Azul Royal",
-      "en": "Polo Ralph Lauren Socks — Embalagem de socks Polo blue Royal",
-      "es": "Calcetines Polo Ralph Lauren — Embalagem de calcetines Polo azul Royal",
-      "fr": "Chaussettes Polo Ralph Lauren — Embalagem de chaussettes Polo bleu Royal",
-      "de": "Polo Ralph Lauren Socken — Embalagem de Socken Polo blau Royal"
+      "en": "Polo Ralph Lauren Socks — packaging of socks Polo blue Royal",
+      "es": "Calcetines Polo Ralph Lauren — embalaje de calcetines Polo azul Royal",
+      "fr": "Chaussettes Polo Ralph Lauren — emballage de chaussettes Polo bleu Royal",
+      "de": "Polo Ralph Lauren Socken — Verpackung von Socken Polo blau Royal"
     },
     "descriptions": {
       "pt": "Meias Polo Ralph Lauren — Embalagem de Meias Polo Azul Royal — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Socks — Embalagem de socks Polo blue Royal — selected by LM WEAR.",
-      "es": "Calcetines Polo Ralph Lauren — Embalagem de calcetines Polo azul Royal — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Polo Ralph Lauren — Embalagem de chaussettes Polo bleu Royal — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Socken — Embalagem de Socken Polo blau Royal — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Socks — packaging of socks Polo blue Royal — selected by LM WEAR.",
+      "es": "Calcetines Polo Ralph Lauren — embalaje de calcetines Polo azul Royal — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Polo Ralph Lauren — emballage de chaussettes Polo bleu Royal — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Socken — Verpackung von Socken Polo blau Royal — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15056,17 +15056,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Clássicas em Preto — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Clássicas em Preto",
-      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren Clássicas em black",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren Clássicas em negro",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren Clássicas em noir",
-      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren Clássicas em schwarz"
+      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren Clássicas in black",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren Clássicas en negro",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren Clássicas en noir",
+      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren Clássicas in schwarz"
     },
     "descriptions": {
       "pt": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Clássicas em Preto — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren Clássicas em black — selected by LM WEAR.",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren Clássicas em negro — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren Clássicas em noir — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren Clássicas em schwarz — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren Clássicas in black — selected by LM WEAR.",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren Clássicas en negro — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren Clássicas en noir — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren Clássicas in schwarz — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15087,17 +15087,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren com Faixa Azul — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren com Faixa Azul",
-      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren with Faixa blue",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren con Faixa azul",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren avec Faixa bleu",
-      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren mit Faixa blau"
+      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren with stripe blue",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren con franja azul",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren avec bande bleu",
+      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren mit Streifen blau"
     },
     "descriptions": {
       "pt": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren com Faixa Azul — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren with Faixa blue — selected by LM WEAR.",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren con Faixa azul — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren avec Faixa bleu — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren mit Faixa blau — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren with stripe blue — selected by LM WEAR.",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren con franja azul — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren avec bande bleu — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren mit Streifen blau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15118,17 +15118,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Cor-de-Rosa Pastel — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Cor-de-Rosa Pastel",
-      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren Cor-de-pink Pastel",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren Cor-de-rosa Pastel",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren Cor-de-rose Pastel",
-      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren Cor-de-rosa Pastel"
+      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren pink pastel",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren rosa Pastel",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren rose Pastel",
+      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren rosa Pastel"
     },
     "descriptions": {
       "pt": "Meias Polo Ralph Lauren — Meias Polo Ralph Lauren Cor-de-Rosa Pastel — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren Cor-de-pink Pastel — selected by LM WEAR.",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren Cor-de-rosa Pastel — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren Cor-de-rose Pastel — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren Cor-de-rosa Pastel — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Socks — socks Polo Ralph Lauren pink pastel — selected by LM WEAR.",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Polo Ralph Lauren rosa Pastel — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Polo Ralph Lauren rose Pastel — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Socken — Socken Polo Ralph Lauren rosa Pastel — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15149,17 +15149,17 @@ window.LM_PRODUCTS = [
     "description": "Meias Polo Ralph Lauren — Meias Ralph Lauren Cinzentas com Faixa Azul-marinho — selecionado pela LM WEAR.",
     "names": {
       "pt": "Meias Polo Ralph Lauren — Meias Ralph Lauren Cinzentas com Faixa Azul-marinho",
-      "en": "Polo Ralph Lauren Socks — socks Ralph Lauren greys with Faixa navy blue",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Ralph Lauren griss con Faixa azul marino",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Ralph Lauren grises avec Faixa bleu marine",
-      "de": "Polo Ralph Lauren Socken — Socken Ralph Lauren graus mit Faixa marineblau"
+      "en": "Polo Ralph Lauren Socks — socks Ralph Lauren Cinzentas with stripe navy blue",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Ralph Lauren Cinzentas con franja azul marino",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Ralph Lauren Cinzentas avec bande bleu marine",
+      "de": "Polo Ralph Lauren Socken — Socken Ralph Lauren Cinzentas mit Streifen marineblau"
     },
     "descriptions": {
       "pt": "Meias Polo Ralph Lauren — Meias Ralph Lauren Cinzentas com Faixa Azul-marinho — selecionado pela LM WEAR.",
-      "en": "Polo Ralph Lauren Socks — socks Ralph Lauren greys with Faixa navy blue — selected by LM WEAR.",
-      "es": "Calcetines Polo Ralph Lauren — calcetines Ralph Lauren griss con Faixa azul marino — seleccionado por LM WEAR.",
-      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Ralph Lauren grises avec Faixa bleu marine — sélectionné par LM WEAR.",
-      "de": "Polo Ralph Lauren Socken — Socken Ralph Lauren graus mit Faixa marineblau — ausgewählt von LM WEAR."
+      "en": "Polo Ralph Lauren Socks — socks Ralph Lauren Cinzentas with stripe navy blue — selected by LM WEAR.",
+      "es": "Calcetines Polo Ralph Lauren — calcetines Ralph Lauren Cinzentas con franja azul marino — seleccionado por LM WEAR.",
+      "fr": "Chaussettes Polo Ralph Lauren — chaussettes Ralph Lauren Cinzentas avec bande bleu marine — sélectionné par LM WEAR.",
+      "de": "Polo Ralph Lauren Socken — Socken Ralph Lauren Cinzentas mit Streifen marineblau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15185,17 +15185,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Trapstar — Conjunto de fato de treino Trapstar cinzento — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Trapstar — Conjunto de fato de treino Trapstar cinzento",
-      "en": "Trapstar Tracksuit — set de fato de treino Trapstar grey",
-      "es": "Conjunto Trapstar — conjunto de fato de treino Trapstar gris",
-      "fr": "Ensemble Trapstar — ensemble de fato de treino Trapstar gris",
-      "de": "Trapstar Trainingsanzug — Set de fato de treino Trapstar grau"
+      "en": "Trapstar Tracksuit — set of tracksuit Trapstar grey",
+      "es": "Conjunto Trapstar — conjunto de chándal Trapstar gris",
+      "fr": "Ensemble Trapstar — ensemble de survêtement Trapstar gris",
+      "de": "Trapstar Trainingsanzug — Set von Trainingsanzug Trapstar grau"
     },
     "descriptions": {
       "pt": "Conjunto Trapstar — Conjunto de fato de treino Trapstar cinzento — selecionado pela LM WEAR.",
-      "en": "Trapstar Tracksuit — set de fato de treino Trapstar grey — selected by LM WEAR.",
-      "es": "Conjunto Trapstar — conjunto de fato de treino Trapstar gris — seleccionado por LM WEAR.",
-      "fr": "Ensemble Trapstar — ensemble de fato de treino Trapstar gris — sélectionné par LM WEAR.",
-      "de": "Trapstar Trainingsanzug — Set de fato de treino Trapstar grau — ausgewählt von LM WEAR."
+      "en": "Trapstar Tracksuit — set of tracksuit Trapstar grey — selected by LM WEAR.",
+      "es": "Conjunto Trapstar — conjunto de chándal Trapstar gris — seleccionado por LM WEAR.",
+      "fr": "Ensemble Trapstar — ensemble de survêtement Trapstar gris — sélectionné par LM WEAR.",
+      "de": "Trapstar Trainingsanzug — Set von Trainingsanzug Trapstar grau — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15221,17 +15221,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto Trapstar — Conjunto de fato de treino Trapstar preto — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto Trapstar — Conjunto de fato de treino Trapstar preto",
-      "en": "Trapstar Tracksuit — set de fato de treino Trapstar black",
-      "es": "Conjunto Trapstar — conjunto de fato de treino Trapstar negro",
-      "fr": "Ensemble Trapstar — ensemble de fato de treino Trapstar noir",
-      "de": "Trapstar Trainingsanzug — Set de fato de treino Trapstar schwarz"
+      "en": "Trapstar Tracksuit — set of tracksuit Trapstar black",
+      "es": "Conjunto Trapstar — conjunto de chándal Trapstar negro",
+      "fr": "Ensemble Trapstar — ensemble de survêtement Trapstar noir",
+      "de": "Trapstar Trainingsanzug — Set von Trainingsanzug Trapstar schwarz"
     },
     "descriptions": {
       "pt": "Conjunto Trapstar — Conjunto de fato de treino Trapstar preto — selecionado pela LM WEAR.",
-      "en": "Trapstar Tracksuit — set de fato de treino Trapstar black — selected by LM WEAR.",
-      "es": "Conjunto Trapstar — conjunto de fato de treino Trapstar negro — seleccionado por LM WEAR.",
-      "fr": "Ensemble Trapstar — ensemble de fato de treino Trapstar noir — sélectionné par LM WEAR.",
-      "de": "Trapstar Trainingsanzug — Set de fato de treino Trapstar schwarz — ausgewählt von LM WEAR."
+      "en": "Trapstar Tracksuit — set of tracksuit Trapstar black — selected by LM WEAR.",
+      "es": "Conjunto Trapstar — conjunto de chándal Trapstar negro — seleccionado por LM WEAR.",
+      "fr": "Ensemble Trapstar — ensemble de survêtement Trapstar noir — sélectionné par LM WEAR.",
+      "de": "Trapstar Trainingsanzug — Set von Trainingsanzug Trapstar schwarz — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15257,17 +15257,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto de dormir Victoria’s Secret — Conjunto de dormir preto Victoria’s Secret — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto de dormir Victoria’s Secret — Conjunto de dormir preto Victoria’s Secret",
-      "en": "Victoria’s Secret Sleepwear Set — set de dormir black Victoria’s Secret",
+      "en": "Victoria’s Secret Sleepwear Set — set sleepwear black Victoria’s Secret",
       "es": "Conjunto de dormir Victoria’s Secret — conjunto de dormir negro Victoria’s Secret",
-      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de dormir noir Victoria’s Secret",
-      "de": "Victoria’s Secret Schlafanzug-Set — Set de dormir schwarz Victoria’s Secret"
+      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de nuit noir Victoria’s Secret",
+      "de": "Victoria’s Secret Schlafanzug-Set — Set Schlaf schwarz Victoria’s Secret"
     },
     "descriptions": {
       "pt": "Conjunto de dormir Victoria’s Secret — Conjunto de dormir preto Victoria’s Secret — selecionado pela LM WEAR.",
-      "en": "Victoria’s Secret Sleepwear Set — set de dormir black Victoria’s Secret — selected by LM WEAR.",
+      "en": "Victoria’s Secret Sleepwear Set — set sleepwear black Victoria’s Secret — selected by LM WEAR.",
       "es": "Conjunto de dormir Victoria’s Secret — conjunto de dormir negro Victoria’s Secret — seleccionado por LM WEAR.",
-      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de dormir noir Victoria’s Secret — sélectionné par LM WEAR.",
-      "de": "Victoria’s Secret Schlafanzug-Set — Set de dormir schwarz Victoria’s Secret — ausgewählt von LM WEAR."
+      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de nuit noir Victoria’s Secret — sélectionné par LM WEAR.",
+      "de": "Victoria’s Secret Schlafanzug-Set — Set Schlaf schwarz Victoria’s Secret — ausgewählt von LM WEAR."
     }
   },
   {
@@ -15293,17 +15293,17 @@ window.LM_PRODUCTS = [
     "description": "Conjunto de dormir Victoria’s Secret — Conjunto de pijama rosa Victoria’s Secret — selecionado pela LM WEAR.",
     "names": {
       "pt": "Conjunto de dormir Victoria’s Secret — Conjunto de pijama rosa Victoria’s Secret",
-      "en": "Victoria’s Secret Sleepwear Set — set de pijama pink Victoria’s Secret",
+      "en": "Victoria’s Secret Sleepwear Set — set of pyjamas pink Victoria’s Secret",
       "es": "Conjunto de dormir Victoria’s Secret — conjunto de pijama rosa Victoria’s Secret",
-      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de pijama rose Victoria’s Secret",
-      "de": "Victoria’s Secret Schlafanzug-Set — Set de pijama rosa Victoria’s Secret"
+      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de pyjama rose Victoria’s Secret",
+      "de": "Victoria’s Secret Schlafanzug-Set — Set von Pyjama rosa Victoria’s Secret"
     },
     "descriptions": {
       "pt": "Conjunto de dormir Victoria’s Secret — Conjunto de pijama rosa Victoria’s Secret — selecionado pela LM WEAR.",
-      "en": "Victoria’s Secret Sleepwear Set — set de pijama pink Victoria’s Secret — selected by LM WEAR.",
+      "en": "Victoria’s Secret Sleepwear Set — set of pyjamas pink Victoria’s Secret — selected by LM WEAR.",
       "es": "Conjunto de dormir Victoria’s Secret — conjunto de pijama rosa Victoria’s Secret — seleccionado por LM WEAR.",
-      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de pijama rose Victoria’s Secret — sélectionné par LM WEAR.",
-      "de": "Victoria’s Secret Schlafanzug-Set — Set de pijama rosa Victoria’s Secret — ausgewählt von LM WEAR."
+      "fr": "Ensemble de nuit Victoria’s Secret — ensemble de pyjama rose Victoria’s Secret — sélectionné par LM WEAR.",
+      "de": "Victoria’s Secret Schlafanzug-Set — Set von Pyjama rosa Victoria’s Secret — ausgewählt von LM WEAR."
     }
   }
 ];
