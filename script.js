@@ -23,7 +23,9 @@ const checkout=$("#whatsappCheckout");
 if(checkout)checkout.onclick=()=>{
  if(!cart.length){alert(lang==="pt"?"O teu saco está vazio.":"Your bag is empty.");return}
  const lines=cart.map((item,i)=>{const p=products.find(x=>x.id===item.id);return p?(`${i+1}. ${pname(p)} — ${item.variant} — ${p.price==null?"Preço a confirmar":fmt(p.price)}`):""}).filter(Boolean);
- const total=cart.reduce((sum,item)=>sum+(products.find(p=>p.id===item.id)?.price||0),0);
- const message=(lang==="pt"?"Olá! Gostaria de confirmar esta encomenda na LM WEAR:\n":"Hello! I would like to confirm this LM WEAR order:\n")+lines.join("\n")+"\n\n"+(lang==="pt"?"Subtotal estimado: ":"Estimated subtotal: ")+fmt(total)+"\n"+(lang==="pt"?"Podem confirmar disponibilidade, portes e pagamento?":"Can you confirm availability, shipping and payment?");
+ const hasUnpriced=cart.some(item=>products.find(p=>p.id===item.id)?.price==null);
+ const total=cart.reduce((sum,item)=>sum+(products.find(p=>p.id===item.id)?.price??0),0);
+ const subtotalLabel=hasUnpriced?(lang==="pt"?"Subtotal parcial (artigos por confirmar excluídos): ":"Partial subtotal (items awaiting price excluded): "):(lang==="pt"?"Subtotal estimado: ":"Estimated subtotal: ");
+ const message=(lang==="pt"?"Olá! Gostaria de confirmar esta encomenda na LM WEAR:\n":"Hello! I would like to confirm this LM WEAR order:\n")+lines.join("\n")+"\n\n"+subtotalLabel+fmt(total)+"\n"+(lang==="pt"?"Podem confirmar os preços em falta, disponibilidade, portes e pagamento?":"Can you confirm missing prices, availability, shipping and payment?");
  window.open("https://wa.me/351938036917?text="+encodeURIComponent(message),"_blank","noopener");
 };
