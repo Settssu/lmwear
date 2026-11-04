@@ -1,22 +1,12 @@
-LM WEAR — CORREÇÃO DA LIGAÇÃO SUPABASE E DAS IMAGENS
+LM WEAR — CORREÇÃO DAS IMAGENS LEGO E FOTOGRAFIAS EM FALTA
 
-Este pacote contém os 3 ficheiros completos para colocar na raiz do repositório GitHub Settssu/lmwear:
+Este ZIP contém os ficheiros completos para substituir na raiz do GitHub:
 - index.html
 - script.js
 - supabase-config.js
 
-O que foi corrigido:
-1. URL do projeto Supabase atualizado para https://jwuteagmffdtmiyliibz.supabase.co
-2. Imagens normalizadas para serem carregadas da raiz do site (por exemplo, /p063.jpg), tanto no catálogo Supabase como no catálogo local de reserva.
-3. Mantém a publishable key já usada no projeto. Não inclui nem necessita de Secret key/service_role.
+Correção: as imagens normais p001.jpg–p200.jpg são servidas a partir da raiz (/p001.jpg). As imagens especiais LEGO lm098.jpg, lm099.jpg, lm100.jpg, lm101.jpg, lm103.jpg, lm104.jpg e lm105.jpg são servidas a partir de /assets/. O código agora encaminha cada grupo para o caminho correto, tanto no catálogo Supabase como no catálogo de reserva.
 
-COMO PUBLICAR:
-1. Extrai o ZIP no computador.
-2. No GitHub, abre o repositório Settssu/lmwear.
-3. Envia os três ficheiros para a raiz do repositório, escolhendo substituir os ficheiros existentes quando solicitado.
-4. Faz Commit changes.
-5. Aguarda que a Vercel termine o deployment e abre https://lmwear.vercel.app com Ctrl+F5.
+Não substituas products.js nem apagues a pasta assets. Mantém a publishable key já configurada. Não coloques secret/service_role keys no site.
 
-Não substituas products.js nem apagues as fotografias.
-
-Esta correção trata apenas da leitura do catálogo e das imagens. Não ativa checkout, pagamentos nem criação de encomendas.
+PUBLICAÇÃO: extrai o ZIP, envia os três ficheiros para a raiz do repositório Settssu/lmwear, substitui os existentes e faz Commit changes. Aguarda o deployment da Vercel e testa com Ctrl+F5.

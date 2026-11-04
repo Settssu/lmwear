@@ -5,7 +5,12 @@ const normalizeImagePath=value=>{
   if(!value) return "";
   const path=String(value).trim();
   if(/^https?:\/\//i.test(path) || path.startsWith("data:")) return path;
-  return "/"+path.replace(/^\/+/,"").replace(/^assets\//i,"");
+  const clean=path.replace(/^\/+/ ,"");
+  const filename=clean.split("/").pop();
+  // As imagens p001.jpg–p200.jpg estão na raiz publicada do site.
+  // As imagens especiais lm098.jpg–lm105.jpg continuam dentro de /assets/.
+  if(/^lm\d+\.(jpg|jpeg|png|webp)$/i.test(filename)) return "/assets/"+filename;
+  return "/"+filename;
 };
 const fallbackProducts=(window.LM_PRODUCTS||[]).map(p=>({...p,image:normalizeImagePath(p.image)}));
 let products=fallbackProducts;
