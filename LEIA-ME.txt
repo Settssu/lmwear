@@ -1,12 +1,19 @@
-LM WEAR — CORREÇÃO DAS IMAGENS LEGO E FOTOGRAFIAS EM FALTA
+LM WEAR — CORREÇÃO FINAL DE IMAGENS
 
-Este ZIP contém os ficheiros completos para substituir na raiz do GitHub:
+Este pacote corrige a normalização dos caminhos das fotografias.
+No repositório atual, os ficheiros de imagem estão publicados na raiz do site
+(p001.jpg, p002.jpg, lm098.jpg, etc.), e não dentro de /assets/.
+
+SUBSTITUIR NA RAIZ DO GITHUB:
 - index.html
 - script.js
 - supabase-config.js
 
-Correção: as imagens normais p001.jpg–p200.jpg são servidas a partir da raiz (/p001.jpg). As imagens especiais LEGO lm098.jpg, lm099.jpg, lm100.jpg, lm101.jpg, lm103.jpg, lm104.jpg e lm105.jpg são servidas a partir de /assets/. O código agora encaminha cada grupo para o caminho correto, tanto no catálogo Supabase como no catálogo de reserva.
+Não apagar products.js nem quaisquer imagens.
+A configuração Supabase incluída usa o Project URL que enviaste.
+Depois de Commit changes, aguardar o deployment da Vercel e testar com Ctrl+F5.
 
-Não substituas products.js nem apagues a pasta assets. Mantém a publishable key já configurada. Não coloques secret/service_role keys no site.
-
-PUBLICAÇÃO: extrai o ZIP, envia os três ficheiros para a raiz do repositório Settssu/lmwear, substitui os existentes e faz Commit changes. Aguarda o deployment da Vercel e testa com Ctrl+F5.
+Nota sobre LEGO: o catálogo original contém 8 artigos LEGO Technic.
+A fotografia do artigo lm102 usa atualmente p102.jpg no catálogo; os outros
+artigos especiais usam lm098.jpg, lm099.jpg, lm100.jpg, lm101.jpg, lm103.jpg,
+lm104.jpg e lm105.jpg.

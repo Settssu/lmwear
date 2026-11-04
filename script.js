@@ -5,12 +5,12 @@ const normalizeImagePath=value=>{
   if(!value) return "";
   const path=String(value).trim();
   if(/^https?:\/\//i.test(path) || path.startsWith("data:")) return path;
-  const clean=path.replace(/^\/+/ ,"");
+  // O GitHub/Vercel deste projeto publica as fotografias na raiz:
+  // /p001.jpg, /p002.jpg, /lm098.jpg, etc. A Supabase pode guardar
+  // o caminho antigo com "assets/", por isso usamos apenas o nome do ficheiro.
+  const clean=path.split("?")[0].split("#")[0].replace(/^\/+/,"");
   const filename=clean.split("/").pop();
-  // As imagens p001.jpg–p200.jpg estão na raiz publicada do site.
-  // As imagens especiais lm098.jpg–lm105.jpg continuam dentro de /assets/.
-  if(/^lm\d+\.(jpg|jpeg|png|webp)$/i.test(filename)) return "/assets/"+filename;
-  return "/"+filename;
+  return filename ? "/"+filename : "";
 };
 const fallbackProducts=(window.LM_PRODUCTS||[]).map(p=>({...p,image:normalizeImagePath(p.image)}));
 let products=fallbackProducts;
