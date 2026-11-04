@@ -19,3 +19,11 @@ function saveWish(){localStorage.setItem("lmw_wish",JSON.stringify(wishes));$("#
 function openCart(){$("#cart").classList.add("open");$("#shade").classList.add("show")}function closeAll(){$("#productModal").classList.remove("open");$("#shade").classList.remove("show")}
 $("#cartBtn").onclick=openCart;$("#closeCart").onclick=()=>{$("#cart").classList.remove("open");$("#shade").classList.remove("show")};$("#shade").onclick=()=>{$("#cart").classList.remove("open");closeAll();$("#wishlist").classList.remove("open")};$("#wishBtn").onclick=()=>{$("#wishlist").classList.add("open");$("#shade").classList.add("show")};$("#closeWish").onclick=()=>{$("#wishlist").classList.remove("open");$("#shade").classList.remove("show")};document.querySelectorAll("[data-close]").forEach(b=>b.onclick=closeAll);
 ["#search","#category","#size","#sort"].forEach(s=>$(s).addEventListener(s==="#search"?"input":"change",render));$("#currency").onchange=e=>{currency=e.target.value;render();drawCart()};$("#lang").onchange=e=>{lang=e.target.value;translate()};$("#searchBtn").onclick=()=>{$("#searchPanel").classList.remove("hidden");$("#search2").focus()};$("#closeSearch").onclick=()=>$("#searchPanel").classList.add("hidden");$("#search2").oninput=e=>{$("#search").value=e.target.value;render();$("#shop").scrollIntoView()};render();save();saveWish();translate();
+const checkout=$("#whatsappCheckout");
+if(checkout)checkout.onclick=()=>{
+ if(!cart.length){alert(lang==="pt"?"O teu saco está vazio.":"Your bag is empty.");return}
+ const lines=cart.map((item,i)=>{const p=products.find(x=>x.id===item.id);return p?(`${i+1}. ${pname(p)} — ${item.variant} — ${p.price==null?"Preço a confirmar":fmt(p.price)}`):""}).filter(Boolean);
+ const total=cart.reduce((sum,item)=>sum+(products.find(p=>p.id===item.id)?.price||0),0);
+ const message=(lang==="pt"?"Olá! Gostaria de confirmar esta encomenda na LM WEAR:\n":"Hello! I would like to confirm this LM WEAR order:\n")+lines.join("\n")+"\n\n"+(lang==="pt"?"Subtotal estimado: ":"Estimated subtotal: ")+fmt(total)+"\n"+(lang==="pt"?"Podem confirmar disponibilidade, portes e pagamento?":"Can you confirm availability, shipping and payment?");
+ window.open("https://wa.me/351938036917?text="+encodeURIComponent(message),"_blank","noopener");
+};
