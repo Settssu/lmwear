@@ -2,7 +2,7 @@ LM WEAR — NOVA VERSÃO / PREPARAÇÃO PARA PUBLICAÇÃO
 
 O QUE FOI MELHORADO
 - Mantido o catálogo e os ativos de produto da versão anterior.
-- Mensagem comercial alinhada: portes gratuitos para o cliente e entrega estimada de 2–3 semanas.
+- Condições de envio corrigidas: 6,99 € para 1 artigo abaixo de 50 €; 3,99 € para 1 artigo acima de 50 €; 6,99 € no total para 2 ou mais artigos. Valor para encomenda de exatamente 50 € pendente de confirmação. Entrega estimada de 2–3 semanas.
 - Informação de apoio, FAQ e contacto mais claros.
 - Metadados SEO e Open Graph, favicon e robots.txt. O sitemap e o canonical devem ser configurados depois de conhecer o URL final atribuído pela Vercel.
 - Cabeçalhos básicos de segurança e cache via vercel.json.
@@ -16,7 +16,7 @@ ANTES DE SUBMETER À REVOLUT OU ABRIR VENDAS
 3. Completar identificação legal do vendedor, NIF, morada profissional e restantes dados obrigatórios. Não inventar nem publicar dados fictícios.
 4. Rever termos, privacidade/RGPD, devoluções, garantia, resolução alternativa de litígios e informação pré-contratual com base na situação real do negócio.
 5. Confirmar com fornecedores, por escrito, preços, disponibilidade, qualidade, prazos, destinos, devoluções e tratamento de dados/moradas dos clientes.
-6. Confirmar que os portes são realmente suportados pelo vendedor em todos os destinos anunciados; confirmar alfândegas e eventuais encargos antes de prometer entregas universais.
+6. Configurar e testar as tarifas de envio: 6,99 € para 1 artigo abaixo de 50 €; 3,99 € para 1 artigo acima de 50 €; 6,99 € no total para 2 ou mais artigos. Confirmar a tarifa para exatamente 50 €, destinos elegíveis, alfândegas e eventuais encargos antes de abrir vendas.
 7. Confirmar regime fiscal, faturação e obrigações legais antes de aceitar vendas.
 8. Só depois implementar checkout real, pagamentos, notificações de pagamento, backend, autenticação de administração, stock/reservas e emails.
 
